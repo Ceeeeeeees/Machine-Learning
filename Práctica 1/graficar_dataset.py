@@ -17,7 +17,7 @@ class Graficador_Dataset:
         """
         self.data_manager = Data_Manager(self.dataset_name)
         dataset = self.data_manager.cargar_dataset()
-        fig, ax = plt.subplots()
+        fig, ax = plt.subplots(figsize=(10, 8))  # Aumentar el tamaño de la figura
         
         if self.dataset_name.lower() == 'iris':
             # Personalizar los colores de las clases para el dataset de Iris
@@ -31,17 +31,20 @@ class Graficador_Dataset:
             
         else:
             scatter = ax.scatter(dataset.data[:, 0], dataset.data[:, 1], c=dataset.target)
+            ax.set_xlabel(dataset.feature_names[0], fontsize=12)  # Establecer etiqueta del eje x con tamaño de fuente
+            ax.set_ylabel(dataset.feature_names[1], fontsize=12)  # Establecer etiqueta del eje y con tamaño de fuente
             
             if hasattr(dataset, 'target_names'):
-                ax.set(xlabel=dataset.feature_names[0], ylabel=dataset.feature_names[1])
                 legend_elements = ax.legend(*scatter.legend_elements(), loc="lower right", title="Clases").legendHandles
                 _ = ax.legend(legend_elements, dataset.target_names, loc="lower right", title="Clases")
             else:
                 print("No se encontraron nombres de clases")
-                ax.set(xlabel=dataset.feature_names[0], ylabel=dataset.feature_names[1])
                 _ = ax.legend(*scatter.legend_elements(), loc="lower right", title="Clases")
         
+        ax.set_xlabel(dataset.feature_names[0], fontsize=12)  # Establecer etiqueta del eje x con tamaño de fuente
+        ax.set_ylabel(dataset.feature_names[1], fontsize=12)  # Establecer etiqueta del eje y con tamaño de fuente
         plt.show()
+
 
 
     def graficar_PCA (self):

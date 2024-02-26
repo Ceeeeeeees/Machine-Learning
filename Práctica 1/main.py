@@ -1,54 +1,63 @@
+# Importar las clases necesarias
 from dataset import Data_Manager
 from graficar_dataset import Graficador_Dataset
 
-print("Indica el dataset que quieras obtener: ")
-print("1. Cancer")
-print("2. Iris")
-print("3. Diabetes")
-print("4. Wine - Vinos")
+# Bucle principal
+while True:
+    # Imprimir las opciones disponibles
+    print("Indica el dataset que quieras obtener: ")
+    print("1. Cancer")
+    print("2. Iris")
+    print("3. Diabetes")
+    print("4. Wine - Vinos")
 
-input = input("Introduce el número del dataset: ")
+    # Pedir al usuario que introduzca su elección
+    opcion = input("Introduce el número del dataset (o 'q' para salir): ")
 
-if input == "1":
-    #Cargar y entender el dataset
-    dataset = Data_Manager('cancer')
-    dataset.cargar_dataset()
-    print(dataset.entender_datos())
-    print(dataset.caracteristicas_datos())
+    # Salir del bucle si el usuario ingresa 'q'
+    if opcion.lower() == 'q':
+        break
 
-    # Graficar el dataset
-
-    graficador = Graficador_Dataset ('cancer')
-    graficador.graficar_dataset()
-    graficador.graficar_PCA()
-elif input == "2":
-    dataset = Data_Manager('iris')
-    dataset.cargar_dataset()
-    print(dataset.entender_datos())
-    print(dataset.caracteristicas_datos())
-
-
-    graficador = Graficador_Dataset ('iris')
-    graficador.graficar_dataset()
-    graficador.graficar_PCA()
-elif input == "3":
-    dataset = Data_Manager('diabetes')
-    dataset.cargar_dataset()
-    print(dataset.entender_datos())
-    print(dataset.caracteristicas_datos())
-
-    graficador = Graficador_Dataset ('diabetes')
-    graficador.graficar_dataset()
-    graficador.graficar_PCA()
-elif input == "4":
-    dataset = Data_Manager('wine')
-    dataset.cargar_dataset()
-    print(dataset.entender_datos())
-    print(dataset.caracteristicas_datos())
-
+    # Realizar la acción correspondiente a la opción seleccionada
+    elif opcion == "1":
+        dataset = Data_Manager('cancer')
+    elif opcion == "2":
+        dataset = Data_Manager('iris')
+    elif opcion == "3":
+        dataset = Data_Manager('diabetes')
+    elif opcion == "4":
+        dataset = Data_Manager('wine')
+    else:
+        print("Opción inválida. Por favor, selecciona una opción válida.")
+        continue  # Regresar al inicio del bucle si la opción no es válida
+    """
+    Cargar y entender el dataset 
+    Cuando utilizas la función cargar_dataset() de la clase Data_Manager se carga un conjunto de datos, puedes imprimir lo que devuelve esta función para visualizar los datos cargados.
+    Esto se puede hacer con la siguiente línea de código:
+    print(dataset.cargar_dataset())
+    """
+    #dataset.cargar_dataset()
+    print(dataset.cargar_dataset())
     
-    graficador = Graficador_Dataset ('wine')
-    graficador.graficar_dataset()
-    graficador.graficar_PCA()
-else:
-    print("El dataset no es válido")
+    print(dataset.entender_datos())
+    print(dataset.caracteristicas_datos())
+
+    respuesta = input("¿Quieres graficar el dataset? (s/n): ")
+    if respuesta.lower() == 's':
+        
+    # Graficar el dataset
+        if opcion == "1":
+            graficador = Graficador_Dataset('cancer')
+        elif opcion == "2":
+            graficador = Graficador_Dataset('iris')
+        elif opcion == "3":
+            graficador = Graficador_Dataset('diabetes')
+        elif opcion == "4":
+            graficador = Graficador_Dataset('wine')
+
+        graficador.graficar_dataset()
+        graficador.graficar_PCA()
+    else:
+        print("No se graficará el dataset.")
+# Mensaje al final del programa
+print("Fin del programa.")
