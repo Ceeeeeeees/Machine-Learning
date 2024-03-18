@@ -27,7 +27,9 @@ class MachineLearn:
         Returns:
             doc (stanza.Document): El documento procesado con los tokens generados.
         """
-        nlp = stanza.Pipeline(lang='es', processors='tokenize,mwt,pos,lemma') 
+        
+
+        nlp = stanza.Pipeline(lang='es', processors='tokenize,mwt,pos,lemma', download_method=None) 
         with open(archivo, 'r', encoding='utf-8') as file:
             texto = file.read()
             doc = nlp(texto) # Se procesa el texto y se generan los tokens
