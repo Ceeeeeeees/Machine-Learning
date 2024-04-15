@@ -67,8 +67,6 @@ while True:
     #Parte del clasificador
         
     clasificador_dataset = Clasificador(dataset)
-    clasificador_dataset.dividir_conjunto(0.2)
-
     #Obtener los 4 conjuntos; X_train, X_test, y_train, y_test
     #print(clasificador_dataset.dividir_conjunto(0.2))
     X_train, X_test, y_train, y_test = clasificador_dataset.dividir_conjunto(0.30)
