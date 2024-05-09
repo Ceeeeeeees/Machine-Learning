@@ -7,8 +7,7 @@ id:	5	Palabra:	chupa				lema:chupa
 id:	6	Palabra:	dedo				lema:dedo
 id:	7	Palabra:	pegue				lema:pegar
 id:	8	Palabra:	billete				lema:billete
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
 === 			 Tweet 2 tokens			===
 id:	1	Palabra:	personas				lema:persona
@@ -22,54 +21,38 @@ id:	8	Palabra:	lavadas				lema:lavado
 id:	9	Palabra:	mintiendo				lema:mentir
 id:	10	Palabra:	se				lema:él
 id:	11	Palabra:	mismos				lema:mismo
-id:	12	Palabra:	jaj				lema:jaj
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	#caradura				lema:#caradura
-id:	15	Palabra:	.				lema:.
+id:	12	Palabra:	jaj.				lema:jaj.
+id:	13	Palabra:	mujeres				lema:mujer
+id:	14	Palabra:	puercas				lema:puerco
+id:	15	Palabra:	lavan				lema:lavar
+id:	16	Palabra:	manos				lema:mano
+id:	17	Palabra:	después				lema:después
+id:	18	Palabra:	ir				lema:ir
+id:	19	Palabra:	baño				lema:baño
+id:	20	Palabra:	.				lema:.
 
 === 			 Tweet 3 tokens			===
-id:	1	Palabra:	mujeres				lema:mujer
-id:	2	Palabra:	puercas				lema:puerco
-id:	3	Palabra:	lavan				lema:lavar
-id:	4	Palabra:	manos				lema:mano
-id:	5	Palabra:	después				lema:después
-id:	6	Palabra:	ir				lema:ir
-id:	7	Palabra:	baño				lema:baño
-id:	8	Palabra:	#mueran				lema:#mueran
-id:	9	Palabra:	#niquefueranhombres				lema:#niquefueranhombres
-id:	10	Palabra:	#nommen				lema:#nommen
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
-
-=== 			 Tweet 4 tokens			===
 id:	1	Palabra:	puedo				lema:poder
 id:	2	Palabra:	comer				lema:comer
 id:	3	Palabra:	ver				lema:ver
-id:	4	Palabra:	#honey				lema:#honey
-id:	5	Palabra:	boo				lema:boo
-id:	6	Palabra:	boo				lema:boo
-id:	7	Palabra:	_nombre				lema:_nombre
-id:	8	Palabra:	persona				lema:persona
-id:	9	Palabra:	mismo				lema:mismo
-id:	10	Palabra:	tiempo				lema:tiempo
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	carita				lema:carita
-id:	13	Palabra:	_feliz_sacando				lema:_feliz_sacando
-id:	14	Palabra:	_lengua				lema:_lengua
-id:	15	Palabra:	.				lema:.
+id:	4	Palabra:	mismo				lema:mismo
+id:	5	Palabra:	tiempo				lema:tiempo
+id:	6	Palabra:	carita				lema:carita
+id:	7	Palabra:	_feliz_sacando				lema:_feliz_sacando
+id:	8	Palabra:	_lengua				lema:_lengua
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 5 tokens			===
+=== 			 Tweet 4 tokens			===
 id:	1	Palabra:	ves				lema:ver
 id:	2	Palabra:	salgo				lema:salir
 id:	3	Palabra:	vienen				lema:venir
 id:	4	Palabra:	idiotasme				lema:idiotasme
 id:	5	Palabra:	re				lema:re
-id:	6	Palabra:	cague				lema:cague
+id:	6	Palabra:	cague				lema:cagar
 id:	7	Palabra:	frio				lema:frio
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 6 tokens			===
+=== 			 Tweet 5 tokens			===
 id:	1	Palabra:	mirar				lema:mirar
 id:	2	Palabra:	canal				lema:canal
 id:	3	Palabra:	trece				lema:trece
@@ -77,63 +60,52 @@ id:	4	Palabra:	hora				lema:hora
 id:	5	Palabra:	mirar				lema:mirar
 id:	6	Palabra:	programa				lema:programa
 id:	7	Palabra:	cuervo				lema:cuervo
-id:	8	Palabra:	#asco				lema:#asco
+id:	8	Palabra:	.				lema:.
+
+=== 			 Tweet 6 tokens			===
+id:	1	Palabra:	tongo				lema:tongo
+id:	2	Palabra:	barba				lema:barba
+id:	3	Palabra:	ningún				lema:ninguno
+id:	4	Palabra:	criterio				lema:criterio
+id:	5	Palabra:	musical				lema:musical
+id:	6	Palabra:	festival				lema:festival
+id:	7	Palabra:	año				lema:año
+id:	8	Palabra:	confirma				lema:confirmar
 id:	9	Palabra:	.				lema:.
 
 === 			 Tweet 7 tokens			===
-id:	1	Palabra:	tongo				lema:tongo
-id:	2	Palabra:	barba				lema:barba
-id:	3	Palabra:	#festival				lema:#festival
-id:	4	Palabra:	eurovisión				lema:eurovisión
-id:	5	Palabra:	_concurso				lema:_concurso
-id:	6	Palabra:	música				lema:música
-id:	7	Palabra:	ningún				lema:ninguno
-id:	8	Palabra:	criterio				lema:criterio
-id:	9	Palabra:	musical				lema:musical
-id:	10	Palabra:	festival				lema:festival
-id:	11	Palabra:	año				lema:año
-id:	12	Palabra:	confirma				lema:confirmar
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	#verguenza				lema:#verguenza
-id:	15	Palabra:	#vengaya				lema:#vengaya
-id:	16	Palabra:	.				lema:.
+id:	1	Palabra:	bipartidismo				lema:bipartidismo
+id:	2	Palabra:	_sistema				lema:_sistema
+id:	3	Palabra:	político				lema:político
+id:	4	Palabra:	sostiene				lema:sostener
+id:	5	Palabra:	defensa				lema:defensa
+id:	6	Palabra:	rey				lema:rey
+id:	7	Palabra:	luego				lema:luego
+id:	8	Palabra:	decir				lema:decir
+id:	9	Palabra:	monárquico				lema:monárquico
+id:	10	Palabra:	_adjetivo				lema:_adjetivo
+id:	11	Palabra:	político				lema:político
+id:	12	Palabra:	.				lema:.
 
 === 			 Tweet 8 tokens			===
-id:	1	Palabra:	#objetivofelipe				lema:#objetivofelipe
-id:	2	Palabra:	bipartidismo				lema:bipartidismo
-id:	3	Palabra:	_sistema				lema:_sistema
-id:	4	Palabra:	político				lema:político
-id:	5	Palabra:	sostiene				lema:sostener
-id:	6	Palabra:	defensa				lema:defensa
-id:	7	Palabra:	rey				lema:rey
-id:	8	Palabra:	luego				lema:luego
-id:	9	Palabra:	decir				lema:decir
-id:	10	Palabra:	monárquico				lema:monárquico
-id:	11	Palabra:	_adjetivo				lema:_adjetivo
-id:	12	Palabra:	político				lema:político
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
-
-=== 			 Tweet 9 tokens			===
 id:	1	Palabra:	2				lema:2
 id:	2	Palabra:	partido				lema:partido
 id:	3	Palabra:	_políticas				lema:_político
 id:	4	Palabra:	sistema				lema:sistema
 id:	5	Palabra:	bipartidista				lema:bipartidista
 id:	6	Palabra:	lamentables				lema:lamentable
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	seguirá				lema:seguir
-id:	9	Palabra:	gente				lema:gente
-id:	10	Palabra:	votando				lema:votar
-id:	11	Palabra:	les				lema:él
-id:	12	Palabra:	ambos				lema:ambos
-id:	13	Palabra:	haber				lema:haber
-id:	14	Palabra:	si				lema:si
-id:	15	Palabra:	cae				lema:caer
-id:	16	Palabra:	burra				lema:burra
-id:	17	Palabra:	.				lema:.
+id:	7	Palabra:	seguirá				lema:seguir
+id:	8	Palabra:	gente				lema:gente
+id:	9	Palabra:	votando				lema:votar
+id:	10	Palabra:	les				lema:él
+id:	11	Palabra:	ambos				lema:ambos
+id:	12	Palabra:	haber				lema:haber
+id:	13	Palabra:	si				lema:si
+id:	14	Palabra:	cae				lema:caer
+id:	15	Palabra:	burra				lema:burra
+id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 10 tokens			===
+=== 			 Tweet 9 tokens			===
 id:	1	Palabra:	acababa				lema:acabar
 id:	2	Palabra:	poner				lema:poner
 id:	3	Palabra:	presentacion				lema:presentacion
@@ -150,10 +122,9 @@ id:	13	Palabra:	pues				lema:pues
 id:	14	Palabra:	habra				lema:haber
 id:	15	Palabra:	quitar				lema:quitar
 id:	16	Palabra:	lo				lema:él
-id:	17	Palabra:	#asco				lema:#asco
-id:	18	Palabra:	.				lema:.
+id:	17	Palabra:	.				lema:.
 
-=== 			 Tweet 11 tokens			===
+=== 			 Tweet 10 tokens			===
 id:	1	Palabra:	veo				lema:ver
 id:	2	Palabra:	fotos				lema:foto
 id:	3	Palabra:	msj				lema:msj
@@ -161,11 +132,9 @@ id:	4	Palabra:	amor				lema:amor
 id:	5	Palabra:	tantas				lema:tanto
 id:	6	Palabra:	publicaciones				lema:publicación
 id:	7	Palabra:	canciones				lema:canción
-id:	8	Palabra:	#pasado				lema:#pasado
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 12 tokens			===
+=== 			 Tweet 11 tokens			===
 id:	1	Palabra:	puta				lema:puta
 id:	2	Palabra:	llaga				lema:llaga
 id:	3	Palabra:	asquerosa				lema:asqueroso
@@ -178,11 +147,9 @@ id:	9	Palabra:	puta				lema:puta
 id:	10	Palabra:	madre				lema:madre
 id:	11	Palabra:	pario				lema:pario
 id:	12	Palabra:	demonio				lema:demonio
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	#dolormodoon				lema:#dolormodoon
-id:	15	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 13 tokens			===
+=== 			 Tweet 12 tokens			===
 id:	1	Palabra:	siento				lema:sentir
 id:	2	Palabra:	coskiyeo				lema:coskiyeo
 id:	3	Palabra:	hombromiro				lema:hombromiro
@@ -192,10 +159,9 @@ id:	6	Palabra:	negra				lema:negro
 id:	7	Palabra:	intentando				lema:intentar
 id:	8	Palabra:	violar				lema:violar
 id:	9	Palabra:	me				lema:yo
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 14 tokens			===
+=== 			 Tweet 13 tokens			===
 id:	1	Palabra:	voy				lema:ir
 id:	2	Palabra:	comprar				lema:comprar
 id:	3	Palabra:	algun				lema:alguno
@@ -206,11 +172,10 @@ id:	7	Palabra:	metodo				lema:metodo
 id:	8	Palabra:	sistémicfilos				lema:sistémicfilo
 id:	9	Palabra:	reinos				lema:reino
 id:	10	Palabra:	sistema				lema:sistema
-id:	11	Palabra:	tierrasolluna				lema:tierrasolluna
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	11	Palabra:	tierrasolluna				lema:tierrasolluno
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 15 tokens			===
+=== 			 Tweet 14 tokens			===
 id:	1	Palabra:	parece				lema:parecer
 id:	2	Palabra:	venido				lema:venir
 id:	3	Palabra:	autobús				lema:autobús
@@ -226,10 +191,9 @@ id:	12	Palabra:	rodeado				lema:rodeado
 id:	13	Palabra:	pellejo				lema:pellejo
 id:	14	Palabra:	tetas				lema:teta
 id:	15	Palabra:	colgando				lema:colgar
-id:	16	Palabra:	#asco				lema:#asco
-id:	17	Palabra:	.				lema:.
+id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 16 tokens			===
+=== 			 Tweet 15 tokens			===
 id:	1	Palabra:	joder				lema:joder
 id:	2	Palabra:	pp				lema:pp
 id:	3	Palabra:	cojones				lema:cojón
@@ -239,10 +203,9 @@ id:	6	Palabra:	cojones				lema:cojón
 id:	7	Palabra:	votais				lema:votar
 id:	8	Palabra:	luego				lema:luego
 id:	9	Palabra:	quejais				lema:quejar
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 17 tokens			===
+=== 			 Tweet 16 tokens			===
 id:	1	Palabra:	juro				lema:juro
 id:	2	Palabra:	q				lema:q
 id:	3	Palabra:	jamas				lema:jama
@@ -256,15 +219,15 @@ id:	10	Palabra:	lugar				lema:lugar
 id:	11	Palabra:	asi				lema:asi
 id:	12	Palabra:	cm				lema:cm
 id:	13	Palabra:	q				lema:q
-id:	14	Palabra:	#asco				lema:#asco
+id:	14	Palabra:	fue				lema:ir
 id:	15	Palabra:	.				lema:.
 
-=== 			 Tweet 18 tokens			===
+=== 			 Tweet 17 tokens			===
 id:	1	Palabra:	españa				lema:españa
 id:	2	Palabra:	_país				lema:_país
 id:	3	Palabra:	lleno				lema:lleno
 id:	4	Palabra:	sectarios				lema:sectario
-id:	5	Palabra:	masocas				lema:masoco
+id:	5	Palabra:	masocas				lema:masoca
 id:	6	Palabra:	cómplices				lema:cómplice
 id:	7	Palabra:	q				lema:q
 id:	8	Palabra:	razón				lema:razón
@@ -279,10 +242,10 @@ id:	16	Palabra:	3				lema:3
 id:	17	Palabra:	generaciones				lema:generación
 id:	18	Palabra:	xa				lema:xa
 id:	19	Palabra:	cambiar				lema:cambiar
-id:	20	Palabra:	#asco				lema:#asco
+id:	20	Palabra:	esto				lema:este
 id:	21	Palabra:	.				lema:.
 
-=== 			 Tweet 19 tokens			===
+=== 			 Tweet 18 tokens			===
 id:	1	Palabra:	mamasa				lema:mamasa
 id:	2	Palabra:	aka				lema:aka
 id:	3	Palabra:	ruchiis				lema:ruchiis
@@ -297,10 +260,9 @@ id:	11	Palabra:	calle				lema:calle
 id:	12	Palabra:	hablando				lema:hablar
 id:	13	Palabra:	así				lema:así
 id:	14	Palabra:	mujeres				lema:mujer
-id:	15	Palabra:	#asco				lema:#asco
-id:	16	Palabra:	.				lema:.
+id:	15	Palabra:	.				lema:.
 
-=== 			 Tweet 20 tokens			===
+=== 			 Tweet 19 tokens			===
 id:	1	Palabra:	ir				lema:ir
 id:	2	Palabra:	ayer				lema:ayer
 id:	3	Palabra:	hacer				lema:hacer
@@ -313,20 +275,15 @@ id:	9	Palabra:	dejar				lema:dejar
 id:	10	Palabra:	me				lema:yo
 id:	11	Palabra:	pierna				lema:pierna
 id:	12	Palabra:	roca				lema:roca
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
+id:	14	Palabra:	ir				lema:ir
+id:	15	Palabra:	taxi				lema:taxi
+id:	16	Palabra:	escuchando				lema:escuchar
+id:	17	Palabra:	ballenato				lema:ballenato
+id:	18	Palabra:	precio				lema:precio
+id:	19	Palabra:	.				lema:.
 
-=== 			 Tweet 21 tokens			===
-id:	1	Palabra:	ir				lema:ir
-id:	2	Palabra:	taxi				lema:taxi
-id:	3	Palabra:	escuchando				lema:escuchar
-id:	4	Palabra:	ballenato				lema:ballenato
-id:	5	Palabra:	precio				lema:precio
-id:	6	Palabra:	#asco				lema:#asco
-id:	7	Palabra:	#cosaloca				lema:#cosaloca
-id:	8	Palabra:	.				lema:.
-
-=== 			 Tweet 22 tokens			===
+=== 			 Tweet 20 tokens			===
 id:	1	Palabra:	sali				lema:salir
 id:	2	Palabra:	calza				lema:calzar
 id:	3	Palabra:	remera				lema:remera
@@ -336,10 +293,9 @@ id:	6	Palabra:	pregunto				lema:preguntar
 id:	7	Palabra:	si				lema:si
 id:	8	Palabra:	tenia				lema:tener
 id:	9	Palabra:	frio				lema:frio
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 23 tokens			===
+=== 			 Tweet 21 tokens			===
 id:	1	Palabra:	parada				lema:parada
 id:	2	Palabra:	colectivo				lema:colectivo
 id:	3	Palabra:	siento				lema:sentir
@@ -348,10 +304,9 @@ id:	5	Palabra:	fritando				lema:fritar
 id:	6	Palabra:	pescado				lema:pescado
 id:	7	Palabra:	algún				lema:alguno
 id:	8	Palabra:	lado				lema:lado
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 24 tokens			===
+=== 			 Tweet 22 tokens			===
 id:	1	Palabra:	sigue				lema:seguir
 id:	2	Palabra:	acoso				lema:acoso
 id:	3	Palabra:	twitter_red				lema:twitter_red
@@ -362,10 +317,9 @@ id:	7	Palabra:	rancia				lema:rancio
 id:	8	Palabra:	vez				lema:vez
 id:	9	Palabra:	taurinos				lema:taurino
 id:	10	Palabra:	reccionan				lema:reccionar
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 25 tokens			===
+=== 			 Tweet 23 tokens			===
 id:	1	Palabra:	comentarista				lema:comentarista
 id:	2	Palabra:	fútbol				lema:fútbol
 id:	3	Palabra:	todos				lema:todo
@@ -381,10 +335,9 @@ id:	12	Palabra:	falta				lema:falta
 id:	13	Palabra:	bosta				lema:bosta
 id:	14	Palabra:	entrar				lema:entrar
 id:	15	Palabra:	copa				lema:copa
-id:	16	Palabra:	#asco				lema:#asco
-id:	17	Palabra:	.				lema:.
+id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 26 tokens			===
+=== 			 Tweet 24 tokens			===
 id:	1	Palabra:	asco				lema:asco
 id:	2	Palabra:	confieso				lema:confesar
 id:	3	Palabra:	q				lema:q
@@ -396,10 +349,9 @@ id:	8	Palabra:	nariz				lema:nariz
 id:	9	Palabra:	doy				lema:dar
 id:	10	Palabra:	cuenta				lema:cuenta
 id:	11	Palabra:	paro				lema:paro
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 27 tokens			===
+=== 			 Tweet 25 tokens			===
 id:	1	Palabra:	genial				lema:genial
 id:	2	Palabra:	ver				lema:ver
 id:	3	Palabra:	comprobar				lema:comprobar
@@ -414,10 +366,9 @@ id:	11	Palabra:	cojones				lema:cojón
 id:	12	Palabra:	ir				lema:ir
 id:	13	Palabra:	verdad				lema:verdad
 id:	14	Palabra:	delante				lema:delante
-id:	15	Palabra:	#asco				lema:#asco
-id:	16	Palabra:	.				lema:.
+id:	15	Palabra:	.				lema:.
 
-=== 			 Tweet 28 tokens			===
+=== 			 Tweet 26 tokens			===
 id:	1	Palabra:	moria				lema:moria
 id:	2	Palabra:	viejas				lema:viejo
 id:	3	Palabra:	salis				lema:sali
@@ -431,10 +382,9 @@ id:	10	Palabra:	tragos				lema:trago
 id:	11	Palabra:	diciendo				lema:decir
 id:	12	Palabra:	casa				lema:casa
 id:	13	Palabra:	sola				lema:solo
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	.				lema:.
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 29 tokens			===
+=== 			 Tweet 27 tokens			===
 id:	1	Palabra:	preguntaría				lema:preguntar
 id:	2	Palabra:	miguel				lema:miguel
 id:	3	Palabra:	arias				lema:aria
@@ -450,11 +400,9 @@ id:	12	Palabra:	si				lema:si
 id:	13	Palabra:	valor				lema:valor
 id:	14	Palabra:	sostener				lema:sostener
 id:	15	Palabra:	mirada				lema:mirada
-id:	16	Palabra:	#caraacaratve				lema:#caraacaratve
-id:	17	Palabra:	#asco				lema:#asco
-id:	18	Palabra:	.				lema:.
+id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 30 tokens			===
+=== 			 Tweet 28 tokens			===
 id:	1	Palabra:	elecciones				lema:elección
 id:	2	Palabra:	presidenciales				lema:presidencial
 id:	3	Palabra:	_proceso				lema:_proceso
@@ -466,11 +414,11 @@ id:	8	Palabra:	candidatos				lema:candidato
 id:	9	Palabra:	sino				lema:sino
 id:	10	Palabra:	menos				lema:menos
 id:	11	Palabra:	escanda				lema:escanda
-id:	12	Palabra:	los				lema:el
-id:	13	Palabra:	#asco				lema:#asco
+id:	12	Palabra:	los				lema:él
+id:	13	Palabra:	tenga				lema:tener
 id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 31 tokens			===
+=== 			 Tweet 29 tokens			===
 id:	1	Palabra:	3				lema:3
 id:	2	Palabra:	imputados				lema:imputado
 id:	3	Palabra:	accidente				lema:accidente
@@ -485,10 +433,9 @@ id:	11	Palabra:	zapatero_cia				lema:zapatero_cia
 id:	12	Palabra:	quisieron				lema:querer
 id:	13	Palabra:	investigar				lema:investigar
 id:	14	Palabra:	lo				lema:él
-id:	15	Palabra:	#asco				lema:#asco
-id:	16	Palabra:	.				lema:.
+id:	15	Palabra:	.				lema:.
 
-=== 			 Tweet 32 tokens			===
+=== 			 Tweet 30 tokens			===
 id:	1	Palabra:	buenas				lema:buen
 id:	2	Palabra:	noches				lema:noche
 id:	3	Palabra:	menos				lema:menos
@@ -499,11 +446,9 @@ id:	7	Palabra:	ruta				lema:ruta
 id:	8	Palabra:	bus				lema:bus
 id:	9	Palabra:	león				lema:león
 id:	10	Palabra:	pueblo				lema:pueblo
-id:	11	Palabra:	#impresentables				lema:#impresentables
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 33 tokens			===
+=== 			 Tweet 31 tokens			===
 id:	1	Palabra:	bsas				lema:bsa
 id:	2	Palabra:	caías				lema:caía
 id:	3	Palabra:	bien				lema:bien
@@ -511,12 +456,11 @@ id:	4	Palabra:	apareció				lema:aparecer
 id:	5	Palabra:	cuca				lema:cuca
 id:	6	Palabra:	bastante				lema:bastante
 id:	7	Palabra:	grande				lema:grande
-id:	8	Palabra:	cagaste				lema:cagaste
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	#bicho				lema:#bicho
-id:	11	Palabra:	.				lema:.
+id:	8	Palabra:	cagaste				lema:cagar
+id:	9	Palabra:	todo				lema:todo
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 34 tokens			===
+=== 			 Tweet 32 tokens			===
 id:	1	Palabra:	pintada				lema:pintado
 id:	2	Palabra:	enfrente				lema:enfrente
 id:	3	Palabra:	conservatorio				lema:conservatorio
@@ -528,10 +472,10 @@ id:	8	Palabra:	política				lema:política
 id:	9	Palabra:	sigue				lema:seguir
 id:	10	Palabra:	vigente				lema:vigente
 id:	11	Palabra:	acabar				lema:acabar
-id:	12	Palabra:	#asco				lema:#asco
+id:	12	Palabra:	él				lema:él
 id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 35 tokens			===
+=== 			 Tweet 33 tokens			===
 id:	1	Palabra:	piensas				lema:pensar
 id:	2	Palabra:	madrid				lema:madrid
 id:	3	Palabra:	españa_ciudad				lema:españa_ciudad
@@ -545,37 +489,27 @@ id:	10	Palabra:	perder				lema:perder
 id:	11	Palabra:	fichando				lema:fichar
 id:	12	Palabra:	medio				lema:medio
 id:	13	Palabra:	mundo				lema:mundo
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	.				lema:.
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 36 tokens			===
+=== 			 Tweet 34 tokens			===
 id:	1	Palabra:	mas				lema:mas
-id:	2	Palabra:	#mierda				lema:#mierda
-id:	3	Palabra:	#peronismo				lema:#peronismo
-id:	4	Palabra:	_doctrina				lema:_doctrina
-id:	5	Palabra:	política				lema:política
-id:	6	Palabra:	premiar				lema:premiar
-id:	7	Palabra:	gobernadores				lema:gobernador
-id:	8	Palabra:	cuyas				lema:cuyo
-id:	9	Palabra:	provincias				lema:provincia
-id:	10	Palabra:	verdadero				lema:verdadero
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	2	Palabra:	premiar				lema:premiar
+id:	3	Palabra:	gobernadores				lema:gobernador
+id:	4	Palabra:	cuyas				lema:cuyo
+id:	5	Palabra:	provincias				lema:provincia
+id:	6	Palabra:	verdadero.				lema:verdadero.
+id:	7	Palabra:	definitivamente				lema:definitivamente
+id:	8	Palabra:	odio				lema:odio
+id:	9	Palabra:	tiempo				lema:tiempo
+id:	10	Palabra:	cambiante				lema:cambiante
+id:	11	Palabra:	llueve				lema:llover
+id:	12	Palabra:	viento				lema:viento
+id:	13	Palabra:	hace				lema:hacer
+id:	14	Palabra:	frío				lema:frío
+id:	15	Palabra:	nubla				lema:nublir
+id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 37 tokens			===
-id:	1	Palabra:	definitivamente				lema:definitivamente
-id:	2	Palabra:	odio				lema:odio
-id:	3	Palabra:	tiempo				lema:tiempo
-id:	4	Palabra:	cambiante				lema:cambiante
-id:	5	Palabra:	llueve				lema:llover
-id:	6	Palabra:	viento				lema:viento
-id:	7	Palabra:	hace				lema:hacer
-id:	8	Palabra:	frío				lema:frío
-id:	9	Palabra:	nubla				lema:nublir
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
-
-=== 			 Tweet 38 tokens			===
+=== 			 Tweet 35 tokens			===
 id:	1	Palabra:	encima				lema:encima
 id:	2	Palabra:	agrega				lema:agregar
 id:	3	Palabra:	mas				lema:mas
@@ -587,10 +521,9 @@ id:	8	Palabra:	vida				lema:vida
 id:	9	Palabra:	estudiante				lema:estudiante
 id:	10	Palabra:	medicina				lema:medicina
 id:	11	Palabra:	carita_feliz				lema:carita_feliz
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 39 tokens			===
+=== 			 Tweet 36 tokens			===
 id:	1	Palabra:	campera_chaleco				lema:campera_chaleco
 id:	2	Palabra:	va				lema:ir
 id:	3	Palabra:	ir				lema:ir
@@ -599,10 +532,9 @@ id:	5	Palabra:	armario				lema:armario
 id:	6	Palabra:	ahí				lema:ahí
 id:	7	Palabra:	va				lema:ir
 id:	8	Palabra:	quedar				lema:quedar
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 40 tokens			===
+=== 			 Tweet 37 tokens			===
 id:	1	Palabra:	francisco				lema:francisco
 id:	2	Palabra:	franco				lema:franco
 id:	3	Palabra:	_político				lema:_político
@@ -614,10 +546,9 @@ id:	8	Palabra:	comer				lema:comer
 id:	9	Palabra:	trajo				lema:traer
 id:	10	Palabra:	palitos				lema:palito
 id:	11	Palabra:	sal				lema:sal
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 41 tokens			===
+=== 			 Tweet 38 tokens			===
 id:	1	Palabra:	mas				lema:mas
 id:	2	Palabra:	patetico				lema:patetico
 id:	3	Palabra:	los				lema:el
@@ -637,13 +568,13 @@ id:	16	Palabra:	_cártel				lema:_cártel
 id:	17	Palabra:	droga				lema:droga
 id:	18	Palabra:	mexicano				lema:mexicano
 id:	19	Palabra:	cartel				lema:cartel
-id:	20	Palabra:	golfo_cártel				lema:golfo_cártel
-id:	21	Palabra:	droga				lema:droga
-id:	22	Palabra:	mexicano				lema:mexicano
-id:	23	Palabra:	#asco				lema:#asco
+id:	20	Palabra:	golfo				lema:golfo
+id:	21	Palabra:	_cártel				lema:_cártel
+id:	22	Palabra:	droga				lema:droga
+id:	23	Palabra:	mexicano				lema:mexicano
 id:	24	Palabra:	.				lema:.
 
-=== 			 Tweet 42 tokens			===
+=== 			 Tweet 39 tokens			===
 id:	1	Palabra:	serio				lema:serio
 id:	2	Palabra:	alguien				lema:alguien
 id:	3	Palabra:	tatúa				lema:tatúar
@@ -652,11 +583,10 @@ id:	5	Palabra:	forma				lema:forma
 id:	6	Palabra:	color				lema:color
 id:	7	Palabra:	aparte				lema:aparte
 id:	8	Palabra:	pagan				lema:pagar
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	#cejas				lema:#cejas
-id:	11	Palabra:	.				lema:.
+id:	9	Palabra:	eso				lema:ese
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 43 tokens			===
+=== 			 Tweet 40 tokens			===
 id:	1	Palabra:	mina				lema:mina
 id:	2	Palabra:	boluda				lema:boludir
 id:	3	Palabra:	pensar				lema:pensar
@@ -668,24 +598,20 @@ id:	8	Palabra:	ahora				lema:ahora
 id:	9	Palabra:	vendiendo				lema:vender
 id:	10	Palabra:	humo				lema:humo
 id:	11	Palabra:	ahi				lema:ahi
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
-
-=== 			 Tweet 44 tokens			===
-id:	1	Palabra:	voy				lema:ir
-id:	2	Palabra:	dejar				lema:dejar
-id:	3	Palabra:	tocar				lema:tocar
-id:	4	Palabra:	dentista				lema:dentista
-id:	5	Palabra:	nunca				lema:nunca
-id:	6	Palabra:	vida				lema:vida
-id:	7	Palabra:	pensé				lema:pensar
-id:	8	Palabra:	dolía				lema:doler
-id:	9	Palabra:	después				lema:después
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	dentistas				lema:dentista
 id:	12	Palabra:	.				lema:.
+id:	13	Palabra:	voy				lema:ir
+id:	14	Palabra:	dejar				lema:dejar
+id:	15	Palabra:	tocar				lema:tocar
+id:	16	Palabra:	dentista				lema:dentista
+id:	17	Palabra:	nunca				lema:nunca
+id:	18	Palabra:	vida				lema:vida
+id:	19	Palabra:	pensé				lema:pensar
+id:	20	Palabra:	dolía				lema:doler
+id:	21	Palabra:	después				lema:después
+id:	22	Palabra:	dentistas				lema:dentista
+id:	23	Palabra:	.				lema:.
 
-=== 			 Tweet 45 tokens			===
+=== 			 Tweet 41 tokens			===
 id:	1	Palabra:	ejemplo				lema:ejemplo
 id:	2	Palabra:	periodista				lema:periodista
 id:	3	Palabra:	metemierda				lema:metemierdo
@@ -697,40 +623,32 @@ id:	8	Palabra:	casillas				lema:casilla
 id:	9	Palabra:	sentaran				lema:sentar
 id:	10	Palabra:	juntos				lema:junto
 id:	11	Palabra:	pa				lema:pa
-id:	12	Palabra:	q				lema:q
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	12	Palabra:	q.				lema:q.
+id:	13	Palabra:	siempre				lema:siempre
+id:	14	Palabra:	pasa				lema:pasar
+id:	15	Palabra:	hueles				lema:holer
+id:	16	Palabra:	verano				lema:verano
+id:	17	Palabra:	queda				lema:quedar
+id:	18	Palabra:	mayo				lema:mayo
+id:	19	Palabra:	junio				lema:junio
+id:	20	Palabra:	largos				lema:largo
+id:	21	Palabra:	duros				lema:duro
+id:	22	Palabra:	días				lema:día
+id:	23	Palabra:	estudio				lema:estudio
+id:	24	Palabra:	.				lema:.
 
-=== 			 Tweet 46 tokens			===
-id:	1	Palabra:	siempre				lema:siempre
-id:	2	Palabra:	pasa				lema:pasar
-id:	3	Palabra:	hueles				lema:holer
-id:	4	Palabra:	verano				lema:verano
-id:	5	Palabra:	queda				lema:quedar
-id:	6	Palabra:	mayo				lema:mayo
-id:	7	Palabra:	junio				lema:junio
-id:	8	Palabra:	largos				lema:largo
-id:	9	Palabra:	duros				lema:duro
-id:	10	Palabra:	días				lema:día
-id:	11	Palabra:	estudio				lema:estudio
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
-
-=== 			 Tweet 47 tokens			===
+=== 			 Tweet 42 tokens			===
 id:	1	Palabra:	partido				lema:partido
 id:	2	Palabra:	_política				lema:_política
 id:	3	Palabra:	final				lema:final
-id:	4	Palabra:	#copabbva				lema:#copabbva
-id:	5	Palabra:	completa				lema:completo
-id:	6	Palabra:	hueva				lema:hueva
-id:	7	Palabra:	cronistas				lema:cronista
-id:	8	Palabra:	n				lema:n
-id:	9	Palabra:	diga				lema:decir
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	#tvazteca				lema:#tvazteca
-id:	12	Palabra:	.				lema:.
+id:	4	Palabra:	completa				lema:completo
+id:	5	Palabra:	hueva				lema:hueva
+id:	6	Palabra:	cronistas				lema:cronista
+id:	7	Palabra:	n				lema:n
+id:	8	Palabra:	diga				lema:decir
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 48 tokens			===
+=== 			 Tweet 43 tokens			===
 id:	1	Palabra:	mañana				lema:mañana
 id:	2	Palabra:	final				lema:final
 id:	3	Palabra:	champions				lema:champions
@@ -740,16 +658,13 @@ id:	6	Palabra:	deportiva				lema:deportivo
 id:	7	Palabra:	catarrazo				lema:catarrazo
 id:	8	Palabra:	k				lema:k
 id:	9	Palabra:	t				lema:t
-id:	10	Palabra:	cagas				lema:cagar
+id:	10	Palabra:	cagas				lema:cagas
 id:	11	Palabra:	disfrutar				lema:disfrutar
 id:	12	Palabra:	mas				lema:mas
 id:	13	Palabra:	fiesta				lema:fiesta
-id:	14	Palabra:	#megustaelriesgo				lema:#megustaelriesgo
-id:	15	Palabra:	#asco				lema:#asco
-id:	16	Palabra:	#buenosdias				lema:#buenosdias
-id:	17	Palabra:	.				lema:.
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 49 tokens			===
+=== 			 Tweet 44 tokens			===
 id:	1	Palabra:	hacen				lema:hacer
 id:	2	Palabra:	ricotas				lema:ricota
 id:	3	Palabra:	tiras				lema:tira
@@ -759,10 +674,9 @@ id:	6	Palabra:	canciones				lema:canción
 id:	7	Palabra:	ponen				lema:poner
 id:	8	Palabra:	ahí				lema:ahí
 id:	9	Palabra:	saben				lema:saber
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 50 tokens			===
+=== 			 Tweet 45 tokens			===
 id:	1	Palabra:	saber				lema:saber
 id:	2	Palabra:	muerte				lema:muerte
 id:	3	Palabra:	infame				lema:infame
@@ -774,10 +688,9 @@ id:	8	Palabra:	siento				lema:sentir
 id:	9	Palabra:	farc				lema:farc
 id:	10	Palabra:	santos				lema:santo
 id:	11	Palabra:	profundo				lema:profundo
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 51 tokens			===
+=== 			 Tweet 46 tokens			===
 id:	1	Palabra:	alcalde				lema:alcalde
 id:	2	Palabra:	racista				lema:racista
 id:	3	Palabra:	_persona				lema:_persona
@@ -799,10 +712,9 @@ id:	18	Palabra:	refiere				lema:referir
 id:	19	Palabra:	sistema				lema:sistema
 id:	20	Palabra:	sino				lema:sino
 id:	21	Palabra:	oprimidos				lema:oprimido
-id:	22	Palabra:	#asco				lema:#asco
-id:	23	Palabra:	.				lema:.
+id:	22	Palabra:	.				lema:.
 
-=== 			 Tweet 52 tokens			===
+=== 			 Tweet 47 tokens			===
 id:	1	Palabra:	si				lema:si
 id:	2	Palabra:	prácticas				lema:práctica
 id:	3	Palabra:	baile				lema:baile
@@ -812,20 +724,17 @@ id:	6	Palabra:	expuesta				lema:expuesto
 id:	7	Palabra:	sigue				lema:seguir
 id:	8	Palabra:	show				lema:show
 id:	9	Palabra:	xq				lema:xq
-id:	10	Palabra:	da#asco				lema:da#asco
+id:	10	Palabra:	da				lema:dar
 id:	11	Palabra:	.				lema:.
+id:	12	Palabra:	seque				lema:sequir
+id:	13	Palabra:	pelo				lema:pelo
+id:	14	Palabra:	secador				lema:secador
+id:	15	Palabra:	horrible				lema:horrible
+id:	16	Palabra:	quedo				lema:quedar
+id:	17	Palabra:	carita_triste				lema:carita_triste
+id:	18	Palabra:	.				lema:.
 
-=== 			 Tweet 53 tokens			===
-id:	1	Palabra:	seque				lema:sequir
-id:	2	Palabra:	pelo				lema:pelo
-id:	3	Palabra:	secador				lema:secador
-id:	4	Palabra:	horrible				lema:horrible
-id:	5	Palabra:	quedo				lema:quedar
-id:	6	Palabra:	#asco				lema:#asco
-id:	7	Palabra:	carita_triste				lema:carita_triste
-id:	8	Palabra:	.				lema:.
-
-=== 			 Tweet 54 tokens			===
+=== 			 Tweet 48 tokens			===
 id:	1	Palabra:	asociaciones				lema:asociación
 id:	2	Palabra:	taurinas				lema:taurino
 id:	3	Palabra:	piden				lema:pedir
@@ -835,10 +744,9 @@ id:	6	Palabra:	comentarios				lema:comentario
 id:	7	Palabra:	mofen				lema:mofen
 id:	8	Palabra:	toreros				lema:torero
 id:	9	Palabra:	faltaban				lema:faltar
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 55 tokens			===
+=== 			 Tweet 49 tokens			===
 id:	1	Palabra:	pos				lema:pos
 id:	2	Palabra:	si				lema:si
 id:	3	Palabra:	hermanas				lema:hermana
@@ -846,10 +754,9 @@ id:	4	Palabra:	ven				lema:ver
 id:	5	Palabra:	ratapero				lema:ratapero
 id:	6	Palabra:	4				lema:4
 id:	7	Palabra:	patas				lema:pata
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 56 tokens			===
+=== 			 Tweet 50 tokens			===
 id:	1	Palabra:	alma				lema:alma
 id:	2	Palabra:	equipo				lema:equipo
 id:	3	Palabra:	destapar				lema:destapar
@@ -859,10 +766,9 @@ id:	6	Palabra:	inútiles				lema:inútil
 id:	7	Palabra:	sabía				lema:saber
 id:	8	Palabra:	hacer				lema:hacer
 id:	9	Palabra:	lo				lema:él
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 57 tokens			===
+=== 			 Tweet 51 tokens			===
 id:	1	Palabra:	barsa				lema:barsa
 id:	2	Palabra:	parece				lema:parecer
 id:	3	Palabra:	desfachatez				lema:desfachatez
@@ -878,10 +784,9 @@ id:	12	Palabra:	año				lema:año
 id:	13	Palabra:	x				lema:x
 id:	14	Palabra:	jugar				lema:jugar
 id:	15	Palabra:	futbol				lema:futbol
-id:	16	Palabra:	#asco				lema:#asco
-id:	17	Palabra:	.				lema:.
+id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 58 tokens			===
+=== 			 Tweet 52 tokens			===
 id:	1	Palabra:	dios				lema:dio
 id:	2	Palabra:	juro				lema:juro
 id:	3	Palabra:	pedo				lema:pedo
@@ -891,10 +796,9 @@ id:	6	Palabra:	guardapolvo				lema:guardapolvo
 id:	7	Palabra:	azul				lema:azul
 id:	8	Palabra:	blanco				lema:blanco
 id:	9	Palabra:	pedo				lema:pedo
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 59 tokens			===
+=== 			 Tweet 53 tokens			===
 id:	1	Palabra:	hipócritas				lema:hipócrita
 id:	2	Palabra:	ciudad				lema:ciudad
 id:	3	Palabra:	critican				lema:criticar
@@ -907,10 +811,9 @@ id:	9	Palabra:	comer				lema:comer
 id:	10	Palabra:	se				lema:él
 id:	11	Palabra:	pollos				lema:pollo
 id:	12	Palabra:	vacaciones				lema:vacaciones
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 60 tokens			===
+=== 			 Tweet 54 tokens			===
 id:	1	Palabra:	trabajando				lema:trabajar
 id:	2	Palabra:	8				lema:8
 id:	3	Palabra:	hs				lema:hs
@@ -928,10 +831,9 @@ id:	14	Palabra:	chavez				lema:chavez
 id:	15	Palabra:	sentir				lema:sentir
 id:	16	Palabra:	rien				lema:rien
 id:	17	Palabra:	cara				lema:cara
-id:	18	Palabra:	#asco				lema:#asco
-id:	19	Palabra:	.				lema:.
+id:	18	Palabra:	.				lema:.
 
-=== 			 Tweet 61 tokens			===
+=== 			 Tweet 55 tokens			===
 id:	1	Palabra:	segun				lema:segun
 id:	2	Palabra:	proceso				lema:proceso
 id:	3	Palabra:	venta				lema:venta
@@ -944,10 +846,9 @@ id:	9	Palabra:	aquí				lema:aquí
 id:	10	Palabra:	allá				lema:allá
 id:	11	Palabra:	allá				lema:allá
 id:	12	Palabra:	aquí				lema:aquí
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 62 tokens			===
+=== 			 Tweet 56 tokens			===
 id:	1	Palabra:	prefiero				lema:preferir
 id:	2	Palabra:	mil				lema:mil
 id:	3	Palabra:	vcs				lema:vcs
@@ -959,11 +860,10 @@ id:	8	Palabra:	invacion				lema:invacion
 id:	9	Palabra:	d				lema:d
 id:	10	Palabra:	moscas				lema:moscas
 id:	11	Palabra:	q				lema:q
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	dios				lema:dios
-id:	14	Palabra:	.				lema:.
+id:	12	Palabra:	dios				lema:dios
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 63 tokens			===
+=== 			 Tweet 57 tokens			===
 id:	1	Palabra:	ayer				lema:ayer
 id:	2	Palabra:	vi				lema:ver
 id:	3	Palabra:	pic				lema:pic
@@ -975,10 +875,9 @@ id:	8	Palabra:	encuentro				lema:encontrar
 id:	9	Palabra:	pag				lema:pag
 id:	10	Palabra:	facebook_red				lema:facebook_red
 id:	11	Palabra:	social				lema:social
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 64 tokens			===
+=== 			 Tweet 58 tokens			===
 id:	1	Palabra:	creo				lema:creer
 id:	2	Palabra:	exista				lema:existir
 id:	3	Palabra:	peor				lema:peor
@@ -987,14 +886,14 @@ id:	5	Palabra:	29				lema:29
 id:	6	Palabra:	barra				lema:barra
 id:	7	Palabra:	san				lema:san
 id:	8	Palabra:	telmopor				lema:telmopor
-id:	9	Palabra:	dios				lema:dios
+id:	9	Palabra:	dios				lema:dio
 id:	10	Palabra:	manada				lema:manado
 id:	11	Palabra:	fisuras				lema:fisura
 id:	12	Palabra:	olor				lema:olor
-id:	13	Palabra:	#asco				lema:#asco
+id:	13	Palabra:	todo				lema:todo
 id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 65 tokens			===
+=== 			 Tweet 59 tokens			===
 id:	1	Palabra:	asco				lema:asco
 id:	2	Palabra:	chabon				lema:chabon
 id:	3	Palabra:	menos				lema:menos
@@ -1006,10 +905,9 @@ id:	8	Palabra:	desagradable				lema:desagradable
 id:	9	Palabra:	hombre				lema:hombre
 id:	10	Palabra:	das				lema:dar
 id:	11	Palabra:	vergüenza				lema:vergüenza
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 66 tokens			===
+=== 			 Tweet 60 tokens			===
 id:	1	Palabra:	pues				lema:pues
 id:	2	Palabra:	parte				lema:parte
 id:	3	Palabra:	bienvenido				lema:bienvenido
@@ -1019,10 +917,9 @@ id:	6	Palabra:	basura				lema:basura
 id:	7	Palabra:	gestión				lema:gestión
 id:	8	Palabra:	mira				lema:mirar
 id:	9	Palabra:	alrededor				lema:alrededor
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 67 tokens			===
+=== 			 Tweet 61 tokens			===
 id:	1	Palabra:	olor				lema:olor
 id:	2	Palabra:	voy				lema:ir
 id:	3	Palabra:	llegar				lema:llegar
@@ -1030,40 +927,32 @@ id:	4	Palabra:	córdoba_ciudad				lema:córdoba_ciudad
 id:	5	Palabra:	española				lema:español
 id:	6	Palabra:	media				lema:medio
 id:	7	Palabra:	drogada				lema:drogado
-id:	8	Palabra:	_				lema:_
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	8	Palabra:	_.				lema:_.
+id:	9	Palabra:	concejales				lema:concejal
+id:	10	Palabra:	_política				lema:_política
+id:	11	Palabra:	partido				lema:partido
+id:	12	Palabra:	_política				lema:_política
+id:	13	Palabra:	popular				lema:popular
+id:	14	Palabra:	abandonan				lema:abandonar
+id:	15	Palabra:	pleno				lema:pleno
+id:	16	Palabra:	hablaba				lema:hablar
+id:	17	Palabra:	madre				lema:madre
+id:	18	Palabra:	niño				lema:niño
+id:	19	Palabra:	cancer				lema:cancero
+id:	20	Palabra:	vía				lema:vía
+id:	21	Palabra:	.				lema:.
 
-=== 			 Tweet 68 tokens			===
-id:	1	Palabra:	concejales				lema:concejal
-id:	2	Palabra:	_política				lema:_política
-id:	3	Palabra:	partido				lema:partido
-id:	4	Palabra:	_política				lema:_política
-id:	5	Palabra:	popular				lema:popular
-id:	6	Palabra:	#toledo				lema:#toledo
-id:	7	Palabra:	_ciudad				lema:_ciudad
-id:	8	Palabra:	española				lema:español
-id:	9	Palabra:	abandonan				lema:abandonar
-id:	10	Palabra:	pleno				lema:pleno
-id:	11	Palabra:	hablaba				lema:hablar
-id:	12	Palabra:	madre				lema:madre
-id:	13	Palabra:	niño				lema:niño
-id:	14	Palabra:	cancer				lema:cancer
-id:	15	Palabra:	vía				lema:vía
-id:	16	Palabra:	#asco				lema:#asco
-id:	17	Palabra:	.				lema:.
-
-=== 			 Tweet 69 tokens			===
+=== 			 Tweet 62 tokens			===
 id:	1	Palabra:	si				lema:si
 id:	2	Palabra:	sale				lema:salir
 id:	3	Palabra:	grano				lema:grano
 id:	4	Palabra:	sigo				lema:seguir
 id:	5	Palabra:	siendo				lema:ser
 id:	6	Palabra:	adolescente				lema:adolescente
-id:	7	Palabra:	#asco				lema:#asco
+id:	7	Palabra:	no				lema:no
 id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 70 tokens			===
+=== 			 Tweet 63 tokens			===
 id:	1	Palabra:	peor				lema:peor
 id:	2	Palabra:	llevan				lema:llevar
 id:	3	Palabra:	haciendo				lema:hacer
@@ -1074,33 +963,26 @@ id:	7	Palabra:	ignorando				lema:ignorar
 id:	8	Palabra:	nos				lema:yo
 id:	9	Palabra:	medios				lema:medio
 id:	10	Palabra:	instituciones				lema:institución
-id:	11	Palabra:	etc				lema:etcétera
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	11	Palabra:	etc.				lema:etc.
+id:	12	Palabra:	casa				lema:casa
+id:	13	Palabra:	rosada				lema:rosado
+id:	14	Palabra:	pintada				lema:pintado
+id:	15	Palabra:	primera				lema:primero
+id:	16	Palabra:	vez				lema:vez
+id:	17	Palabra:	sangre				lema:sangre
+id:	18	Palabra:	vaca				lema:vaco
+id:	19	Palabra:	.				lema:.
 
-=== 			 Tweet 71 tokens			===
-id:	1	Palabra:	casa				lema:casa
-id:	2	Palabra:	rosada				lema:rosado
-id:	3	Palabra:	pintada				lema:pintado
-id:	4	Palabra:	primera				lema:primero
-id:	5	Palabra:	vez				lema:vez
-id:	6	Palabra:	sangre				lema:sangre
-id:	7	Palabra:	vaca				lema:vaca
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
-
-=== 			 Tweet 72 tokens			===
+=== 			 Tweet 64 tokens			===
 id:	1	Palabra:	putas				lema:puta
 id:	2	Palabra:	mates				lema:mate
 id:	3	Palabra:	putas				lema:puta
 id:	4	Palabra:	mates				lema:mate
 id:	5	Palabra:	putas				lema:puta
 id:	6	Palabra:	mates				lema:mate
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	#desesperacion				lema:#desesperacion
-id:	9	Palabra:	.				lema:.
+id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 73 tokens			===
+=== 			 Tweet 65 tokens			===
 id:	1	Palabra:	perdona				lema:perdonar
 id:	2	Palabra:	q				lema:q
 id:	3	Palabra:	perdonaste				lema:perdonar
@@ -1111,24 +993,18 @@ id:	7	Palabra:	ahora				lema:ahora
 id:	8	Palabra:	das				lema:dar
 id:	9	Palabra:	papel				lema:papel
 id:	10	Palabra:	patético				lema:patético
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 74 tokens			===
+=== 			 Tweet 66 tokens			===
 id:	1	Palabra:	digo				lema:decir
 id:	2	Palabra:	si				lema:si
 id:	3	Palabra:	invertis				lema:invertir
 id:	4	Palabra:	mas				lema:mas
 id:	5	Palabra:	seguridad				lema:seguridad
 id:	6	Palabra:	vigilancia				lema:vigilancia
-id:	7	Palabra:	#menosrevisores				lema:#menosrevisores
-id:	8	Palabra:	#renfe				lema:#renfe
-id:	9	Palabra:	#renfadats				lema:#renfadats
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	#martes13				lema:#martes13
-id:	12	Palabra:	.				lema:.
+id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 75 tokens			===
+=== 			 Tweet 67 tokens			===
 id:	1	Palabra:	siempre				lema:siempre
 id:	2	Palabra:	gente				lema:gente
 id:	3	Palabra:	aprovecha				lema:aprovechar
@@ -1140,10 +1016,9 @@ id:	8	Palabra:	antipolítica				lema:antipolítico
 id:	9	Palabra:	sido				lema:ser
 id:	10	Palabra:	pura				lema:puro
 id:	11	Palabra:	venganza				lema:venganza
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 76 tokens			===
+=== 			 Tweet 68 tokens			===
 id:	1	Palabra:	madre				lema:madre
 id:	2	Palabra:	q				lema:q
 id:	3	Palabra:	desastre				lema:desastre
@@ -1151,10 +1026,10 @@ id:	4	Palabra:	diossss				lema:diossss
 id:	5	Palabra:	buenos				lema:buen
 id:	6	Palabra:	días				lema:día
 id:	7	Palabra:	decir				lema:decir
-id:	8	Palabra:	#asco				lema:#asco
+id:	8	Palabra:	algo				lema:algo
 id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 77 tokens			===
+=== 			 Tweet 69 tokens			===
 id:	1	Palabra:	súper				lema:súper
 id:	2	Palabra:	común				lema:común
 id:	3	Palabra:	mejor				lema:mejor
@@ -1162,15 +1037,9 @@ id:	4	Palabra:	amigo				lema:amigo
 id:	5	Palabra:	quite				lema:queter
 id:	6	Palabra:	granos				lema:grano
 id:	7	Palabra:	hermano				lema:hermano
-id:	8	Palabra:	#jajaja				lema:#jajaja
-id:	9	Palabra:	#gabo				lema:#gabo
-id:	10	Palabra:	#bamban				lema:#bamban
-id:	11	Palabra:	#fer				lema:#fer
-id:	12	Palabra:	#granos				lema:#granos
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 78 tokens			===
+=== 			 Tweet 70 tokens			===
 id:	1	Palabra:	dios				lema:dio
 id:	2	Palabra:	intenta				lema:intentar
 id:	3	Palabra:	dar				lema:dar
@@ -1184,10 +1053,9 @@ id:	10	Palabra:	vieras				lema:ver
 id:	11	Palabra:	persona				lema:persona
 id:	12	Palabra:	llevas				lema:llevar
 id:	13	Palabra:	disgustos				lema:disgusto
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	.				lema:.
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 79 tokens			===
+=== 			 Tweet 71 tokens			===
 id:	1	Palabra:	ministro				lema:ministro
 id:	2	Palabra:	_cargo				lema:_cargo
 id:	3	Palabra:	político				lema:político
@@ -1198,21 +1066,19 @@ id:	7	Palabra:	intervención				lema:intervención
 id:	8	Palabra:	quirúrgica				lema:quirúrgico
 id:	9	Palabra:	cara				lema:cara
 id:	10	Palabra:	cortada				lema:cortado
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	dan				lema:dar
-id:	13	Palabra:	.				lema:.
+id:	11	Palabra:	dan				lema:dar
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 80 tokens			===
+=== 			 Tweet 72 tokens			===
 id:	1	Palabra:	vaina				lema:vaina
 id:	2	Palabra:	madrugada				lema:madrugada
 id:	3	Palabra:	ratas				lema:rata
 id:	4	Palabra:	sienten				lema:sentir
 id:	5	Palabra:	cómodas				lema:cómodo
 id:	6	Palabra:	oscuridad				lema:oscuridad
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	.				lema:.
+id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 81 tokens			===
+=== 			 Tweet 73 tokens			===
 id:	1	Palabra:	si				lema:si
 id:	2	Palabra:	sinceros				lema:sincero
 id:	3	Palabra:	mismos				lema:mismo
@@ -1223,26 +1089,22 @@ id:	7	Palabra:	pesa				lema:pesar
 id:	8	Palabra:	sufrimos				lema:sufrir
 id:	9	Palabra:	ser				lema:ser
 id:	10	Palabra:	aceptados				lema:aceptar
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 82 tokens			===
+=== 			 Tweet 74 tokens			===
 id:	1	Palabra:	acabo				lema:acabar
 id:	2	Palabra:	escuchar				lema:escuchar
 id:	3	Palabra:	anuncio				lema:anuncio
 id:	4	Palabra:	electoral				lema:electoral
-id:	5	Palabra:	#pacma				lema:#pacma
-id:	6	Palabra:	dicen				lema:decir
-id:	7	Palabra:	corridas				lema:corrida
-id:	8	Palabra:	toros				lema:toro
-id:	9	Palabra:	subvencionadas				lema:subvencionado
-id:	10	Palabra:	dinero				lema:dinero
-id:	11	Palabra:	publico				lema:publico
-id:	12	Palabra:	#verguenza				lema:#verguenza
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	5	Palabra:	dicen				lema:decir
+id:	6	Palabra:	corridas				lema:corrida
+id:	7	Palabra:	toros				lema:toro
+id:	8	Palabra:	subvencionadas				lema:subvencionado
+id:	9	Palabra:	dinero				lema:dinero
+id:	10	Palabra:	publico				lema:publico
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 83 tokens			===
+=== 			 Tweet 75 tokens			===
 id:	1	Palabra:	llevo				lema:llevar
 id:	2	Palabra:	semana				lema:semana
 id:	3	Palabra:	esperando				lema:esperar
@@ -1251,11 +1113,9 @@ id:	5	Palabra:	den				lema:dar
 id:	6	Palabra:	cita				lema:cita
 id:	7	Palabra:	hacer				lema:hacer
 id:	8	Palabra:	resonancia				lema:resonancia
-id:	9	Palabra:	#valors				lema:#valors
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 84 tokens			===
+=== 			 Tweet 76 tokens			===
 id:	1	Palabra:	jamaaaaaas				lema:jamaaaaaa
 id:	2	Palabra:	voy				lema:ir
 id:	3	Palabra:	ir				lema:ir
@@ -1269,16 +1129,13 @@ id:	10	Palabra:	news				lema:new
 id:	11	Palabra:	netwitter_red				lema:netwitter_red
 id:	12	Palabra:	socialork_canal				lema:socialork_canal
 id:	13	Palabra:	noticias				lema:noticia
-id:	14	Palabra:	#blackfish_película				lema:#blackfish_película
-id:	15	Palabra:	documental				lema:documental
-id:	16	Palabra:	hijos				lema:hijo
-id:	17	Palabra:	puorcas				lema:puorca
-id:	18	Palabra:	haciendo				lema:hacer
-id:	19	Palabra:	truquitos				lema:truquito
-id:	20	Palabra:	#asco				lema:#asco
-id:	21	Palabra:	.				lema:.
+id:	14	Palabra:	hijos				lema:hijo
+id:	15	Palabra:	puorcas				lema:puorco
+id:	16	Palabra:	haciendo				lema:hacer
+id:	17	Palabra:	truquitos				lema:truquito
+id:	18	Palabra:	.				lema:.
 
-=== 			 Tweet 85 tokens			===
+=== 			 Tweet 77 tokens			===
 id:	1	Palabra:	entendiendo				lema:entender
 id:	2	Palabra:	cuál				lema:cuál
 id:	3	Palabra:	onda				lema:onda
@@ -1287,10 +1144,9 @@ id:	5	Palabra:	transporte				lema:transporte
 id:	6	Palabra:	público				lema:público
 id:	7	Palabra:	vamos				lema:ir
 id:	8	Palabra:	apretados				lema:apretado
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 86 tokens			===
+=== 			 Tweet 78 tokens			===
 id:	1	Palabra:	dice				lema:decir
 id:	2	Palabra:	q				lema:q
 id:	3	Palabra:	alemania				lema:alemania
@@ -1310,10 +1166,9 @@ id:	16	Palabra:	partidario				lema:partidario
 id:	17	Palabra:	nacionalsocialismo				lema:nacionalsocialismo
 id:	18	Palabra:	_organización				lema:_organización
 id:	19	Palabra:	políticas				lema:político
-id:	20	Palabra:	#asco				lema:#asco
-id:	21	Palabra:	.				lema:.
+id:	20	Palabra:	.				lema:.
 
-=== 			 Tweet 87 tokens			===
+=== 			 Tweet 79 tokens			===
 id:	1	Palabra:	ortodoncia				lema:ortodoncia
 id:	2	Palabra:	2				lema:2
 id:	3	Palabra:	arcadas				lema:arcada
@@ -1324,11 +1179,9 @@ id:	7	Palabra:	pagaba				lema:pagar
 id:	8	Palabra:	carita				lema:carita
 id:	9	Palabra:	_indiferencia_o				lema:_indiferencia_o
 id:	10	Palabra:	_inexpresión				lema:_inexpresión
-id:	11	Palabra:	#dientes				lema:#dientes
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 88 tokens			===
+=== 			 Tweet 80 tokens			===
 id:	1	Palabra:	hoy				lema:hoy
 id:	2	Palabra:	visto				lema:visto
 id:	3	Palabra:	buzón				lema:buzón
@@ -1341,11 +1194,9 @@ id:	9	Palabra:	sigo				lema:seguir
 id:	10	Palabra:	pensando				lema:pensar
 id:	11	Palabra:	fondo				lema:fondo
 id:	12	Palabra:	mar				lema:mar
-id:	13	Palabra:	#nomedoblegan				lema:#nomedoblegan
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 89 tokens			===
+=== 			 Tweet 81 tokens			===
 id:	1	Palabra:	poniendo				lema:poner
 id:	2	Palabra:	ahora				lema:ahora
 id:	3	Palabra:	mismo				lema:mismo
@@ -1356,10 +1207,9 @@ id:	7	Palabra:	persiguen				lema:perseguir
 id:	8	Palabra:	malos				lema:malo
 id:	9	Palabra:	convierten				lema:convertir
 id:	10	Palabra:	malos				lema:malo
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 90 tokens			===
+=== 			 Tweet 82 tokens			===
 id:	1	Palabra:	imagenes				lema:imagen
 id:	2	Palabra:	cuarto				lema:cuarto
 id:	3	Palabra:	descanzo				lema:descanzo
@@ -1372,38 +1222,32 @@ id:	9	Palabra:	q				lema:q
 id:	10	Palabra:	inmoralidad				lema:inmoralidad
 id:	11	Palabra:	volvieron				lema:volver
 id:	12	Palabra:	elegir				lema:elegir
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 91 tokens			===
+=== 			 Tweet 83 tokens			===
 id:	1	Palabra:	comienza				lema:comenzar
 id:	2	Palabra:	campaña				lema:campaña
-id:	3	Palabra:	salamanquesas				lema:salamanquesas
+id:	3	Palabra:	salamanquesas				lema:salamanqués
 id:	4	Palabra:	_galletas				lema:_galleta
 id:	5	Palabra:	fachada				lema:fachada
 id:	6	Palabra:	bien				lema:bien
 id:	7	Palabra:	carmen				lema:carmen
 id:	8	Palabra:	bien				lema:bien
-id:	9	Palabra:	tt				lema:tt
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	9	Palabra:	tt.				lema:tt.
+id:	10	Palabra:	mal				lema:mal
+id:	11	Palabra:	pacers				lema:pacers
+id:	12	Palabra:	cerrar				lema:cerrar
+id:	13	Palabra:	partido				lema:partido
+id:	14	Palabra:	_política				lema:_política
+id:	15	Palabra:	jugaron				lema:jugar
+id:	16	Palabra:	q				lema:q
+id:	17	Palabra:	cortar				lema:cortar
+id:	18	Palabra:	consumieron				lema:consumir
+id:	19	Palabra:	reloj				lema:reloj
+id:	20	Palabra:	volcaron				lema:volcar
+id:	21	Palabra:	.				lema:.
 
-=== 			 Tweet 92 tokens			===
-id:	1	Palabra:	mal				lema:mal
-id:	2	Palabra:	pacers				lema:pacers
-id:	3	Palabra:	cerrar				lema:cerrar
-id:	4	Palabra:	partido				lema:partido
-id:	5	Palabra:	_política				lema:_política
-id:	6	Palabra:	jugaron				lema:jugar
-id:	7	Palabra:	q				lema:q
-id:	8	Palabra:	cortar				lema:cortar
-id:	9	Palabra:	consumieron				lema:consumir
-id:	10	Palabra:	reloj				lema:reloj
-id:	11	Palabra:	volcaron				lema:volcar
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
-
-=== 			 Tweet 93 tokens			===
+=== 			 Tweet 84 tokens			===
 id:	1	Palabra:	echa				lema:echar
 id:	2	Palabra:	culpa				lema:culpa
 id:	3	Palabra:	caradura				lema:caradura
@@ -1414,12 +1258,11 @@ id:	7	Palabra:	mierda				lema:mierda
 id:	8	Palabra:	sos				lema:ser
 id:	9	Palabra:	criticas				lema:critica
 id:	10	Palabra:	siempre				lema:siempre
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	das				lema:dar
-id:	13	Palabra:	carita_triste				lema:carita_triste
-id:	14	Palabra:	.				lema:.
+id:	11	Palabra:	das				lema:dar
+id:	12	Palabra:	carita_triste				lema:carita_triste
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 94 tokens			===
+=== 			 Tweet 85 tokens			===
 id:	1	Palabra:	rosario				lema:rosario
 id:	2	Palabra:	residuos				lema:residuo
 id:	3	Palabra:	cloacales				lema:cloacal
@@ -1432,10 +1275,9 @@ id:	9	Palabra:	río				lema:río
 id:	10	Palabra:	onda				lema:onda
 id:	11	Palabra:	proceso				lema:proceso
 id:	12	Palabra:	previo				lema:previo
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 95 tokens			===
+=== 			 Tweet 86 tokens			===
 id:	1	Palabra:	canción				lema:canción
 id:	2	Palabra:	mas				lema:mas
 id:	3	Palabra:	horrible				lema:horrible
@@ -1447,10 +1289,9 @@ id:	8	Palabra:	afeitado				lema:afeitado
 id:	9	Palabra:	veremos				lema:ver
 id:	10	Palabra:	pasaría				lema:pasar
 id:	11	Palabra:	increible				lema:increible
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 96 tokens			===
+=== 			 Tweet 87 tokens			===
 id:	1	Palabra:	entiendo				lema:entender
 id:	2	Palabra:	q				lema:q
 id:	3	Palabra:	hace				lema:hacer
@@ -1465,10 +1306,9 @@ id:	11	Palabra:	q				lema:q
 id:	12	Palabra:	desagradable				lema:desagradable
 id:	13	Palabra:	edith				lema:edith
 id:	14	Palabra:	hermida				lema:hermido
-id:	15	Palabra:	#asco				lema:#asco
-id:	16	Palabra:	.				lema:.
+id:	15	Palabra:	.				lema:.
 
-=== 			 Tweet 97 tokens			===
+=== 			 Tweet 88 tokens			===
 id:	1	Palabra:	informar				lema:informar
 id:	2	Palabra:	me				lema:yo
 id:	3	Palabra:	pais				lema:pais
@@ -1478,11 +1318,9 @@ id:	6	Palabra:	menos				lema:menos
 id:	7	Palabra:	si				lema:si
 id:	8	Palabra:	gente				lema:gente
 id:	9	Palabra:	ustedes				lema:tú
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	#vomito				lema:#vomito
-id:	12	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 98 tokens			===
+=== 			 Tweet 89 tokens			===
 id:	1	Palabra:	espera				lema:esperar
 id:	2	Palabra:	día				lema:día
 id:	3	Palabra:	duro				lema:duro
@@ -1495,10 +1333,9 @@ id:	9	Palabra:	creais				lema:creer
 id:	10	Palabra:	alivio				lema:alivio
 id:	11	Palabra:	micro				lema:micro
 id:	12	Palabra:	ee				lema:ee
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 99 tokens			===
+=== 			 Tweet 90 tokens			===
 id:	1	Palabra:	alguien				lema:alguien
 id:	2	Palabra:	explica				lema:explicar
 id:	3	Palabra:	sali				lema:salir
@@ -1507,38 +1344,32 @@ id:	5	Palabra:	pasan				lema:pasar
 id:	6	Palabra:	años				lema:año
 id:	7	Palabra:	juro				lema:jurir
 id:	8	Palabra:	entiendo				lema:entender
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	#me				lema:#me
-id:	11	Palabra:	#doy				lema:#doy
-id:	12	Palabra:	fijar				lema:fijar
-id:	13	Palabra:	me				lema:yo
-id:	14	Palabra:	personalidad				lema:personalidad
-id:	15	Palabra:	uu				lema:uu
-id:	16	Palabra:	.				lema:.
-id:	17	Palabra:	si				lema:si
-id:	18	Palabra:	suficiente				lema:suficiente
-id:	19	Palabra:	alergia				lema:alergia
-id:	20	Palabra:	qur				lema:qur
-id:	21	Palabra:	pone				lema:poner
-id:	22	Palabra:	jarrear				lema:jarrear
-id:	23	Palabra:	mañana				lema:mañana
-id:	24	Palabra:	peor				lema:peor
-id:	25	Palabra:	#asco				lema:#asco
-id:	26	Palabra:	.				lema:.
+id:	9	Palabra:	fijar				lema:fijar
+id:	10	Palabra:	me				lema:yo
+id:	11	Palabra:	personalidad				lema:personalidad
+id:	12	Palabra:	uu				lema:uu
+id:	13	Palabra:	.				lema:.
+id:	14	Palabra:	si				lema:si
+id:	15	Palabra:	suficiente				lema:suficiente
+id:	16	Palabra:	alergia				lema:alergia
+id:	17	Palabra:	qur				lema:qur
+id:	18	Palabra:	pone				lema:poner
+id:	19	Palabra:	jarrear				lema:jarrear
+id:	20	Palabra:	mañana				lema:mañana
+id:	21	Palabra:	peor				lema:peor
+id:	22	Palabra:	.				lema:.
 
-=== 			 Tweet 100 tokens			===
+=== 			 Tweet 91 tokens			===
 id:	1	Palabra:	consciente				lema:consciente
 id:	2	Palabra:	sida				lema:sida
 id:	3	Palabra:	da				lema:dar
 id:	4	Palabra:	gente				lema:gente
 id:	5	Palabra:	usa				lema:usar
 id:	6	Palabra:	hastags				lema:hastags
-id:	7	Palabra:	#sida				lema:#sida
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	#dejalaalmohadillatranquila				lema:#dejalaalmohadillatranquila
-id:	10	Palabra:	.				lema:.
+id:	7	Palabra:	todo				lema:todo
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 101 tokens			===
+=== 			 Tweet 92 tokens			===
 id:	1	Palabra:	mentiroso				lema:mentiroso
 id:	2	Palabra:	así				lema:así
 id:	3	Palabra:	pretende				lema:pretender
@@ -1546,54 +1377,46 @@ id:	4	Palabra:	ser				lema:ser
 id:	5	Palabra:	presidente				lema:presidente
 id:	6	Palabra:	cualquier				lema:cualquiera
 id:	7	Palabra:	pais				lema:pais
-id:	8	Palabra:	#bajo				lema:#bajo
-id:	9	Palabra:	#basura				lema:#basura
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	#verguenza				lema:#verguenza
-id:	12	Palabra:	cc.				lema:cc.
-id:	13	Palabra:	javier				lema:javier
-id:	14	Palabra:	mascherano				lema:mascherano
-id:	15	Palabra:	_futbolista				lema:_futbolista
-id:	16	Palabra:	parece				lema:parecer
-id:	17	Palabra:	deje				lema:dejar
-id:	18	Palabra:	fc				lema:fc
-id:	19	Palabra:	barcelona				lema:barcelona
-id:	20	Palabra:	_club				lema:_club
-id:	21	Palabra:	fútbol				lema:fútbol
-id:	22	Palabra:	temporada				lema:temporada
-id:	23	Palabra:	equipo				lema:equipo
-id:	24	Palabra:	pena				lema:pena
-id:	25	Palabra:	gran				lema:gran
-id:	26	Palabra:	manera				lema:manera
-id:	27	Palabra:	empezar				lema:empezar
-id:	28	Palabra:	ultima				lema:ultimo
-id:	29	Palabra:	semana				lema:semana
-id:	30	Palabra:	examenes				lema:examen
-id:	31	Palabra:	ohsi				lema:ohsi
-id:	32	Palabra:	#asco				lema:#asco
-id:	33	Palabra:	.				lema:.
+id:	8	Palabra:	cc.				lema:cc.
+id:	9	Palabra:	javier				lema:javier
+id:	10	Palabra:	mascherano				lema:mascherano
+id:	11	Palabra:	_futbolista				lema:_futbolista
+id:	12	Palabra:	parece				lema:parecer
+id:	13	Palabra:	deje				lema:dejar
+id:	14	Palabra:	fc				lema:fc
+id:	15	Palabra:	barcelona				lema:barcelona
+id:	16	Palabra:	_club				lema:_club
+id:	17	Palabra:	fútbol				lema:fútbol
+id:	18	Palabra:	temporada				lema:temporada
+id:	19	Palabra:	equipo				lema:equipo
+id:	20	Palabra:	pena				lema:pena
+id:	21	Palabra:	gran				lema:gran
+id:	22	Palabra:	manera				lema:manera
+id:	23	Palabra:	empezar				lema:empezar
+id:	24	Palabra:	ultima				lema:ultimo
+id:	25	Palabra:	semana				lema:semana
+id:	26	Palabra:	examenes				lema:examen
+id:	27	Palabra:	ohsi				lema:ohsi
+id:	28	Palabra:	.				lema:.
 
-=== 			 Tweet 102 tokens			===
+=== 			 Tweet 93 tokens			===
 id:	1	Palabra:	puto				lema:puto
 id:	2	Palabra:	whatssap				lema:whatssap
 id:	3	Palabra:	tocara				lema:tocar
 id:	4	Palabra:	volver				lema:volver
 id:	5	Palabra:	antiguas				lema:antiguo
-id:	6	Palabra:	redes#asco				lema:redes#asco
+id:	6	Palabra:	redes				lema:red
 id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 103 tokens			===
-id:	1	Palabra:	#buenosdías				lema:#buenosdías
-id:	2	Palabra:	dictadura				lema:dictadura
-id:	3	Palabra:	camuflada				lema:camuflado
-id:	4	Palabra:	cada				lema:cada
-id:	5	Palabra:	vez				lema:vez
-id:	6	Palabra:	evidente				lema:evidente
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	#piñasporelculo				lema:#piñasporelculo
-id:	9	Palabra:	.				lema:.
+=== 			 Tweet 94 tokens			===
+id:	1	Palabra:	dictadura				lema:dictadura
+id:	2	Palabra:	camuflada				lema:camuflado
+id:	3	Palabra:	cada				lema:cada
+id:	4	Palabra:	vez				lema:vez
+id:	5	Palabra:	evidente				lema:evidente
+id:	6	Palabra:	.				lema:.
 
-=== 			 Tweet 104 tokens			===
+=== 			 Tweet 95 tokens			===
 id:	1	Palabra:	viendo				lema:ver
 id:	2	Palabra:	personas				lema:persona
 id:	3	Palabra:	marzo				lema:marzo
@@ -1608,10 +1431,10 @@ id:	11	Palabra:	super				lema:super
 id:	12	Palabra:	fanáticos				lema:fanático
 id:	13	Palabra:	amp				lema:amp
 id:	14	Palabra:	opinan				lema:opinar
-id:	15	Palabra:	#asco				lema:#asco
+id:	15	Palabra:	todos				lema:todo
 id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 105 tokens			===
+=== 			 Tweet 96 tokens			===
 id:	1	Palabra:	cada				lema:cada
 id:	2	Palabra:	cosa				lema:cosa
 id:	3	Palabra:	anga				lema:ango
@@ -1621,10 +1444,9 @@ id:	6	Palabra:	dejar				lema:dejar
 id:	7	Palabra:	te				lema:tú
 id:	8	Palabra:	mal				lema:mal
 id:	9	Palabra:	jajajaja				lema:jajajaja
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 106 tokens			===
+=== 			 Tweet 97 tokens			===
 id:	1	Palabra:	ahora				lema:ahora
 id:	2	Palabra:	mas				lema:mas
 id:	3	Palabra:	hincha				lema:hincha
@@ -1633,10 +1455,9 @@ id:	5	Palabra:	nunca				lema:nunca
 id:	6	Palabra:	olvidan				lema:olvidar
 id:	7	Palabra:	hicieron				lema:hacer
 id:	8	Palabra:	descenso				lema:descenso
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 107 tokens			===
+=== 			 Tweet 98 tokens			===
 id:	1	Palabra:	acabo				lema:acabar
 id:	2	Palabra:	ver				lema:ver
 id:	3	Palabra:	tipo				lema:tipo
@@ -1648,11 +1469,9 @@ id:	8	Palabra:	wahtssup				lema:wahtssup
 id:	9	Palabra:	vaina				lema:vaina
 id:	10	Palabra:	mas				lema:mas
 id:	11	Palabra:	virgen				lema:virgen
-id:	12	Palabra:	#dependencia				lema:#dependencia
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 108 tokens			===
+=== 			 Tweet 99 tokens			===
 id:	1	Palabra:	estrellas				lema:estrella
 id:	2	Palabra:	bonitas				lema:bonito
 id:	3	Palabra:	momento				lema:momento
@@ -1660,10 +1479,9 @@ id:	4	Palabra:	aprender				lema:aprender
 id:	5	Palabra:	todas				lema:todo
 id:	6	Palabra:	malditas				lema:maldito
 id:	7	Palabra:	etapas				lema:etapa
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 109 tokens			===
+=== 			 Tweet 100 tokens			===
 id:	1	Palabra:	familiar				lema:familiar
 id:	2	Palabra:	lucra				lema:lucrir
 id:	3	Palabra:	muerte				lema:muerte
@@ -1672,10 +1490,9 @@ id:	5	Palabra:	categoría				lema:categoría
 id:	6	Palabra:	ser				lema:ser
 id:	7	Palabra:	humano				lema:humano
 id:	8	Palabra:	entra				lema:entrar
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 110 tokens			===
+=== 			 Tweet 101 tokens			===
 id:	1	Palabra:	peor				lema:peor
 id:	2	Palabra:	ir				lema:ir
 id:	3	Palabra:	bondi				lema:bondi
@@ -1684,20 +1501,18 @@ id:	5	Palabra:	2				lema:2
 id:	6	Palabra:	lesbianas				lema:lesbiano
 id:	7	Palabra:	lado				lema:lado
 id:	8	Palabra:	chapando				lema:chapando
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 111 tokens			===
+=== 			 Tweet 102 tokens			===
 id:	1	Palabra:	comi				lema:comer
 id:	2	Palabra:	morcilla				lema:morcilla
 id:	3	Palabra:	mas				lema:mas
 id:	4	Palabra:	salada				lema:salada
 id:	5	Palabra:	picante				lema:picante
 id:	6	Palabra:	mundo				lema:mundo
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	.				lema:.
+id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 112 tokens			===
+=== 			 Tweet 103 tokens			===
 id:	1	Palabra:	entro				lema:entrar
 id:	2	Palabra:	twitter_red				lema:twitter_red
 id:	3	Palabra:	social				lema:social
@@ -1710,22 +1525,18 @@ id:	9	Palabra:	dfensor				lema:dfensor
 id:	10	Palabra:	vuelvo				lema:volver
 id:	11	Palabra:	voy				lema:ir
 id:	12	Palabra:	vomitar				lema:vomitar
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 113 tokens			===
+=== 			 Tweet 104 tokens			===
 id:	1	Palabra:	odio				lema:odio
 id:	2	Palabra:	escuchar				lema:escuchar
 id:	3	Palabra:	hablar				lema:hablar
 id:	4	Palabra:	semejante				lema:semejante
 id:	5	Palabra:	ignorancia				lema:ignorancia
 id:	6	Palabra:	negras				lema:negro
-id:	7	Palabra:	#dios				lema:#dios
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	#pobresmisoidos				lema:#pobresmisoidos
-id:	10	Palabra:	.				lema:.
+id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 114 tokens			===
+=== 			 Tweet 105 tokens			===
 id:	1	Palabra:	lastima				lema:lastimar
 id:	2	Palabra:	jubilen				lema:jubilar
 id:	3	Palabra:	ciertos				lema:cierto
@@ -1736,20 +1547,18 @@ id:	7	Palabra:	juan				lema:juan
 id:	8	Palabra:	_provincia				lema:_provincia
 id:	9	Palabra:	argentina				lema:argentino
 id:	10	Palabra:	bosco				lema:bosco
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 115 tokens			===
+=== 			 Tweet 106 tokens			===
 id:	1	Palabra:	saber				lema:saber
 id:	2	Palabra:	sacar				lema:sacar
 id:	3	Palabra:	camison				lema:camison
 id:	4	Palabra:	pone				lema:poner
 id:	5	Palabra:	mal				lema:mal
 id:	6	Palabra:	humor				lema:humor
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	.				lema:.
+id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 116 tokens			===
+=== 			 Tweet 107 tokens			===
 id:	1	Palabra:	pueda				lema:poder
 id:	2	Palabra:	ir				lema:ir
 id:	3	Palabra:	murcia				lema:murcia
@@ -1759,12 +1568,9 @@ id:	6	Palabra:	prima				lema:prima
 id:	7	Palabra:	estudiando				lema:estudiar
 id:	8	Palabra:	toca				lema:tocar
 id:	9	Palabra:	ovarios				lema:ovario
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	#2bach				lema:#2bach
-id:	12	Palabra:	#terminaya				lema:#terminaya
-id:	13	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 117 tokens			===
+=== 			 Tweet 108 tokens			===
 id:	1	Palabra:	diria				lema:decir
 id:	2	Palabra:	promotoras				lema:promotora
 id:	3	Palabra:	si				lema:si
@@ -1779,20 +1585,18 @@ id:	11	Palabra:	tener				lema:tener
 id:	12	Palabra:	culo				lema:culo
 id:	13	Palabra:	tan				lema:tanto
 id:	14	Palabra:	caido				lema:caido
-id:	15	Palabra:	#asco				lema:#asco
-id:	16	Palabra:	.				lema:.
+id:	15	Palabra:	.				lema:.
 
-=== 			 Tweet 118 tokens			===
+=== 			 Tweet 109 tokens			===
 id:	1	Palabra:	puede				lema:poder
 id:	2	Palabra:	ser				lema:ser
 id:	3	Palabra:	lindo				lema:lindo
 id:	4	Palabra:	quieras				lema:querer
 id:	5	Palabra:	super				lema:super
 id:	6	Palabra:	agrandado				lema:agrandado
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	.				lema:.
+id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 119 tokens			===
+=== 			 Tweet 110 tokens			===
 id:	1	Palabra:	siento				lema:sentir
 id:	2	Palabra:	verdadero				lema:verdadero
 id:	3	Palabra:	asco				lema:asco
@@ -1804,10 +1608,9 @@ id:	8	Palabra:	madre				lema:madre
 id:	9	Palabra:	hermana				lema:hermana
 id:	10	Palabra:	hija				lema:hija
 id:	11	Palabra:	justificarían				lema:justificar
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 120 tokens			===
+=== 			 Tweet 111 tokens			===
 id:	1	Palabra:	opinan				lema:opinar
 id:	2	Palabra:	critican				lema:criticar
 id:	3	Palabra:	saben				lema:saber
@@ -1816,10 +1619,9 @@ id:	5	Palabra:	lugar				lema:lugar
 id:	6	Palabra:	sienten				lema:sentir
 id:	7	Palabra:	verdaderamente				lema:verdaderamente
 id:	8	Palabra:	sientes				lema:sentir
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 121 tokens			===
+=== 			 Tweet 112 tokens			===
 id:	1	Palabra:	mucha				lema:mucho
 id:	2	Palabra:	gente				lema:gente
 id:	3	Palabra:	mierda				lema:mierda
@@ -1833,10 +1635,9 @@ id:	10	Palabra:	acuerdan				lema:acordar
 id:	11	Palabra:	colores				lema:color
 id:	12	Palabra:	solo				lema:solo
 id:	13	Palabra:	mundial				lema:mundial
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	.				lema:.
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 122 tokens			===
+=== 			 Tweet 113 tokens			===
 id:	1	Palabra:	feligreses				lema:feligrés
 id:	2	Palabra:	_partidarios				lema:_partidario
 id:	3	Palabra:	religión				lema:religión
@@ -1844,12 +1645,10 @@ id:	4	Palabra:	clientas				lema:clienta
 id:	5	Palabra:	sumisos				lema:sumiso
 id:	6	Palabra:	obedientes				lema:obediente
 id:	7	Palabra:	oportunistas				lema:oportunista
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	#ppsoe				lema:#ppsoe
-id:	10	Palabra:	#dictadura				lema:#dictadura
-id:	11	Palabra:	.				lema:.
+id:	8	Palabra:	otras				lema:otro
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 123 tokens			===
+=== 			 Tweet 114 tokens			===
 id:	1	Palabra:	triste				lema:triste
 id:	2	Palabra:	ver				lema:ver
 id:	3	Palabra:	botella				lema:botella
@@ -1863,10 +1662,9 @@ id:	10	Palabra:	q				lema:q
 id:	11	Palabra:	vivimos				lema:vivir
 id:	12	Palabra:	trabajamos				lema:trabajar
 id:	13	Palabra:	aqui				lema:aqui
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	.				lema:.
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 124 tokens			===
+=== 			 Tweet 115 tokens			===
 id:	1	Palabra:	gente				lema:gente
 id:	2	Palabra:	sigo				lema:seguir
 id:	3	Palabra:	solo				lema:solo
@@ -1882,10 +1680,9 @@ id:	12	Palabra:	-				lema:-
 id:	13	Palabra:	persona				lema:persona
 id:	14	Palabra:	feos				lema:feo
 id:	15	Palabra:	serio				lema:serio
-id:	16	Palabra:	#asco				lema:#asco
-id:	17	Palabra:	.				lema:.
+id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 125 tokens			===
+=== 			 Tweet 116 tokens			===
 id:	1	Palabra:	crotera				lema:crotera
 id:	2	Palabra:	va				lema:ir
 id:	3	Palabra:	carajosoy				lema:carajosoy
@@ -1893,21 +1690,20 @@ id:	4	Palabra:	milanesa				lema:milanesa
 id:	5	Palabra:	andante				lema:andante
 id:	6	Palabra:	olor				lema:olor
 id:	7	Palabra:	asi				lema:asi
-id:	8	Palabra:	acuesto				lema:acuesto
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	8	Palabra:	acuesto				lema:acostar
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 126 tokens			===
+=== 			 Tweet 117 tokens			===
 id:	1	Palabra:	puta				lema:puta
 id:	2	Palabra:	reclusa				lema:reclusa
 id:	3	Palabra:	parda				lema:pardo
 id:	4	Palabra:	valla				lema:valla
 id:	5	Palabra:	buenos				lema:buen
 id:	6	Palabra:	dias				lema:dia
-id:	7	Palabra:	dao#asco				lema:dao#asco
+id:	7	Palabra:	dao				lema:dao
 id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 127 tokens			===
+=== 			 Tweet 118 tokens			===
 id:	1	Palabra:	puta				lema:puta
 id:	2	Palabra:	mierda				lema:mierda
 id:	3	Palabra:	país				lema:país
@@ -1925,10 +1721,9 @@ id:	14	Palabra:	ahora				lema:ahora
 id:	15	Palabra:	dejan				lema:dejar
 id:	16	Palabra:	dar				lema:dar
 id:	17	Palabra:	opinión				lema:opinión
-id:	18	Palabra:	#asco				lema:#asco
-id:	19	Palabra:	.				lema:.
+id:	18	Palabra:	.				lema:.
 
-=== 			 Tweet 128 tokens			===
+=== 			 Tweet 119 tokens			===
 id:	1	Palabra:	alejandro				lema:alejandro
 id:	2	Palabra:	sabella				lema:sabello
 id:	3	Palabra:	_exfutbolista				lema:_exfutbolista
@@ -1939,10 +1734,9 @@ id:	7	Palabra:	corbata				lema:corbata
 id:	8	Palabra:	roja				lema:rojo
 id:	9	Palabra:	dando				lema:dar
 id:	10	Palabra:	lista				lema:lista
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 129 tokens			===
+=== 			 Tweet 120 tokens			===
 id:	1	Palabra:	ahora				lema:ahora
 id:	2	Palabra:	vuelvo				lema:volver
 id:	3	Palabra:	oyendo				lema:oír
@@ -1951,11 +1745,9 @@ id:	5	Palabra:	valencia_ciudad				lema:valencia_ciudad
 id:	6	Palabra:	españolano				lema:españolano
 id:	7	Palabra:	vomitar				lema:vomitar
 id:	8	Palabra:	chao				lema:chao
-id:	9	Palabra:	#caraacaratve				lema:#caraacaratve
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 130 tokens			===
+=== 			 Tweet 121 tokens			===
 id:	1	Palabra:	comenzó				lema:comenzar
 id:	2	Palabra:	frases				lema:frase
 id:	3	Palabra:	siglos				lema:siglo
@@ -1966,22 +1758,18 @@ id:	7	Palabra:	toma				lema:tomar
 id:	8	Palabra:	sopa				lema:sopa
 id:	9	Palabra:	macha				lema:macho
 id:	10	Palabra:	cara				lema:cara
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 131 tokens			===
+=== 			 Tweet 122 tokens			===
 id:	1	Palabra:	debate				lema:debate
 id:	2	Palabra:	provoca				lema:provocar
-id:	3	Palabra:	#nauseas				lema:#nauseas
-id:	4	Palabra:	buenos				lema:buen
-id:	5	Palabra:	malos				lema:malo
-id:	6	Palabra:	#asco				lema:#asco
-id:	7	Palabra:	dais				lema:dar
-id:	8	Palabra:	dos				lema:dos
-id:	9	Palabra:	#ppsoekk				lema:#ppsoekk
-id:	10	Palabra:	.				lema:.
+id:	3	Palabra:	buenos				lema:buen
+id:	4	Palabra:	malos				lema:malo
+id:	5	Palabra:	dais				lema:dais
+id:	6	Palabra:	dos				lema:dos
+id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 132 tokens			===
+=== 			 Tweet 123 tokens			===
 id:	1	Palabra:	chavales				lema:chaval
 id:	2	Palabra:	haber				lema:haber
 id:	3	Palabra:	si				lema:si
@@ -1995,10 +1783,10 @@ id:	10	Palabra:	sino				lema:sino
 id:	11	Palabra:	modeloporque				lema:modeloporque
 id:	12	Palabra:	valla				lema:valla
 id:	13	Palabra:	modelos				lema:modelo
-id:	14	Palabra:	pollais#asco				lema:pollais#asco
+id:	14	Palabra:	pollais				lema:pollais
 id:	15	Palabra:	.				lema:.
 
-=== 			 Tweet 133 tokens			===
+=== 			 Tweet 124 tokens			===
 id:	1	Palabra:	ira				lema:ira
 id:	2	Palabra:	vida				lema:vida
 id:	3	Palabra:	vos				lema:yo
@@ -2008,10 +1796,9 @@ id:	6	Palabra:	mejor				lema:mejor
 id:	7	Palabra:	cerra				lema:cerrar
 id:	8	Palabra:	boca				lema:boca
 id:	9	Palabra:	mejor				lema:mejor
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 134 tokens			===
+=== 			 Tweet 125 tokens			===
 id:	1	Palabra:	tiempos				lema:tiempo
 id:	2	Palabra:	q				lema:q
 id:	3	Palabra:	vengo				lema:venger
@@ -2027,21 +1814,19 @@ id:	12	Palabra:	sabia				lema:sabio
 id:	13	Palabra:	olía				lema:olear
 id:	14	Palabra:	mal				lema:mal
 id:	15	Palabra:	pan				lema:pan
-id:	16	Palabra:	#asco				lema:#asco
-id:	17	Palabra:	.				lema:.
+id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 135 tokens			===
+=== 			 Tweet 126 tokens			===
 id:	1	Palabra:	foto				lema:foto
 id:	2	Palabra:	mas				lema:mas
-id:	3	Palabra:	cara				lema:caro
+id:	3	Palabra:	cara				lema:cara
 id:	4	Palabra:	zorra				lema:zorra
 id:	5	Palabra:	pudo				lema:poder
 id:	6	Palabra:	haber				lema:haber
 id:	7	Palabra:	sacado				lema:sacar
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 136 tokens			===
+=== 			 Tweet 127 tokens			===
 id:	1	Palabra:	si				lema:si
 id:	2	Palabra:	si				lema:si
 id:	3	Palabra:	precioso				lema:precioso
@@ -2052,40 +1837,34 @@ id:	7	Palabra:	billeteras				lema:billetera
 id:	8	Palabra:	jeques				lema:jeque
 id:	9	Palabra:	digas				lema:decir
 id:	10	Palabra:	memeces				lema:memez
-id:	11	Palabra:	#ligademierda				lema:#ligademierda
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 137 tokens			===
+=== 			 Tweet 128 tokens			===
 id:	1	Palabra:	pena				lema:pena
 id:	2	Palabra:	ver				lema:ver
-id:	3	Palabra:	#tocopilla				lema:#tocopilla
-id:	4	Palabra:	dejan				lema:dejar
-id:	5	Palabra:	lado				lema:lado
-id:	6	Palabra:	desfile				lema:desfile
-id:	7	Palabra:	tan				lema:tanto
-id:	8	Palabra:	poca				lema:poco
-id:	9	Palabra:	distraccion				lema:distraccion
-id:	10	Palabra:	#demalenpeor				lema:#demalenpeor
-id:	11	Palabra:	autoridades				lema:autoridad
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	3	Palabra:	dejan				lema:dejar
+id:	4	Palabra:	lado				lema:lado
+id:	5	Palabra:	desfile				lema:desfile
+id:	6	Palabra:	tan				lema:tanto
+id:	7	Palabra:	poca				lema:poco
+id:	8	Palabra:	distraccion				lema:distraccion
+id:	9	Palabra:	autoridades				lema:autoridad
+id:	10	Palabra:	un				lema:uno
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 138 tokens			===
+=== 			 Tweet 129 tokens			===
 id:	1	Palabra:	cara				lema:cara
-id:	2	Palabra:	dura				lema:durar
+id:	2	Palabra:	dura				lema:duro
 id:	3	Palabra:	cuantos				lema:cuanto
 id:	4	Palabra:	apoyados				lema:apoyado
 id:	5	Palabra:	políticos				lema:político
-id:	6	Palabra:	#cinismo				lema:#cinismo
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	mejores				lema:mejor
-id:	9	Palabra:	sueldos				lema:sueldo
-id:	10	Palabra:	españa_país				lema:españa_po
-id:	11	Palabra:	vía				lema:vía
-id:	12	Palabra:	.				lema:.
+id:	6	Palabra:	mejores				lema:mejor
+id:	7	Palabra:	sueldos				lema:sueldo
+id:	8	Palabra:	españa_país				lema:españa_po
+id:	9	Palabra:	vía				lema:vía
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 139 tokens			===
+=== 			 Tweet 130 tokens			===
 id:	1	Palabra:	resisto				lema:resistir
 id:	2	Palabra:	oportunismo				lema:oportunismo
 id:	3	Palabra:	silvio				lema:silvio
@@ -2097,10 +1876,9 @@ id:	8	Palabra:	ganar				lema:ganar
 id:	9	Palabra:	gracia				lema:gracia
 id:	10	Palabra:	dolor				lema:dolor
 id:	11	Palabra:	familia				lema:familia
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 140 tokens			===
+=== 			 Tweet 131 tokens			===
 id:	1	Palabra:	q				lema:q
 id:	2	Palabra:	asco				lema:asco
 id:	3	Palabra:	mina				lema:mina
@@ -2108,10 +1886,10 @@ id:	4	Palabra:	importa				lema:importar
 id:	5	Palabra:	saber				lema:saber
 id:	6	Palabra:	si				lema:si
 id:	7	Palabra:	vino				lema:venir
-id:	8	Palabra:	#asco				lema:#asco
+id:	8	Palabra:	no				lema:no
 id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 141 tokens			===
+=== 			 Tweet 132 tokens			===
 id:	1	Palabra:	favor				lema:favor
 id:	2	Palabra:	maxi				lema:maxi
 id:	3	Palabra:	diorio				lema:diorio
@@ -2120,11 +1898,9 @@ id:	5	Palabra:	baile				lema:baile
 id:	6	Palabra:	ylo				lema:ylo
 id:	7	Palabra:	escupo				lema:escupir
 id:	8	Palabra:	aleje				lema:alejar
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	#maxipitolanga				lema:#maxipitolanga
-id:	11	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 142 tokens			===
+=== 			 Tweet 133 tokens			===
 id:	1	Palabra:	hicieron				lema:hacer
 id:	2	Palabra:	ayer				lema:ayer
 id:	3	Palabra:	jugadores				lema:jugador
@@ -2138,10 +1914,10 @@ id:	10	Palabra:	saber				lema:saber
 id:	11	Palabra:	ganar				lema:ganar
 id:	12	Palabra:	saben				lema:saber
 id:	13	Palabra:	hacer				lema:hacer
-id:	14	Palabra:	#asco				lema:#asco
+id:	14	Palabra:	nada				lema:nada
 id:	15	Palabra:	.				lema:.
 
-=== 			 Tweet 143 tokens			===
+=== 			 Tweet 134 tokens			===
 id:	1	Palabra:	después				lema:después
 id:	2	Palabra:	bochorno				lema:bochorno
 id:	3	Palabra:	portada				lema:portada
@@ -2150,10 +1926,10 @@ id:	5	Palabra:	intentad				lema:intentar
 id:	6	Palabra:	aparentar				lema:aparentar
 id:	7	Palabra:	importan				lema:importar
 id:	8	Palabra:	chicos				lema:chico
-id:	9	Palabra:	malagueño#asco				lema:malagueño#asco
+id:	9	Palabra:	malagueño				lema:malagueño
 id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 144 tokens			===
+=== 			 Tweet 135 tokens			===
 id:	1	Palabra:	atencion				lema:atencion
 id:	2	Palabra:	trabajadores				lema:trabajador
 id:	3	Palabra:	agencia				lema:agencia
@@ -2166,10 +1942,9 @@ id:	9	Palabra:	ser				lema:ser
 id:	10	Palabra:	unica				lema:unico
 id:	11	Palabra:	persona				lema:persona
 id:	12	Palabra:	siesa				lema:sieso
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 145 tokens			===
+=== 			 Tweet 136 tokens			===
 id:	1	Palabra:	viendo				lema:ver
 id:	2	Palabra:	reportaje				lema:reportaje
 id:	3	Palabra:	sexta				lema:sexto
@@ -2179,10 +1954,10 @@ id:	6	Palabra:	comercialización				lema:comercialización
 id:	7	Palabra:	doy				lema:dar
 id:	8	Palabra:	cuenta				lema:cuenta
 id:	9	Palabra:	mierda				lema:mierda
-id:	10	Palabra:	país#asco				lema:país#asco
+id:	10	Palabra:	país				lema:país
 id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 146 tokens			===
+=== 			 Tweet 137 tokens			===
 id:	1	Palabra:	mandan				lema:mandar
 id:	2	Palabra:	mensajes				lema:mensaje
 id:	3	Palabra:	sim				lema:sim
@@ -2193,10 +1968,9 @@ id:	7	Palabra:	20				lema:20
 id:	8	Palabra:	mins				lema:mins
 id:	9	Palabra:	40				lema:40
 id:	10	Palabra:	mensajes				lema:mensaje
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 147 tokens			===
+=== 			 Tweet 138 tokens			===
 id:	1	Palabra:	comprobado				lema:comprobar
 id:	2	Palabra:	demostrado				lema:demostrado
 id:	3	Palabra:	científicamente				lema:científicamente
@@ -2205,10 +1979,9 @@ id:	5	Palabra:	mates				lema:mate
 id:	6	Palabra:	año				lema:año
 id:	7	Palabra:	unaa				lema:uno
 id:	8	Palabra:	mierda				lema:mierda
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 148 tokens			===
+=== 			 Tweet 139 tokens			===
 id:	1	Palabra:	panrico				lema:panrico
 id:	2	Palabra:	ofrece				lema:ofrecer
 id:	3	Palabra:	reducir				lema:reducir
@@ -2217,12 +1990,10 @@ id:	5	Palabra:	despidos				lema:despido
 id:	6	Palabra:	cambio				lema:cambio
 id:	7	Palabra:	echar				lema:echar
 id:	8	Palabra:	comité				lema:comité
-id:	9	Palabra:	#gentuza				lema:#gentuza
-id:	10	Palabra:	tela				lema:tela
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	9	Palabra:	tela				lema:tela
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 149 tokens			===
+=== 			 Tweet 140 tokens			===
 id:	1	Palabra:	hoy				lema:hoy
 id:	2	Palabra:	trabajar				lema:trabajar
 id:	3	Palabra:	viendo				lema:ver
@@ -2232,10 +2003,9 @@ id:	6	Palabra:	programa				lema:programa
 id:	7	Palabra:	q				lema:q
 id:	8	Palabra:	valga				lema:valer
 id:	9	Palabra:	pena				lema:pena
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 150 tokens			===
+=== 			 Tweet 141 tokens			===
 id:	1	Palabra:	si				lema:si
 id:	2	Palabra:	preferis				lema:preferir
 id:	3	Palabra:	musculo				lema:musculo
@@ -2246,34 +2016,29 @@ id:	7	Palabra:	persona				lema:persona
 id:	8	Palabra:	especial				lema:especial
 id:	9	Palabra:	chapò				lema:chapò
 id:	10	Palabra:	jajaja				lema:jajaja
-id:	11	Palabra:	pipas#topa#asco				lema:pipas#topa#asco
+id:	11	Palabra:	pipas				lema:pipas
 id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 151 tokens			===
+=== 			 Tweet 142 tokens			===
 id:	1	Palabra:	calor				lema:calor
 id:	2	Palabra:	hace				lema:hacer
 id:	3	Palabra:	ahora				lema:ahora
 id:	4	Palabra:	verano				lema:verano
 id:	5	Palabra:	imagino				lema:imaginar
-id:	6	Palabra:	puf				lema:puf
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	.				lema:.
+id:	6	Palabra:	puf.				lema:pufir
+id:	7	Palabra:	cuantos				lema:cuanto
+id:	8	Palabra:	años				lema:año
+id:	9	Palabra:	mas				lema:mas
+id:	10	Palabra:	voi				lema:voír
+id:	11	Palabra:	tener				lema:tener
+id:	12	Palabra:	q				lema:q
+id:	13	Palabra:	fumar				lema:fumar
+id:	14	Palabra:	choto				lema:choto
+id:	15	Palabra:	maxi				lema:maxi
+id:	16	Palabra:	diorio				lema:diorio
+id:	17	Palabra:	.				lema:.
 
-=== 			 Tweet 152 tokens			===
-id:	1	Palabra:	cuantos				lema:cuanto
-id:	2	Palabra:	años				lema:año
-id:	3	Palabra:	mas				lema:mas
-id:	4	Palabra:	voi				lema:voír
-id:	5	Palabra:	tener				lema:tener
-id:	6	Palabra:	q				lema:q
-id:	7	Palabra:	fumar				lema:fumar
-id:	8	Palabra:	choto				lema:chotar
-id:	9	Palabra:	maxi				lema:maxi
-id:	10	Palabra:	diorio				lema:diorio
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
-
-=== 			 Tweet 153 tokens			===
+=== 			 Tweet 143 tokens			===
 id:	1	Palabra:	paso				lema:paso
 id:	2	Palabra:	subte				lema:subte
 id:	3	Palabra:	cerraron				lema:cerrar
@@ -2284,10 +2049,9 @@ id:	7	Palabra:	destruyen				lema:destruir
 id:	8	Palabra:	garcaron				lema:garcar
 id:	9	Palabra:	asiento				lema:asiento
 id:	10	Palabra:	anden				lema:andar
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 154 tokens			===
+=== 			 Tweet 144 tokens			===
 id:	1	Palabra:	q				lema:q
 id:	2	Palabra:	hizo				lema:hacer
 id:	3	Palabra:	groncho				lema:groncho
@@ -2302,10 +2066,10 @@ id:	11	Palabra:	paloma				lema:paloma
 id:	12	Palabra:	quisiste				lema:querer
 id:	13	Palabra:	atajar				lema:atajar
 id:	14	Palabra:	colador				lema:colador
-id:	15	Palabra:	safo#asco				lema:safo#asco
+id:	15	Palabra:	safo				lema:safo
 id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 155 tokens			===
+=== 			 Tweet 145 tokens			===
 id:	1	Palabra:	puedo				lema:poder
 id:	2	Palabra:	mirar				lema:mirar
 id:	3	Palabra:	lanata				lema:lanata
@@ -2315,10 +2079,9 @@ id:	6	Palabra:	mirando				lema:mirar
 id:	7	Palabra:	enorme				lema:enorme
 id:	8	Palabra:	peluda				lema:peludo
 id:	9	Palabra:	papada				lema:papada
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 156 tokens			===
+=== 			 Tweet 146 tokens			===
 id:	1	Palabra:	hacer				lema:hacer
 id:	2	Palabra:	debate				lema:debate
 id:	3	Palabra:	ppsoe				lema:ppsoe
@@ -2331,10 +2094,9 @@ id:	9	Palabra:	tragar				lema:tragar
 id:	10	Palabra:	nos				lema:yo
 id:	11	Palabra:	misma				lema:mismo
 id:	12	Palabra:	mierda				lema:mierda
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 157 tokens			===
+=== 			 Tweet 147 tokens			===
 id:	1	Palabra:	gilipollas				lema:gilipolla
 id:	2	Palabra:	dejo				lema:dejar
 id:	3	Palabra:	seguirdios				lema:seguirdio
@@ -2344,10 +2106,9 @@ id:	6	Palabra:	twitter_red				lema:twitter_red
 id:	7	Palabra:	socialni				lema:socialni
 id:	8	Palabra:	lista				lema:lista
 id:	9	Palabra:	siguiendo				lema:seguir
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 158 tokens			===
+=== 			 Tweet 148 tokens			===
 id:	1	Palabra:	saqué				lema:sacar
 id:	2	Palabra:	chicle				lema:chicle
 id:	3	Palabra:	boca				lema:boca
@@ -2359,12 +2120,10 @@ id:	8	Palabra:	salas				lema:sala
 id:	9	Palabra:	sacó				lema:sacar
 id:	10	Palabra:	comió				lema:comer
 id:	11	Palabra:	oo				lema:oo
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	#increible				lema:#increible
-id:	14	Palabra:	jajajaja				lema:jajajaja
-id:	15	Palabra:	.				lema:.
+id:	12	Palabra:	jajajaja				lema:jajajaja
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 159 tokens			===
+=== 			 Tweet 149 tokens			===
 id:	1	Palabra:	pensé				lema:pensar
 id:	2	Palabra:	diría				lema:decir
 id:	3	Palabra:	así				lema:así
@@ -2375,10 +2134,9 @@ id:	7	Palabra:	cristiano				lema:cristiano
 id:	8	Palabra:	marcando				lema:marcar
 id:	9	Palabra:	músculo				lema:músculo
 id:	10	Palabra:	s				lema:s
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 160 tokens			===
+=== 			 Tweet 150 tokens			===
 id:	1	Palabra:	ahora				lema:ahora
 id:	2	Palabra:	tv				lema:tv
 id:	3	Palabra:	atrapados				lema:atrapado
@@ -2391,10 +2149,9 @@ id:	9	Palabra:	coña				lema:coña
 id:	10	Palabra:	viva				lema:vivo
 id:	11	Palabra:	imaginacion				lema:imaginacion
 id:	12	Palabra:	programadores				lema:programador
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 161 tokens			===
+=== 			 Tweet 151 tokens			===
 id:	1	Palabra:	políticos				lema:político
 id:	2	Palabra:	isabel				lema:isabel
 id:	3	Palabra:	carrasco				lema:carrasco
@@ -2406,25 +2163,23 @@ id:	8	Palabra:	ir				lema:ir
 id:	9	Palabra:	votos				lema:voto
 id:	10	Palabra:	disparos				lema:disparo
 id:	11	Palabra:	nuca				lema:nuca
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 162 tokens			===
+=== 			 Tweet 152 tokens			===
 id:	1	Palabra:	siempre				lema:siempre
 id:	2	Palabra:	fogonean				lema:fogonear
 id:	3	Palabra:	siempre				lema:siempre
 id:	4	Palabra:	mismo				lema:mismo
 id:	5	Palabra:	estilo				lema:estilo
-id:	6	Palabra:	chicasandrea				lema:chicasandrea
+id:	6	Palabra:	chicasandrea				lema:chicasandreo
 id:	7	Palabra:	rincon				lema:rincon
 id:	8	Palabra:	larisa				lema:larisa
 id:	9	Palabra:	riquelme				lema:riquelme
 id:	10	Palabra:	ahora				lema:ahora
 id:	11	Palabra:	griega				lema:griego
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 163 tokens			===
+=== 			 Tweet 153 tokens			===
 id:	1	Palabra:	espera				lema:esperar
 id:	2	Palabra:	ahora				lema:ahora
 id:	3	Palabra:	van				lema:ir
@@ -2437,10 +2192,9 @@ id:	9	Palabra:	caridad				lema:caridad
 id:	10	Palabra:	repartiendo				lema:repartir
 id:	11	Palabra:	migajas				lema:migaja
 id:	12	Palabra:	hambrientos				lema:hambriento
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 164 tokens			===
+=== 			 Tweet 154 tokens			===
 id:	1	Palabra:	puedo				lema:poder
 id:	2	Palabra:	creer				lema:creer
 id:	3	Palabra:	mina				lema:mina
@@ -2450,10 +2204,9 @@ id:	6	Palabra:	friki				lema:friki
 id:	7	Palabra:	grasa				lema:grasa
 id:	8	Palabra:	toda				lema:todo
 id:	9	Palabra:	manto				lema:manto
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 165 tokens			===
+=== 			 Tweet 155 tokens			===
 id:	1	Palabra:	gusta				lema:gustar
 id:	2	Palabra:	política				lema:política
 id:	3	Palabra:	va				lema:ir
@@ -2463,40 +2216,35 @@ id:	6	Palabra:	historia				lema:historia
 id:	7	Palabra:	política				lema:política
 id:	8	Palabra:	xq				lema:xq
 id:	9	Palabra:	solo				lema:solo
-id:	10	Palabra:	#asco				lema:#asco
+id:	10	Palabra:	eso				lema:ese
 id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 166 tokens			===
+=== 			 Tweet 156 tokens			===
 id:	1	Palabra:	pasando				lema:pasar
 id:	2	Palabra:	mas				lema:mas
 id:	3	Palabra:	lento				lema:lento
 id:	4	Palabra:	mes				lema:mes
 id:	5	Palabra:	curso				lema:curso
-id:	6	Palabra:	#asco				lema:#asco
-id:	7	Palabra:	.				lema:.
+id:	6	Palabra:	.				lema:.
 
-=== 			 Tweet 167 tokens			===
+=== 			 Tweet 157 tokens			===
 id:	1	Palabra:	bonito				lema:bonito
 id:	2	Palabra:	llevar				lema:llevar
 id:	3	Palabra:	sobrino				lema:sobrino
 id:	4	Palabra:	parque				lema:parque
-id:	5	Palabra:	vomite				lema:vomite
-id:	6	Palabra:	#guacala				lema:#guacala
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	#mevomito				lema:#mevomito
-id:	9	Palabra:	.				lema:.
+id:	5	Palabra:	vomite				lema:vomitar
+id:	6	Palabra:	.				lema:.
 
-=== 			 Tweet 168 tokens			===
+=== 			 Tweet 158 tokens			===
 id:	1	Palabra:	asqueroso				lema:asqueroso
 id:	2	Palabra:	cree				lema:creer
 id:	3	Palabra:	papasote				lema:papasotar
 id:	4	Palabra:	cara				lema:cara
 id:	5	Palabra:	hecho				lema:hecho
 id:	6	Palabra:	mierda				lema:mierda
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	.				lema:.
+id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 169 tokens			===
+=== 			 Tweet 159 tokens			===
 id:	1	Palabra:	traidor				lema:traidor
 id:	2	Palabra:	iker				lema:iker
 id:	3	Palabra:	casillas				lema:casilla
@@ -2506,22 +2254,20 @@ id:	6	Palabra:	amigos				lema:amigo
 id:	7	Palabra:	marques				lema:marque
 id:	8	Palabra:	bosc				lema:bosc
 id:	9	Palabra:	acata				lema:acatar
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
-
-=== 			 Tweet 170 tokens			===
-id:	1	Palabra:	#asco				lema:#asco
-id:	2	Palabra:	das				lema:dar
-id:	3	Palabra:	amiga				lema:amiga
-id:	4	Palabra:	haber				lema:haber
-id:	5	Palabra:	estudiado				lema:estudiar
-id:	6	Palabra:	vino				lema:vino
-id:	7	Palabra:	toda				lema:todo
-id:	8	Palabra:	gente				lema:gente
-id:	9	Palabra:	pude				lema:poder
 id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 171 tokens			===
+=== 			 Tweet 160 tokens			===
+id:	1	Palabra:	das				lema:dar
+id:	2	Palabra:	amiga				lema:amiga
+id:	3	Palabra:	haber				lema:haber
+id:	4	Palabra:	estudiado				lema:estudiar
+id:	5	Palabra:	vino				lema:vino
+id:	6	Palabra:	toda				lema:todo
+id:	7	Palabra:	gente				lema:gente
+id:	8	Palabra:	pude				lema:poder
+id:	9	Palabra:	.				lema:.
+
+=== 			 Tweet 161 tokens			===
 id:	1	Palabra:	mami				lema:mami
 id:	2	Palabra:	lleva				lema:llevar
 id:	3	Palabra:	inyectando				lema:inyectar
@@ -2531,10 +2277,9 @@ id:	6	Palabra:	ser				lema:ser
 id:	7	Palabra:	eterno				lema:eterno
 id:	8	Palabra:	va				lema:ir
 id:	9	Palabra:	vuelve				lema:volver
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 172 tokens			===
+=== 			 Tweet 162 tokens			===
 id:	1	Palabra:	sudamericano				lema:sudamericano
 id:	2	Palabra:	virgencita				lema:virgencito
 id:	3	Palabra:	guadalupe				lema:guadalupe
@@ -2547,45 +2292,40 @@ id:	9	Palabra:	vieja				lema:viejo
 id:	10	Palabra:	joyas				lema:joya
 id:	11	Palabra:	barrio				lema:barrio
 id:	12	Palabra:	entero				lema:entero
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 173 tokens			===
+=== 			 Tweet 163 tokens			===
 id:	1	Palabra:	cansaste				lema:cansar
 id:	2	Palabra:	decir				lema:decir
 id:	3	Palabra:	chabona				lema:chabona
-id:	4	Palabra:	re				lema:reír
+id:	4	Palabra:	re				lema:re
 id:	5	Palabra:	zorra				lema:zorra
 id:	6	Palabra:	mirate				lema:miratir
 id:	7	Palabra:	ahora				lema:ahora
 id:	8	Palabra:	terminaste				lema:terminastar
 id:	9	Palabra:	quedando				lema:quedar
 id:	10	Palabra:	te				lema:tú
-id:	11	Palabra:	#cualquiera				lema:#cualquiera
-id:	12	Palabra:	#falsedad				lema:#falsedad
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	11	Palabra:	ella				lema:él
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 174 tokens			===
+=== 			 Tweet 164 tokens			===
 id:	1	Palabra:	micros				lema:micro
 id:	2	Palabra:	nuevos				lema:nuevo
 id:	3	Palabra:	sirven				lema:servir
 id:	4	Palabra:	si				lema:si
 id:	5	Palabra:	limpian				lema:limpiar
-id:	6	Palabra:	#asco				lema:#asco
-id:	7	Palabra:	.				lema:.
+id:	6	Palabra:	.				lema:.
 
-=== 			 Tweet 175 tokens			===
+=== 			 Tweet 165 tokens			===
 id:	1	Palabra:	nunca				lema:nunca
 id:	2	Palabra:	vi				lema:ver
 id:	3	Palabra:	persona				lema:persona
 id:	4	Palabra:	usufructuar				lema:usufructuar
 id:	5	Palabra:	muerte				lema:muerte
 id:	6	Palabra:	familiar				lema:familiar
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	.				lema:.
+id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 176 tokens			===
+=== 			 Tweet 166 tokens			===
 id:	1	Palabra:	da				lema:dar
 id:	2	Palabra:	asco				lema:asco
 id:	3	Palabra:	alguien				lema:alguien
@@ -2596,10 +2336,9 @@ id:	7	Palabra:	tela				lema:tela
 id:	8	Palabra:	loco				lema:loco
 id:	9	Palabra:	sucio				lema:sucio
 id:	10	Palabra:	esoo				lema:esoo
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 177 tokens			===
+=== 			 Tweet 167 tokens			===
 id:	1	Palabra:	hermano				lema:hermano
 id:	2	Palabra:	saca				lema:sacar
 id:	3	Palabra:	mocos				lema:moco
@@ -2607,10 +2346,9 @@ id:	4	Palabra:	muestra				lema:mostrar
 id:	5	Palabra:	re				lema:re
 id:	6	Palabra:	orgulloso				lema:orgulloso
 id:	7	Palabra:	mocos				lema:moco
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 178 tokens			===
+=== 			 Tweet 168 tokens			===
 id:	1	Palabra:	diga				lema:decir
 id:	2	Palabra:	médico				lema:médico
 id:	3	Palabra:	mejor				lema:mejor
@@ -2622,10 +2360,9 @@ id:	8	Palabra:	puede				lema:poder
 id:	9	Palabra:	pasar				lema:pasar
 id:	10	Palabra:	épocas				lema:época
 id:	11	Palabra:	verano				lema:verano
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 179 tokens			===
+=== 			 Tweet 169 tokens			===
 id:	1	Palabra:	odio				lema:odio
 id:	2	Palabra:	gente				lema:gente
 id:	3	Palabra:	prende				lema:prender
@@ -2634,10 +2371,9 @@ id:	5	Palabra:	lado				lema:lado
 id:	6	Palabra:	mio				lema:miar
 id:	7	Palabra:	apenas				lema:apenas
 id:	8	Palabra:	levanto				lema:levanto
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 180 tokens			===
+=== 			 Tweet 170 tokens			===
 id:	1	Palabra:	puto				lema:puto
 id:	2	Palabra:	tiempo				lema:tiempo
 id:	3	Palabra:	muerete				lema:moritir
@@ -2648,10 +2384,9 @@ id:	7	Palabra:	cojones				lema:cojón
 id:	8	Palabra:	hago				lema:hacer
 id:	9	Palabra:	abrigo				lema:abrigo
 id:	10	Palabra:	paraguas				lema:paragua
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 181 tokens			===
+=== 			 Tweet 171 tokens			===
 id:	1	Palabra:	voy				lema:ir
 id:	2	Palabra:	poder				lema:poder
 id:	3	Palabra:	entender				lema:entender
@@ -2663,10 +2398,9 @@ id:	8	Palabra:	lindo				lema:lindo
 id:	9	Palabra:	comer				lema:comer
 id:	10	Palabra:	pollo				lema:pollo
 id:	11	Palabra:	manos				lema:mano
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 182 tokens			===
+=== 			 Tweet 172 tokens			===
 id:	1	Palabra:	ver				lema:ver
 id:	2	Palabra:	si				lema:si
 id:	3	Palabra:	estupida				lema:estupido
@@ -2679,10 +2413,9 @@ id:	9	Palabra:	editorial				lema:editorial
 id:	10	Palabra:	mundo				lema:mundo
 id:	11	Palabra:	q				lema:q
 id:	12	Palabra:	dan				lema:dar
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 183 tokens			===
+=== 			 Tweet 173 tokens			===
 id:	1	Palabra:	profesor				lema:profesor
 id:	2	Palabra:	mal				lema:mal
 id:	3	Palabra:	nacido				lema:nacido
@@ -2693,10 +2426,9 @@ id:	7	Palabra:	hacer				lema:hacer
 id:	8	Palabra:	se				lema:él
 id:	9	Palabra:	lo				lema:él
 id:	10	Palabra:	mirar				lema:mirar
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 184 tokens			===
+=== 			 Tweet 174 tokens			===
 id:	1	Palabra:	prestas				lema:prestar
 id:	2	Palabra:	celular				lema:celular
 id:	3	Palabra:	mandar				lema:mandar
@@ -2709,18 +2441,16 @@ id:	9	Palabra:	le				lema:él
 id:	10	Palabra:	gusta				lema:gustar
 id:	11	Palabra:	propias				lema:propio
 id:	12	Palabra:	fotos				lema:foto
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 185 tokens			===
+=== 			 Tweet 175 tokens			===
 id:	1	Palabra:	colegios				lema:colegio
 id:	2	Palabra:	concertadoshospitales				lema:concertadoshospital
 id:	3	Palabra:	concertadosciudadanos				lema:concertadosciudadono
 id:	4	Palabra:	desconcertados				lema:desconcertado
-id:	5	Palabra:	#asco				lema:#asco
-id:	6	Palabra:	.				lema:.
+id:	5	Palabra:	.				lema:.
 
-=== 			 Tweet 186 tokens			===
+=== 			 Tweet 176 tokens			===
 id:	1	Palabra:	seguidores				lema:seguidor
 id:	2	Palabra:	malagueños				lema:malagueño
 id:	3	Palabra:	real				lema:real
@@ -2735,25 +2465,22 @@ id:	11	Palabra:	malaga				lema:malaga
 id:	12	Palabra:	ven				lema:ver
 id:	13	Palabra:	partido				lema:partido
 id:	14	Palabra:	_política				lema:_política
-id:	15	Palabra:	#asco				lema:#asco
-id:	16	Palabra:	.				lema:.
+id:	15	Palabra:	.				lema:.
 
-=== 			 Tweet 187 tokens			===
+=== 			 Tweet 177 tokens			===
 id:	1	Palabra:	peor				lema:peor
 id:	2	Palabra:	todcarita				lema:todcarita
 id:	3	Palabra:	_asombrado				lema:_asombrado
 id:	4	Palabra:	aquí				lema:aquí
-id:	5	Palabra:	#nopasanada				lema:#nopasanada
-id:	6	Palabra:	contrario				lema:contrario
-id:	7	Palabra:	premian				lema:premir
-id:	8	Palabra:	campeón				lema:campeón
-id:	9	Palabra:	buen				lema:buen
-id:	10	Palabra:	asiento				lema:asiento
-id:	11	Palabra:	#europa				lema:#europa
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	5	Palabra:	contrario				lema:contrario
+id:	6	Palabra:	premian				lema:premir
+id:	7	Palabra:	campeón				lema:campeón
+id:	8	Palabra:	buen				lema:buen
+id:	9	Palabra:	asiento				lema:asiento
+id:	10	Palabra:	en				lema:en
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 188 tokens			===
+=== 			 Tweet 178 tokens			===
 id:	1	Palabra:	mamas				lema:mama
 id:	2	Palabra:	jóvenes				lema:joven
 id:	3	Palabra:	piden				lema:pedir
@@ -2764,12 +2491,9 @@ id:	7	Palabra:	joven				lema:joven
 id:	8	Palabra:	diagnostico				lema:diagnostico
 id:	9	Palabra:	muestran				lema:mostrar
 id:	10	Palabra:	incapacidad				lema:incapacidad
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	#mamafarandulera				lema:#mamafarandulera
-id:	13	Palabra:	#trabajosihay				lema:#trabajosihay
-id:	14	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 189 tokens			===
+=== 			 Tweet 179 tokens			===
 id:	1	Palabra:	duelen				lema:doler
 id:	2	Palabra:	pies				lema:pie
 id:	3	Palabra:	doble				lema:doble
@@ -2780,11 +2504,9 @@ id:	7	Palabra:	encima				lema:encima
 id:	8	Palabra:	reos				lema:reo
 id:	9	Palabra:	miradas				lema:mirada
 id:	10	Palabra:	retadoras				lema:retador
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	#hoysoloduermo				lema:#hoysoloduermo
-id:	13	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 190 tokens			===
+=== 			 Tweet 180 tokens			===
 id:	1	Palabra:	unica				lema:unico
 id:	2	Palabra:	materia				lema:materia
 id:	3	Palabra:	llevé				lema:llevar
@@ -2797,23 +2519,18 @@ id:	9	Palabra:	odio				lema:odio
 id:	10	Palabra:	física				lema:físico
 id:	11	Palabra:	i				lema:i
 id:	12	Palabra:	hate				lema:hate
-id:	13	Palabra:	u				lema:u
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	.				lema:.
+id:	13	Palabra:	u.				lema:u.
+id:	14	Palabra:	tramitando				lema:tramitar
+id:	15	Palabra:	certificado				lema:certificado
+id:	16	Palabra:	buena				lema:buen
+id:	17	Palabra:	conductael				lema:conductael
+id:	18	Palabra:	olor				lema:olor
+id:	19	Palabra:	alveolitis				lema:alveolitis
+id:	20	Palabra:	aca				lema:aca
+id:	21	Palabra:	terrible				lema:terrible
+id:	22	Palabra:	.				lema:.
 
-=== 			 Tweet 191 tokens			===
-id:	1	Palabra:	tramitando				lema:tramitar
-id:	2	Palabra:	certificado				lema:certificado
-id:	3	Palabra:	buena				lema:buen
-id:	4	Palabra:	conductael				lema:conductael
-id:	5	Palabra:	olor				lema:olor
-id:	6	Palabra:	alveolitis				lema:alveolitis
-id:	7	Palabra:	aca				lema:aca
-id:	8	Palabra:	terrible				lema:terrible
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
-
-=== 			 Tweet 192 tokens			===
+=== 			 Tweet 181 tokens			===
 id:	1	Palabra:	buenos				lema:buen
 id:	2	Palabra:	diasmenudo				lema:diasmenudo
 id:	3	Palabra:	dia				lema:dia
@@ -2821,50 +2538,39 @@ id:	4	Palabra:	espera				lema:esperar
 id:	5	Palabra:	estudiar				lema:estudiar
 id:	6	Palabra:	hacer				lema:hacer
 id:	7	Palabra:	cosas				lema:cosa
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 193 tokens			===
-id:	1	Palabra:	#asco				lema:#asco
-id:	2	Palabra:	relatos				lema:relato
-id:	3	Palabra:	tirando				lema:tirar
-id:	4	Palabra:	frases				lema:frase
-id:	5	Palabra:	politica				lema:politica
-id:	6	Palabra:	cualquiera				lema:cualquiera
-id:	7	Palabra:	futbol				lema:futbol
-id:	8	Palabra:	hablen				lema:hablar
-id:	9	Palabra:	futbol				lema:futbol
-id:	10	Palabra:	lacras				lema:lacro
-id:	11	Palabra:	.				lema:.
+=== 			 Tweet 182 tokens			===
+id:	1	Palabra:	relatos				lema:relato
+id:	2	Palabra:	tirando				lema:tirar
+id:	3	Palabra:	frases				lema:frase
+id:	4	Palabra:	politica				lema:politica
+id:	5	Palabra:	cualquiera				lema:cualquiera
+id:	6	Palabra:	futbol				lema:futbol
+id:	7	Palabra:	hablen				lema:hablar
+id:	8	Palabra:	futbol				lema:futbol
+id:	9	Palabra:	lacras				lema:lacro
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 194 tokens			===
+=== 			 Tweet 183 tokens			===
 id:	1	Palabra:	asquito				lema:asquito
 id:	2	Palabra:	toda				lema:todo
-id:	3	Palabra:	meada				lema:meada
+id:	3	Palabra:	meada				lema:meado
 id:	4	Palabra:	ensima				lema:ensima
 id:	5	Palabra:	peluda				lema:peludo
-id:	6	Palabra:	baranda				lema:baranda
+id:	6	Palabra:	baranda				lema:barando
 id:	7	Palabra:	ajo				lema:ajo
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	#muere				lema:#muere
-id:	10	Palabra:	#gente				lema:#gente
-id:	11	Palabra:	#peligro				lema:#peligro
-id:	12	Palabra:	#danger				lema:#danger
-id:	13	Palabra:	#backup				lema:#backup
-id:	14	Palabra:	#now				lema:#now
-id:	15	Palabra:	#please				lema:#please
-id:	16	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 195 tokens			===
+=== 			 Tweet 184 tokens			===
 id:	1	Palabra:	dos				lema:dos
 id:	2	Palabra:	devuelta				lema:devuelto
 id:	3	Palabra:	vuelven				lema:volver
 id:	4	Palabra:	actuar				lema:actuar
 id:	5	Palabra:	juntos				lema:junto
-id:	6	Palabra:	#asco				lema:#asco
-id:	7	Palabra:	.				lema:.
+id:	6	Palabra:	.				lema:.
 
-=== 			 Tweet 196 tokens			===
+=== 			 Tweet 185 tokens			===
 id:	1	Palabra:	facebook				lema:facebook
 id:	2	Palabra:	agradecería				lema:agradecer
 id:	3	Palabra:	dejes				lema:decir
@@ -2876,21 +2582,18 @@ id:	8	Palabra:	roberto				lema:roberto
 id:	9	Palabra:	gede				lema:gede
 id:	10	Palabra:	ver				lema:ver
 id:	11	Palabra:	foto				lema:foto
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 197 tokens			===
+=== 			 Tweet 186 tokens			===
 id:	1	Palabra:	bueno				lema:buen
 id:	2	Palabra:	jugaron				lema:jugar
 id:	3	Palabra:	puto				lema:puto
 id:	4	Palabra:	campeonato				lema:campeonato
 id:	5	Palabra:	ahora				lema:ahora
 id:	6	Palabra:	mejores				lema:mejor
-id:	7	Palabra:	#mundoboca				lema:#mundoboca
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 198 tokens			===
+=== 			 Tweet 187 tokens			===
 id:	1	Palabra:	purito				lema:purito
 id:	2	Palabra:	parte				lema:parte
 id:	3	Palabra:	unas				lema:uno
@@ -2903,20 +2606,17 @@ id:	9	Palabra:	peinado				lema:peinado
 id:	10	Palabra:	hacen				lema:hacer
 id:	11	Palabra:	programa				lema:programa
 id:	12	Palabra:	24h				lema:24h
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 199 tokens			===
+=== 			 Tweet 188 tokens			===
 id:	1	Palabra:	di				lema:dar
 id:	2	Palabra:	cuenta				lema:cuenta
 id:	3	Palabra:	rubio				lema:rubio
 id:	4	Palabra:	bastante				lema:bastante
 id:	5	Palabra:	directo				lema:directo
-id:	6	Palabra:	#asco				lema:#asco
-id:	7	Palabra:	#diu				lema:#diu
-id:	8	Palabra:	.				lema:.
+id:	6	Palabra:	.				lema:.
 
-=== 			 Tweet 200 tokens			===
+=== 			 Tweet 189 tokens			===
 id:	1	Palabra:	mejor				lema:mejor
 id:	2	Palabra:	portero				lema:portero
 id:	3	Palabra:	mundo				lema:mundo
@@ -2929,10 +2629,9 @@ id:	9	Palabra:	meter				lema:meter
 id:	10	Palabra:	penalti				lema:penalti
 id:	11	Palabra:	aun				lema:aun
 id:	12	Palabra:	orgullosos				lema:orgulloso
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 201 tokens			===
+=== 			 Tweet 190 tokens			===
 id:	1	Palabra:	paraaaaa				lema:paraaaaa
 id:	2	Palabra:	ser				lema:ser
 id:	3	Palabra:	tan				lema:tanto
@@ -2943,13 +2642,12 @@ id:	7	Palabra:	sos				lema:sos
 id:	8	Palabra:	insoportablemente				lema:insoportablemente
 id:	9	Palabra:	lame				lema:lamer
 id:	10	Palabra:	ortos				lema:ortos
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	moja				lema:moja
-id:	13	Palabra:	culo				lema:culo
-id:	14	Palabra:	no				lema:no
-id:	15	Palabra:	.				lema:.
+id:	11	Palabra:	moja				lema:moja
+id:	12	Palabra:	culo				lema:culo
+id:	13	Palabra:	no				lema:no
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 202 tokens			===
+=== 			 Tweet 191 tokens			===
 id:	1	Palabra:	alguien				lema:alguien
 id:	2	Palabra:	avise				lema:avisar
 id:	3	Palabra:	gato				lema:gato
@@ -2958,10 +2656,9 @@ id:	5	Palabra:	wanda				lema:wando
 id:	6	Palabra:	actriz				lema:actriz
 id:	7	Palabra:	caga				lema:cagar
 id:	8	Palabra:	hambre				lema:hambre
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 203 tokens			===
+=== 			 Tweet 192 tokens			===
 id:	1	Palabra:	chavalitos				lema:chavalito
 id:	2	Palabra:	van				lema:ir
 id:	3	Palabra:	carcel				lema:carcel
@@ -2977,10 +2674,9 @@ id:	12	Palabra:	infanta				lema:infanta
 id:	13	Palabra:	cristina				lema:cristina
 id:	14	Palabra:	entran				lema:entrar
 id:	15	Palabra:	palo				lema:palo
-id:	16	Palabra:	#asco				lema:#asco
-id:	17	Palabra:	.				lema:.
+id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 204 tokens			===
+=== 			 Tweet 193 tokens			===
 id:	1	Palabra:	patético				lema:patético
 id:	2	Palabra:	personas				lema:persona
 id:	3	Palabra:	suben				lema:subir
@@ -2988,17 +2684,15 @@ id:	4	Palabra:	fotos				lema:foto
 id:	5	Palabra:	presumiendo				lema:presumir
 id:	6	Palabra:	consumen				lema:consumir
 id:	7	Palabra:	drogas				lema:droga
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	#ñeros				lema:#ñeros
-id:	10	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 205 tokens			===
+=== 			 Tweet 194 tokens			===
 id:	1	Palabra:	vuelve				lema:volver
 id:	2	Palabra:	q				lema:q
 id:	3	Palabra:	subir				lema:subir
 id:	4	Palabra:	ibi				lema:ibi
 id:	5	Palabra:	vez				lema:vez
-id:	6	Palabra:	másesta				lema:másesta
+id:	6	Palabra:	másesta				lema:másesto
 id:	7	Palabra:	vez				lema:vez
 id:	8	Palabra:	102012				lema:102012
 id:	9	Palabra:	casi				lema:casi
@@ -3006,11 +2700,9 @@ id:	10	Palabra:	duplicóya				lema:duplicóya
 id:	11	Palabra:	veo				lema:ver
 id:	12	Palabra:	comprenden				lema:comprender
 id:	13	Palabra:	crisis				lema:crisis
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	#robo				lema:#robo
-id:	16	Palabra:	.				lema:.
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 206 tokens			===
+=== 			 Tweet 195 tokens			===
 id:	1	Palabra:	miles				lema:mil
 id:	2	Palabra:	millones				lema:millón
 id:	3	Palabra:	euros				lema:euro
@@ -3024,10 +2716,9 @@ id:	10	Palabra:	hablan				lema:hablar
 id:	11	Palabra:	impunidad				lema:impunidad
 id:	12	Palabra:	twitter_red				lema:twitter_red
 id:	13	Palabra:	social				lema:social
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	.				lema:.
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 207 tokens			===
+=== 			 Tweet 196 tokens			===
 id:	1	Palabra:	maxi				lema:maxi
 id:	2	Palabra:	diorio				lema:diorio
 id:	3	Palabra:	podes				lema:poder
@@ -3038,10 +2729,9 @@ id:	7	Palabra:	cara				lema:cara
 id:	8	Palabra:	hacemos				lema:hacer
 id:	9	Palabra:	hablar				lema:hablar
 id:	10	Palabra:	cerebro				lema:cerebro
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 208 tokens			===
+=== 			 Tweet 197 tokens			===
 id:	1	Palabra:	retrasan				lema:retrasar
 id:	2	Palabra:	partido				lema:partido
 id:	3	Palabra:	_políticas				lema:_político
@@ -3054,14 +2744,10 @@ id:	9	Palabra:	dar				lema:dar
 id:	10	Palabra:	le				lema:él
 id:	11	Palabra:	nefasto				lema:nefasto
 id:	12	Palabra:	preambulo				lema:preambulo
-id:	13	Palabra:	#lalistadealejandro				lema:#lalistadealejandro
-id:	14	Palabra:	sabella				lema:sabella
-id:	15	Palabra:	_exfutbolista				lema:_exfutbolista
-id:	16	Palabra:	entrenador				lema:entrenador
-id:	17	Palabra:	#asco				lema:#asco
-id:	18	Palabra:	.				lema:.
+id:	13	Palabra:	a				lema:a
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 209 tokens			===
+=== 			 Tweet 198 tokens			===
 id:	1	Palabra:	parece				lema:parecer
 id:	2	Palabra:	pésimo				lema:pésimo
 id:	3	Palabra:	show				lema:show
@@ -3073,10 +2759,9 @@ id:	8	Palabra:	mas				lema:mas
 id:	9	Palabra:	puterio				lema:puterio
 id:	10	Palabra:	arman				lema:armar
 id:	11	Palabra:	bailan				lema:bailar
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 210 tokens			===
+=== 			 Tweet 199 tokens			===
 id:	1	Palabra:	paraguayo				lema:paraguayo
 id:	2	Palabra:	_habitante				lema:_habitante
 id:	3	Palabra:	paraguay				lema:paraguay
@@ -3088,11 +2773,9 @@ id:	8	Palabra:	cagar				lema:cagar
 id:	9	Palabra:	seguro				lema:seguro
 id:	10	Palabra:	limpio				lema:limpio
 id:	11	Palabra:	papel				lema:papel
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	#feo				lema:#feo
-id:	14	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 211 tokens			===
+=== 			 Tweet 200 tokens			===
 id:	1	Palabra:	cada				lema:cada
 id:	2	Palabra:	dia				lema:dia
 id:	3	Palabra:	gente				lema:gente
@@ -3101,11 +2784,10 @@ id:	5	Palabra:	peor				lema:peor
 id:	6	Palabra:	caen				lema:caer
 id:	7	Palabra:	bajada				lema:bajado
 id:	8	Palabra:	dios				lema:dio
-id:	9	Palabra:	mio				lema:mio
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	9	Palabra:	mio				lema:miar
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 212 tokens			===
+=== 			 Tweet 201 tokens			===
 id:	1	Palabra:	peor				lema:peor
 id:	2	Palabra:	si				lema:si
 id:	3	Palabra:	ayer				lema:ayer
@@ -3114,19 +2796,18 @@ id:	5	Palabra:	diriais				lema:diriais
 id:	6	Palabra:	culpa				lema:culpar
 id:	7	Palabra:	arbitro				lema:arbitro
 id:	8	Palabra:	siempre				lema:siempre
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 213 tokens			===
+=== 			 Tweet 202 tokens			===
 id:	1	Palabra:	personas				lema:persona
 id:	2	Palabra:	solo				lema:solo
 id:	3	Palabra:	importa				lema:importar
 id:	4	Palabra:	destacar				lema:destacar
 id:	5	Palabra:	aparentar				lema:aparentar
-id:	6	Palabra:	#asco				lema:#asco
+id:	6	Palabra:	son				lema:ser
 id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 214 tokens			===
+=== 			 Tweet 203 tokens			===
 id:	1	Palabra:	iban				lema:ir
 id:	2	Palabra:	ser				lema:ser
 id:	3	Palabra:	3				lema:3
@@ -3139,10 +2820,10 @@ id:	9	Palabra:	calor				lema:calor
 id:	10	Palabra:	ahora				lema:ahora
 id:	11	Palabra:	puto				lema:puto
 id:	12	Palabra:	tiempo				lema:tiempo
-id:	13	Palabra:	#asco				lema:#asco
+id:	13	Palabra:	este				lema:este
 id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 215 tokens			===
+=== 			 Tweet 204 tokens			===
 id:	1	Palabra:	q				lema:q
 id:	2	Palabra:	confundidas				lema:confundir
 id:	3	Palabra:	personas				lema:persona
@@ -3152,11 +2833,9 @@ id:	6	Palabra:	lían				lema:leer
 id:	7	Palabra:	alguien				lema:alguien
 id:	8	Palabra:	dicendesde				lema:dicender
 id:	9	Palabra:	feria				lema:feria
-id:	10	Palabra:	#sinpersonalidad				lema:#sinpersonalidad
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 216 tokens			===
+=== 			 Tweet 205 tokens			===
 id:	1	Palabra:	parece				lema:parecer
 id:	2	Palabra:	pisos				lema:piso
 id:	3	Palabra:	cuarto				lema:cuarto
@@ -3169,10 +2848,9 @@ id:	9	Palabra:	vodka				lema:vodka
 id:	10	Palabra:	resultados				lema:resultado
 id:	11	Palabra:	previa				lema:previo
 id:	12	Palabra:	hna				lema:hna
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 217 tokens			===
+=== 			 Tweet 206 tokens			===
 id:	1	Palabra:	nunca				lema:nunca
 id:	2	Palabra:	quiese				lema:quesar
 id:	3	Palabra:	llegar				lema:llegar
@@ -3181,19 +2859,17 @@ id:	5	Palabra:	lavar				lema:lavar
 id:	6	Palabra:	me				lema:yo
 id:	7	Palabra:	manos				lema:mano
 id:	8	Palabra:	anoche				lema:anoche
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 218 tokens			===
+=== 			 Tweet 207 tokens			===
 id:	1	Palabra:	cansada				lema:cansado
 id:	2	Palabra:	podery				lema:podery
 id:	3	Palabra:	colmo				lema:colmo
 id:	4	Palabra:	hacer				lema:hacer
 id:	5	Palabra:	trabajo				lema:trabajo
-id:	6	Palabra:	#asco				lema:#asco
-id:	7	Palabra:	.				lema:.
+id:	6	Palabra:	.				lema:.
 
-=== 			 Tweet 219 tokens			===
+=== 			 Tweet 208 tokens			===
 id:	1	Palabra:	justifica				lema:justificar
 id:	2	Palabra:	terrible				lema:terrible
 id:	3	Palabra:	frío				lema:frío
@@ -3204,10 +2880,9 @@ id:	7	Palabra:	salieron				lema:salir
 id:	8	Palabra:	todas				lema:todo
 id:	9	Palabra:	gallinas				lema:gallina
 id:	10	Palabra:	juntas				lema:junto
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 220 tokens			===
+=== 			 Tweet 209 tokens			===
 id:	1	Palabra:	martin				lema:martin
 id:	2	Palabra:	fierro				lema:fierro
 id:	3	Palabra:	dan				lema:dar
@@ -3220,10 +2895,9 @@ id:	9	Palabra:	entrega				lema:entregar
 id:	10	Palabra:	premios				lema:premio
 id:	11	Palabra:	horrenda				lema:horrendo
 id:	12	Palabra:	aliados				lema:aliado
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 221 tokens			===
+=== 			 Tweet 210 tokens			===
 id:	1	Palabra:	cosa				lema:cosa
 id:	2	Palabra:	va				lema:ir
 id:	3	Palabra:	mal				lema:mal
@@ -3231,16 +2905,12 @@ id:	4	Palabra:	peor				lema:peor
 id:	5	Palabra:	chofer				lema:chofer
 id:	6	Palabra:	bus				lema:bus
 id:	7	Palabra:	fanático				lema:fanático
-id:	8	Palabra:	#romeo				lema:#romeo
-id:	9	Palabra:	soundtrack				lema:soundtrack
-id:	10	Palabra:	camino				lema:camino
-id:	11	Palabra:	oficina				lema:oficina
-id:	12	Palabra:	#tortura				lema:#tortura
-id:	13	Palabra:	#porqueami				lema:#porqueami
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	.				lema:.
+id:	8	Palabra:	soundtrack				lema:soundtrack
+id:	9	Palabra:	camino				lema:camino
+id:	10	Palabra:	oficina				lema:oficina
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 222 tokens			===
+=== 			 Tweet 211 tokens			===
 id:	1	Palabra:	creo				lema:creer
 id:	2	Palabra:	si				lema:si
 id:	3	Palabra:	eligen				lema:elegir
@@ -3248,10 +2918,9 @@ id:	4	Palabra:	presidente				lema:presidente
 id:	5	Palabra:	derecha				lema:derecho
 id:	6	Palabra:	voy				lema:ir
 id:	7	Palabra:	pais				lema:pais
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 223 tokens			===
+=== 			 Tweet 212 tokens			===
 id:	1	Palabra:	personas				lema:persona
 id:	2	Palabra:	guían				lema:guir
 id:	3	Palabra:	material				lema:material
@@ -3259,11 +2928,10 @@ id:	4	Palabra:	si				lema:si
 id:	5	Palabra:	regala				lema:regalar
 id:	6	Palabra:	si				lema:si
 id:	7	Palabra:	regala				lema:regalar
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	personas				lema:persona
-id:	10	Palabra:	.				lema:.
+id:	8	Palabra:	personas				lema:persona
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 224 tokens			===
+=== 			 Tweet 213 tokens			===
 id:	1	Palabra:	vaya				lema:ir
 id:	2	Palabra:	manera				lema:manera
 id:	3	Palabra:	traumática				lema:traumático
@@ -3271,28 +2939,22 @@ id:	4	Palabra:	empezar				lema:empezar
 id:	5	Palabra:	día				lema:día
 id:	6	Palabra:	potado				lema:potado
 id:	7	Palabra:	milagro				lema:milagro
-id:	8	Palabra:	arg				lema:arg
-id:	9	Palabra:	#buenosdias				lema:#buenosdias
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	8	Palabra:	arg.				lema:arg.
+id:	9	Palabra:	mayoria				lema:mayoria
+id:	10	Palabra:	ponen				lema:poner
+id:	11	Palabra:	cosas				lema:cosa
+id:	12	Palabra:	twitter_red				lema:twitter_red
+id:	13	Palabra:	social				lema:social
+id:	14	Palabra:	nacional				lema:nacional
+id:	15	Palabra:	mujeres				lema:mujer
+id:	16	Palabra:	locosno				lema:locosno
+id:	17	Palabra:	saben				lema:saber
+id:	18	Palabra:	futbolno				lema:futbolno
+id:	19	Palabra:	pisado				lema:pisar
+id:	20	Palabra:	cancha				lema:cancha
+id:	21	Palabra:	.				lema:.
 
-=== 			 Tweet 225 tokens			===
-id:	1	Palabra:	mayoria				lema:mayoria
-id:	2	Palabra:	ponen				lema:poner
-id:	3	Palabra:	cosas				lema:cosa
-id:	4	Palabra:	twitter_red				lema:twitter_red
-id:	5	Palabra:	social				lema:social
-id:	6	Palabra:	nacional				lema:nacional
-id:	7	Palabra:	mujeres				lema:mujer
-id:	8	Palabra:	locosno				lema:locosno
-id:	9	Palabra:	saben				lema:saber
-id:	10	Palabra:	futbolno				lema:futbolno
-id:	11	Palabra:	pisado				lema:pisar
-id:	12	Palabra:	cancha				lema:cancha
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
-
-=== 			 Tweet 226 tokens			===
+=== 			 Tweet 214 tokens			===
 id:	1	Palabra:	argentina				lema:argentino
 id:	2	Palabra:	si				lema:si
 id:	3	Palabra:	alguien				lema:alguien
@@ -3306,10 +2968,9 @@ id:	10	Palabra:	conclusión				lema:conclusión
 id:	11	Palabra:	argentina				lema:argentino
 id:	12	Palabra:	imposible				lema:imposible
 id:	13	Palabra:	progresar				lema:progresar
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	.				lema:.
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 227 tokens			===
+=== 			 Tweet 215 tokens			===
 id:	1	Palabra:	repugnante				lema:repugnante
 id:	2	Palabra:	hacer				lema:hacer
 id:	3	Palabra:	campaña				lema:campaña
@@ -3318,24 +2979,20 @@ id:	5	Palabra:	populismo				lema:populismo
 id:	6	Palabra:	barato				lema:barato
 id:	7	Palabra:	demagogia				lema:demagogia
 id:	8	Palabra:	pura				lema:puro
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 228 tokens			===
-id:	1	Palabra:	#odioalaspersonasque				lema:#odioalaspersonasque
-id:	2	Palabra:	leen				lema:leer
-id:	3	Palabra:	diario				lema:diario
-id:	4	Palabra:	cada				lema:cada
-id:	5	Palabra:	vez				lema:vez
-id:	6	Palabra:	pasan				lema:pasar
-id:	7	Palabra:	página				lema:página
-id:	8	Palabra:	escupen				lema:escupar
-id:	9	Palabra:	dedos				lema:dedo
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	#desagradable				lema:#desagradable
-id:	12	Palabra:	.				lema:.
+=== 			 Tweet 216 tokens			===
+id:	1	Palabra:	leen				lema:leer
+id:	2	Palabra:	diario				lema:diario
+id:	3	Palabra:	cada				lema:cada
+id:	4	Palabra:	vez				lema:vez
+id:	5	Palabra:	pasan				lema:pasar
+id:	6	Palabra:	página				lema:página
+id:	7	Palabra:	escupen				lema:escupar
+id:	8	Palabra:	dedos				lema:dedo
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 229 tokens			===
+=== 			 Tweet 217 tokens			===
 id:	1	Palabra:	gracias				lema:gracias
 id:	2	Palabra:	intermedio				lema:intermedio
 id:	3	Palabra:	sacan				lema:sacar
@@ -3348,10 +3005,9 @@ id:	9	Palabra:	usted				lema:tú
 id:	10	Palabra:	solito				lema:solito
 id:	11	Palabra:	diversas				lema:diverso
 id:	12	Palabra:	tertulias				lema:tertulia
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 230 tokens			===
+=== 			 Tweet 218 tokens			===
 id:	1	Palabra:	creo				lema:creer
 id:	2	Palabra:	qe				lema:qe
 id:	3	Palabra:	existe				lema:existir
@@ -3362,11 +3018,10 @@ id:	7	Palabra:	asco				lema:asco
 id:	8	Palabra:	moria				lema:morir
 id:	9	Palabra:	casan				lema:casar
 id:	10	Palabra:	natural				lema:natural
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	#viejaputa				lema:#viejaputa
-id:	13	Palabra:	.				lema:.
+id:	11	Palabra:	no				lema:no
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 231 tokens			===
+=== 			 Tweet 219 tokens			===
 id:	1	Palabra:	diganle				lema:diganlar
 id:	2	Palabra:	marcelo				lema:marcelo
 id:	3	Palabra:	lave				lema:lave
@@ -3381,10 +3036,9 @@ id:	11	Palabra:	mostrar				lema:mostrar
 id:	12	Palabra:	la				lema:el
 id:	13	Palabra:	primer				lema:primero
 id:	14	Palabra:	plano				lema:plano
-id:	15	Palabra:	#asco				lema:#asco
-id:	16	Palabra:	.				lema:.
+id:	15	Palabra:	.				lema:.
 
-=== 			 Tweet 232 tokens			===
+=== 			 Tweet 220 tokens			===
 id:	1	Palabra:	ahora				lema:ahora
 id:	2	Palabra:	ser				lema:ser
 id:	3	Palabra:	raro				lema:raro
@@ -3400,10 +3054,9 @@ id:	12	Palabra:	anime				lema:animar
 id:	13	Palabra:	escuchar				lema:escuchar
 id:	14	Palabra:	skrillex_banda				lema:skrillex_banda
 id:	15	Palabra:	músical				lema:músical
-id:	16	Palabra:	#asco				lema:#asco
-id:	17	Palabra:	.				lema:.
+id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 233 tokens			===
+=== 			 Tweet 221 tokens			===
 id:	1	Palabra:	pedofilia				lema:pedofilia
 id:	2	Palabra:	trata				lema:tratar
 id:	3	Palabra:	sexual				lema:sexual
@@ -3414,11 +3067,9 @@ id:	7	Palabra:	niños				lema:niño
 id:	8	Palabra:	maltrato				lema:maltrato
 id:	9	Palabra:	alimenticio				lema:alimenticio
 id:	10	Palabra:	vejaciones				lema:vejación
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	#hipócritas				lema:#hipócritas
-id:	13	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 234 tokens			===
+=== 			 Tweet 222 tokens			===
 id:	1	Palabra:	presidente				lema:presidente
 id:	2	Palabra:	uruguay				lema:uruguay
 id:	3	Palabra:	_país				lema:_país
@@ -3431,10 +3082,10 @@ id:	9	Palabra:	niñ				lema:niñ
 id:	10	Palabra:	sirios				lema:sirio
 id:	11	Palabra:	escoger				lema:escoger
 id:	12	Palabra:	elites				lema:elite
-id:	13	Palabra:	europeas#asco				lema:europeas#asco
+id:	13	Palabra:	europeas				lema:europeo
 id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 235 tokens			===
+=== 			 Tweet 223 tokens			===
 id:	1	Palabra:	mientras				lema:mientras
 id:	2	Palabra:	tecleña				lema:tecleñar
 id:	3	Palabra:	melisa				lema:melisa
@@ -3450,43 +3101,38 @@ id:	12	Palabra:	hija				lema:hija
 id:	13	Palabra:	2				lema:2
 id:	14	Palabra:	años				lema:año
 id:	15	Palabra:	aprox				lema:aprox
-id:	16	Palabra:	#asco				lema:#asco
-id:	17	Palabra:	.				lema:.
+id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 236 tokens			===
+=== 			 Tweet 224 tokens			===
 id:	1	Palabra:	cucaracha				lema:cucaracha
 id:	2	Palabra:	puede				lema:poder
 id:	3	Palabra:	vivir				lema:vivir
 id:	4	Palabra:	semanas				lema:semana
 id:	5	Palabra:	cabeza				lema:cabeza
-id:	6	Palabra:	#asco				lema:#asco
+id:	6	Palabra:	o				lema:o
 id:	7	Palabra:	.				lema:.
+id:	8	Palabra:	parece				lema:parecer
+id:	9	Palabra:	desproposito				lema:desproposito
+id:	10	Palabra:	tomadura				lema:tomadura
+id:	11	Palabra:	pelo				lema:pelo
+id:	12	Palabra:	dos				lema:dos
+id:	13	Palabra:	sigan				lema:seguir
+id:	14	Palabra:	dando				lema:dar
+id:	15	Palabra:	nota				lema:nota
+id:	16	Palabra:	campos				lema:campo
+id:	17	Palabra:	futbol				lema:futbol
+id:	18	Palabra:	.				lema:.
 
-=== 			 Tweet 237 tokens			===
-id:	1	Palabra:	parece				lema:parecer
-id:	2	Palabra:	desproposito				lema:desproposito
-id:	3	Palabra:	tomadura				lema:tomadura
-id:	4	Palabra:	pelo				lema:pelo
-id:	5	Palabra:	dos				lema:dos
-id:	6	Palabra:	sigan				lema:seguir
-id:	7	Palabra:	dando				lema:dar
-id:	8	Palabra:	nota				lema:nota
-id:	9	Palabra:	campos				lema:campo
-id:	10	Palabra:	futbol				lema:futbol
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
-
-=== 			 Tweet 238 tokens			===
+=== 			 Tweet 225 tokens			===
 id:	1	Palabra:	segundo				lema:segundo
 id:	2	Palabra:	viejo				lema:viejo
 id:	3	Palabra:	confunde				lema:confundir
 id:	4	Palabra:	puta				lema:puta
 id:	5	Palabra:	quiere				lema:querer
 id:	6	Palabra:	levantar				lema:levantar
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	.				lema:.
+id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 239 tokens			===
+=== 			 Tweet 226 tokens			===
 id:	1	Palabra:	cargan				lema:cargar
 id:	2	Palabra:	izq				lema:ir
 id:	3	Palabra:	reacciones				lema:reacción
@@ -3496,10 +3142,9 @@ id:	6	Palabra:	ahora				lema:ahora
 id:	7	Palabra:	casquería				lema:casquería
 id:	8	Palabra:	morbo				lema:morbo
 id:	9	Palabra:	ello				lema:él
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 240 tokens			===
+=== 			 Tweet 227 tokens			===
 id:	1	Palabra:	falta				lema:faltar
 id:	2	Palabra:	respeto				lema:respeto
 id:	3	Palabra:	puta				lema:puta
@@ -3511,35 +3156,29 @@ id:	8	Palabra:	katy				lema:katy
 id:	9	Palabra:	perry				lema:perry
 id:	10	Palabra:	_cantante				lema:_cantante
 id:	11	Palabra:	petes				lema:pete
-id:	12	Palabra:	#asco				lema:#asco
+id:	12	Palabra:	todos				lema:todo
 id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 241 tokens			===
-id:	1	Palabra:	#dilenoaltubienpublico				lema:#dilenoaltubienpublico
-id:	2	Palabra:	#rhianna				lema:#rhianna
-id:	3	Palabra:	cucaracha				lema:cucaracha
-id:	4	Palabra:	legalizó				lema:legalizar
-id:	5	Palabra:	tubi				lema:tubi
-id:	6	Palabra:	#rd				lema:#rd
-id:	7	Palabra:	entonces				lema:entonces
-id:	8	Palabra:	encuentras				lema:encontrar
-id:	9	Palabra:	cada				lema:cada
-id:	10	Palabra:	esquina				lema:esquina
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+=== 			 Tweet 228 tokens			===
+id:	1	Palabra:	cucaracha				lema:cucaracha
+id:	2	Palabra:	legalizó				lema:legalizar
+id:	3	Palabra:	tubi				lema:tubi
+id:	4	Palabra:	entonces				lema:entonces
+id:	5	Palabra:	encuentras				lema:encontrar
+id:	6	Palabra:	cada				lema:cada
+id:	7	Palabra:	esquina				lema:esquina
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 242 tokens			===
+=== 			 Tweet 229 tokens			===
 id:	1	Palabra:	agotado				lema:agotado
 id:	2	Palabra:	estudiar				lema:estudiar
 id:	3	Palabra:	curso				lema:curso
 id:	4	Palabra:	economía				lema:economía
 id:	5	Palabra:	quiero				lema:querer
 id:	6	Palabra:	leer				lema:leer
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	#llegandopau				lema:#llegandopau
-id:	9	Palabra:	.				lema:.
+id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 243 tokens			===
+=== 			 Tweet 230 tokens			===
 id:	1	Palabra:	además				lema:además
 id:	2	Palabra:	puta				lema:puta
 id:	3	Palabra:	tenes				lema:tener
@@ -3549,11 +3188,9 @@ id:	6	Palabra:	querer				lema:querer
 id:	7	Palabra:	cojerte				lema:cojertar
 id:	8	Palabra:	amigo				lema:amigo
 id:	9	Palabra:	novio				lema:novio
-id:	10	Palabra:	#queputasquesos				lema:#queputasquesos
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 244 tokens			===
+=== 			 Tweet 231 tokens			===
 id:	1	Palabra:	chabon				lema:chabon
 id:	2	Palabra:	mas				lema:mas
 id:	3	Palabra:	saca				lema:sacar
@@ -3562,10 +3199,9 @@ id:	5	Palabra:	foto				lema:foto
 id:	6	Palabra:	mostrar				lema:mostrar
 id:	7	Palabra:	nuevo				lema:nuevo
 id:	8	Palabra:	tattoo				lema:tattoo
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 245 tokens			===
+=== 			 Tweet 232 tokens			===
 id:	1	Palabra:	jueves				lema:jueves
 id:	2	Palabra:	dieron				lema:dar
 id:	3	Palabra:	unas				lema:uno
@@ -3577,11 +3213,9 @@ id:	8	Palabra:	guiso				lema:guiso
 id:	9	Palabra:	adentro				lema:adentro
 id:	10	Palabra:	re				lema:re
 id:	11	Palabra:	flashero				lema:flashero
-id:	12	Palabra:	#estafadores				lema:#estafadores
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 246 tokens			===
+=== 			 Tweet 233 tokens			===
 id:	1	Palabra:	andan				lema:andar
 id:	2	Palabra:	alzados				lema:alzado
 id:	3	Palabra:	calle				lema:calle
@@ -3590,10 +3224,9 @@ id:	5	Palabra:	se				lema:él
 id:	6	Palabra:	cosas				lema:cosa
 id:	7	Palabra:	degeneradas				lema:degenerado
 id:	8	Palabra:	dicen				lema:decir
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 247 tokens			===
+=== 			 Tweet 234 tokens			===
 id:	1	Palabra:	mañana				lema:mañana
 id:	2	Palabra:	pinto				lema:pinto
 id:	3	Palabra:	uñas				lema:uña
@@ -3601,20 +3234,20 @@ id:	4	Palabra:	esmalte				lema:esmalte
 id:	5	Palabra:	hace				lema:hacer
 id:	6	Palabra:	dos				lema:dos
 id:	7	Palabra:	semanas				lema:semana
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
-id:	10	Palabra:	dice				lema:decir
-id:	11	Palabra:	moscas				lema:mosca
-id:	12	Palabra:	casa				lema:casa
-id:	13	Palabra:	caso				lema:caso
-id:	14	Palabra:	moscas				lema:mosca
-id:	15	Palabra:	taza				lema:taza
-id:	16	Palabra:	café				lema:café
-id:	17	Palabra:	#asco				lema:#asco
-id:	18	Palabra:	jajaja				lema:jajajar
-id:	19	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 248 tokens			===
+=== 			 Tweet 235 tokens			===
+id:	1	Palabra:	dice				lema:decir
+id:	2	Palabra:	moscas				lema:mosca
+id:	3	Palabra:	casa				lema:casa
+id:	4	Palabra:	caso				lema:caso
+id:	5	Palabra:	moscas				lema:mosca
+id:	6	Palabra:	taza				lema:taza
+id:	7	Palabra:	café				lema:café
+id:	8	Palabra:	jajaja				lema:jajajo
+id:	9	Palabra:	.				lema:.
+
+=== 			 Tweet 236 tokens			===
 id:	1	Palabra:	quise				lema:querer
 id:	2	Palabra:	quitar				lema:quitar
 id:	3	Palabra:	zapatos				lema:zapato
@@ -3622,10 +3255,9 @@ id:	4	Palabra:	saber				lema:saber
 id:	5	Palabra:	cuanto				lema:cuanto
 id:	6	Palabra:	germenes				lema:germen
 id:	7	Palabra:	demas				lema:dema
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 249 tokens			===
+=== 			 Tweet 237 tokens			===
 id:	1	Palabra:	hoy				lema:hoy
 id:	2	Palabra:	cruce				lema:cruzar
 id:	3	Palabra:	car				lema:car
@@ -3636,11 +3268,10 @@ id:	7	Palabra:	colectivo				lema:colectivo
 id:	8	Palabra:	quejabamos				lema:quejar
 id:	9	Palabra:	oloron				lema:oloron
 id:	10	Palabra:	pata				lema:pata
-id:	11	Palabra:	jajajaja				lema:jajajaja
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	11	Palabra:	jajajaja				lema:jajajáj
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 250 tokens			===
+=== 			 Tweet 238 tokens			===
 id:	1	Palabra:	creo				lema:creer
 id:	2	Palabra:	qe				lema:qe
 id:	3	Palabra:	existe				lema:existir
@@ -3652,11 +3283,10 @@ id:	8	Palabra:	qe				lema:qe
 id:	9	Palabra:	moria				lema:morir
 id:	10	Palabra:	casan				lema:casar
 id:	11	Palabra:	natural				lema:natural
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	#viejaputaoperada				lema:#viejaputaoperada
-id:	14	Palabra:	.				lema:.
+id:	12	Palabra:	no				lema:no
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 251 tokens			===
+=== 			 Tweet 239 tokens			===
 id:	1	Palabra:	malo				lema:malo
 id:	2	Palabra:	van				lema:ir
 id:	3	Palabra:	utilizar				lema:utilizar
@@ -3664,10 +3294,9 @@ id:	4	Palabra:	ganar				lema:ganar
 id:	5	Palabra:	votos				lema:voto
 id:	6	Palabra:	sino				lema:sino
 id:	7	Palabra:	tiempo				lema:tiempo
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 252 tokens			===
+=== 			 Tweet 240 tokens			===
 id:	1	Palabra:	siento				lema:sentir
 id:	2	Palabra:	intimidada				lema:intimidado
 id:	3	Palabra:	mina				lema:mina
@@ -3675,25 +3304,19 @@ id:	4	Palabra:	deja				lema:dejar
 id:	5	Palabra:	mirar				lema:mirar
 id:	6	Palabra:	hace				lema:hacer
 id:	7	Palabra:	escenitas				lema:escenita
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	#hello				lema:#hello
-id:	10	Palabra:	.				lema:.
+id:	8	Palabra:	mi.				lema:mi.
+id:	9	Palabra:	poca				lema:poco
+id:	10	Palabra:	existan				lema:existir
+id:	11	Palabra:	hombres				lema:hombre
+id:	12	Palabra:	sólo				lema:sólo
+id:	13	Palabra:	dan				lema:dar
+id:	14	Palabra:	alas				lema:ala
+id:	15	Palabra:	mujeres				lema:mujer
+id:	16	Palabra:	saber				lema:saber
+id:	17	Palabra:	solos				lema:solo
+id:	18	Palabra:	.				lema:.
 
-=== 			 Tweet 253 tokens			===
-id:	1	Palabra:	poca				lema:poco
-id:	2	Palabra:	existan				lema:existir
-id:	3	Palabra:	hombres				lema:hombre
-id:	4	Palabra:	sólo				lema:sólo
-id:	5	Palabra:	dan				lema:dar
-id:	6	Palabra:	alas				lema:ala
-id:	7	Palabra:	mujeres				lema:mujer
-id:	8	Palabra:	saber				lema:saber
-id:	9	Palabra:	solos				lema:solo
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	#conozcouno				lema:#conozcouno
-id:	12	Palabra:	.				lema:.
-
-=== 			 Tweet 254 tokens			===
+=== 			 Tweet 241 tokens			===
 id:	1	Palabra:	gente				lema:gente
 id:	2	Palabra:	habla				lema:hablar
 id:	3	Palabra:	alguna				lema:alguno
@@ -3706,10 +3329,9 @@ id:	9	Palabra:	bromas				lema:broma
 id:	10	Palabra:	respecto				lema:respecto
 id:	11	Palabra:	fondo				lema:fondo
 id:	12	Palabra:	idea				lema:idea
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 255 tokens			===
+=== 			 Tweet 242 tokens			===
 id:	1	Palabra:	sabemos				lema:saber
 id:	2	Palabra:	sinvivir				lema:sinvivir
 id:	3	Palabra:	ahora				lema:ahora
@@ -3717,12 +3339,9 @@ id:	4	Palabra:	dicen				lema:decir
 id:	5	Palabra:	tarde				lema:tarde
 id:	6	Palabra:	rompe				lema:romper
 id:	7	Palabra:	proceso				lema:proceso
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	#amunt				lema:#amunt
-id:	10	Palabra:	#cerberusno				lema:#cerberusno
-id:	11	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 256 tokens			===
+=== 			 Tweet 243 tokens			===
 id:	1	Palabra:	cafe				lema:cafe
 id:	2	Palabra:	uni				lema:uni
 id:	3	Palabra:	malo				lema:malo
@@ -3731,10 +3350,9 @@ id:	5	Palabra:	seada				lema:seada
 id:	6	Palabra:	igual				lema:igual
 id:	7	Palabra:	cafetería				lema:cafetería
 id:	8	Palabra:	maquina				lema:maquina
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 257 tokens			===
+=== 			 Tweet 244 tokens			===
 id:	1	Palabra:	tal				lema:tal
 id:	2	Palabra:	palo				lema:palo
 id:	3	Palabra:	tal				lema:tal
@@ -3742,14 +3360,10 @@ id:	4	Palabra:	pastilla				lema:pastilla
 id:	5	Palabra:	mamá				lema:mamá
 id:	6	Palabra:	puta				lema:puta
 id:	7	Palabra:	hija				lema:hija
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	#matenlas				lema:#matenlas
-id:	10	Palabra:	#contaminacion				lema:#contaminacion
-id:	11	Palabra:	#rip				lema:#rip
-id:	12	Palabra:	#whore				lema:#whore
-id:	13	Palabra:	.				lema:.
+id:	8	Palabra:	también				lema:también
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 258 tokens			===
+=== 			 Tweet 245 tokens			===
 id:	1	Palabra:	si				lema:si
 id:	2	Palabra:	tenés				lema:tener
 id:	3	Palabra:	invasión				lema:invasión
@@ -3766,10 +3380,9 @@ id:	13	Palabra:	local				lema:local
 id:	14	Palabra:	igual				lema:igual
 id:	15	Palabra:	lleno				lema:lleno
 id:	16	Palabra:	plagas				lema:plaga
-id:	17	Palabra:	#asco				lema:#asco
-id:	18	Palabra:	.				lema:.
+id:	17	Palabra:	.				lema:.
 
-=== 			 Tweet 259 tokens			===
+=== 			 Tweet 246 tokens			===
 id:	1	Palabra:	agradezcan				lema:agradecer
 id:	2	Palabra:	whatsapp_red				lema:whatsapp_red
 id:	3	Palabra:	social				lema:social
@@ -3778,11 +3391,9 @@ id:	5	Palabra:	voz				lema:voz
 id:	6	Palabra:	chicharra				lema:chicharra
 id:	7	Palabra:	sale				lema:salir
 id:	8	Palabra:	audios				lema:audio
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 260 tokens			===
+=== 			 Tweet 247 tokens			===
 id:	1	Palabra:	inteligencia				lema:inteligencia
 id:	2	Palabra:	justa				lema:justo
 id:	3	Palabra:	pasar				lema:pasar
@@ -3794,10 +3405,9 @@ id:	8	Palabra:	elloscambia				lema:elloscambio
 id:	9	Palabra:	tema				lema:tema
 id:	10	Palabra:	aprende				lema:aprender
 id:	11	Palabra:	escribir				lema:escribir
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 261 tokens			===
+=== 			 Tweet 248 tokens			===
 id:	1	Palabra:	si				lema:si
 id:	2	Palabra:	existe				lema:existir
 id:	3	Palabra:	gente				lema:gente
@@ -3807,10 +3417,9 @@ id:	6	Palabra:	choto				lema:choto
 id:	7	Palabra:	tenes				lema:tener
 id:	8	Palabra:	choto				lema:choto
 id:	9	Palabra:	antoja				lema:antojarse
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 262 tokens			===
+=== 			 Tweet 249 tokens			===
 id:	1	Palabra:	mamones				lema:mamón
 id:	2	Palabra:	mundo				lema:mundo
 id:	3	Palabra:	conocen				lema:conocer
@@ -3821,10 +3430,9 @@ id:	7	Palabra:	dental				lema:dental
 id:	8	Palabra:	asi				lema:asi
 id:	9	Palabra:	pinches				lema:pinche
 id:	10	Palabra:	puede				lema:poder
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 263 tokens			===
+=== 			 Tweet 250 tokens			===
 id:	1	Palabra:	ir				lema:ir
 id:	2	Palabra:	calificaciones				lema:calificación
 id:	3	Palabra:	hermano				lema:hermano
@@ -3836,10 +3444,9 @@ id:	8	Palabra:	puros				lema:puro
 id:	9	Palabra:	10				lema:10
 id:	10	Palabra:	bien				lema:bien
 id:	11	Palabra:	burro				lema:burro
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 264 tokens			===
+=== 			 Tweet 251 tokens			===
 id:	1	Palabra:	móvil				lema:móvil
 id:	2	Palabra:	solo				lema:solo
 id:	3	Palabra:	trae				lema:traer
@@ -3849,12 +3456,9 @@ id:	6	Palabra:	meses				lema:mes
 id:	7	Palabra:	partido				lema:partido
 id:	8	Palabra:	_política				lema:_política
 id:	9	Palabra:	pantalla				lema:pantalla
-id:	10	Palabra:	#soyundesastre				lema:#soyundesastre
-id:	11	Palabra:	#alamierdaya				lema:#alamierdaya
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 265 tokens			===
+=== 			 Tweet 252 tokens			===
 id:	1	Palabra:	encanta				lema:encantar
 id:	2	Palabra:	caen				lema:caer
 id:	3	Palabra:	caretasgente				lema:caretasgente
@@ -3865,14 +3469,12 @@ id:	7	Palabra:	mas				lema:mas
 id:	8	Palabra:	sucia				lema:sucio
 id:	9	Palabra:	albañil				lema:albañil
 id:	10	Palabra:	ja				lema:ja
-id:	11	Palabra:	#guaso				lema:#guaso
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	carita				lema:carita
-id:	14	Palabra:	_feliz_sacando				lema:_feliz_sacando
-id:	15	Palabra:	_lengua				lema:_lengua
-id:	16	Palabra:	.				lema:.
+id:	11	Palabra:	carita				lema:carita
+id:	12	Palabra:	_feliz_sacando				lema:_feliz_sacando
+id:	13	Palabra:	_lengua				lema:_lengua
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 266 tokens			===
+=== 			 Tweet 253 tokens			===
 id:	1	Palabra:	acabo				lema:acabar
 id:	2	Palabra:	averiguar				lema:averiguar
 id:	3	Palabra:	pueden				lema:poder
@@ -3882,12 +3484,10 @@ id:	6	Palabra:	descargados				lema:descargado
 id:	7	Palabra:	paneles				lema:panel
 id:	8	Palabra:	fotos				lema:foto
 id:	9	Palabra:	diseño				lema:diseño
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	#acnl				lema:#acnl
-id:	12	Palabra:	tt				lema:tt
-id:	13	Palabra:	.				lema:.
+id:	10	Palabra:	tt				lema:tt
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 267 tokens			===
+=== 			 Tweet 254 tokens			===
 id:	1	Palabra:	puedo				lema:poder
 id:	2	Palabra:	creer				lema:creer
 id:	3	Palabra:	mariano				lema:mariano
@@ -3899,10 +3499,9 @@ id:	8	Palabra:	bizarros				lema:bizarro
 id:	9	Palabra:	marcos				lema:marco
 id:	10	Palabra:	victoria				lema:victoria
 id:	11	Palabra:	protagonistas				lema:protagonista
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 268 tokens			===
+=== 			 Tweet 255 tokens			===
 id:	1	Palabra:	q				lema:q
 id:	2	Palabra:	pasa				lema:pasar
 id:	3	Palabra:	pibes				lema:pibe
@@ -3918,10 +3517,10 @@ id:	12	Palabra:	ver				lema:ver
 id:	13	Palabra:	q				lema:q
 id:	14	Palabra:	mamadores				lema:mamador
 id:	15	Palabra:	q				lema:q
-id:	16	Palabra:	#asco				lema:#asco
+id:	16	Palabra:	son				lema:ser
 id:	17	Palabra:	.				lema:.
 
-=== 			 Tweet 269 tokens			===
+=== 			 Tweet 256 tokens			===
 id:	1	Palabra:	horrible				lema:horrible
 id:	2	Palabra:	momento				lema:momento
 id:	3	Palabra:	vida				lema:vida
@@ -3930,13 +3529,9 @@ id:	5	Palabra:	agachar				lema:agachar
 id:	6	Palabra:	cabeza				lema:cabeza
 id:	7	Palabra:	gotee				lema:gotener
 id:	8	Palabra:	nariz				lema:nariz
-id:	9	Palabra:	#odioestarenferma				lema:#odioestarenferma
-id:	10	Palabra:	#qué				lema:#qué
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	#iuck				lema:#iuck
-id:	13	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 270 tokens			===
+=== 			 Tweet 257 tokens			===
 id:	1	Palabra:	noooo				lema:noooo
 id:	2	Palabra:	jajaja				lema:jajaja
 id:	3	Palabra:	chiquito				lema:chiquito
@@ -3948,11 +3543,9 @@ id:	8	Palabra:	gris				lema:gris
 id:	9	Palabra:	verde				lema:verde
 id:	10	Palabra:	oscuro				lema:oscuro
 id:	11	Palabra:	gigante				lema:gigante
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	#traumas				lema:#traumas
-id:	14	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 271 tokens			===
+=== 			 Tweet 258 tokens			===
 id:	1	Palabra:	ahora				lema:ahora
 id:	2	Palabra:	resulta				lema:resultar
 id:	3	Palabra:	mal				lema:mal
@@ -3967,10 +3560,10 @@ id:	11	Palabra:	social				lema:social
 id:	12	Palabra:	6				lema:6
 id:	13	Palabra:	millones				lema:millón
 id:	14	Palabra:	paradosrecortes				lema:paradosrecorte
-id:	15	Palabra:	sanidadeducaciónetc#asco				lema:sanidadeducaciónetc#asco
+id:	15	Palabra:	sanidadeducaciónetc				lema:sanidadeducaciónetc
 id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 272 tokens			===
+=== 			 Tweet 259 tokens			===
 id:	1	Palabra:	acabo				lema:acabar
 id:	2	Palabra:	ver				lema:ver
 id:	3	Palabra:	viejo				lema:viejo
@@ -3986,10 +3579,9 @@ id:	12	Palabra:	hizo				lema:hacer
 id:	13	Palabra:	atras				lema:atra
 id:	14	Palabra:	toco				lema:tocar
 id:	15	Palabra:	tooooda				lema:tooooda
-id:	16	Palabra:	#asco				lema:#asco
-id:	17	Palabra:	.				lema:.
+id:	16	Palabra:	.				lema:.
 
-=== 			 Tweet 273 tokens			===
+=== 			 Tweet 260 tokens			===
 id:	1	Palabra:	bien				lema:bien
 id:	2	Palabra:	iba				lema:ir
 id:	3	Palabra:	sabado				lema:sabado
@@ -4000,23 +3592,21 @@ id:	7	Palabra:	mejore				lema:mejorar
 id:	8	Palabra:	picor				lema:picor
 id:	9	Palabra:	ojos				lema:ojo
 id:	10	Palabra:	aumento				lema:aumento
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 274 tokens			===
+=== 			 Tweet 261 tokens			===
 id:	1	Palabra:	a				lema:a
 id:	2	Palabra:	eh				lema:eh
 id:	3	Palabra:	boe				lema:boe
 id:	4	Palabra:	faltaba				lema:faltar
-id:	5	Palabra:	#asco				lema:#asco
-id:	6	Palabra:	ganas				lema:gana
-id:	7	Palabra:	salir				lema:salir
-id:	8	Palabra:	corriendo				lema:correr
-id:	9	Palabra:	sladkjlahsdja				lema:sladkjlahsdja
-id:	10	Palabra:	broncaaaaaaaaaaa				lema:broncaaaaaaaaaaa
-id:	11	Palabra:	.				lema:.
+id:	5	Palabra:	ganas				lema:gana
+id:	6	Palabra:	salir				lema:salir
+id:	7	Palabra:	corriendo				lema:correr
+id:	8	Palabra:	sladkjlahsdja				lema:sladkjlahsdja
+id:	9	Palabra:	broncaaaaaaaaaaa				lema:broncaaaaaaaaaaa
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 275 tokens			===
+=== 			 Tweet 262 tokens			===
 id:	1	Palabra:	hijo				lema:hijo
 id:	2	Palabra:	puta				lema:puta
 id:	3	Palabra:	llama				lema:llamar
@@ -4026,10 +3616,9 @@ id:	6	Palabra:	verdaderamente				lema:verdaderamente
 id:	7	Palabra:	pedo				lema:pedo
 id:	8	Palabra:	sabe				lema:saber
 id:	9	Palabra:	inventar				lema:inventar
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 276 tokens			===
+=== 			 Tweet 263 tokens			===
 id:	1	Palabra:	acabo				lema:acabar
 id:	2	Palabra:	ver				lema:ver
 id:	3	Palabra:	foto				lema:foto
@@ -4041,12 +3630,9 @@ id:	8	Palabra:	televisiva				lema:televisivo
 id:	9	Palabra:	queriendo				lema:querer
 id:	10	Palabra:	mostrar				lema:mostrar
 id:	11	Palabra:	gomas				lema:goma
-id:	12	Palabra:	#trauma				lema:#trauma
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	#chauojos				lema:#chauojos
-id:	15	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 277 tokens			===
+=== 			 Tweet 264 tokens			===
 id:	1	Palabra:	bueno				lema:buen
 id:	2	Palabra:	pues				lema:pues
 id:	3	Palabra:	da				lema:dar
@@ -4056,14 +3642,9 @@ id:	6	Palabra:	toda				lema:todo
 id:	7	Palabra:	tarde				lema:tarde
 id:	8	Palabra:	estudiando				lema:estudiar
 id:	9	Palabra:	castellano				lema:castellano
-id:	10	Palabra:	#planazodesabadotarde				lema:#planazodesabadotarde
-id:	11	Palabra:	#caca				lema:#caca
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	#twitter_red				lema:#twitter_red
-id:	14	Palabra:	socialoff				lema:socialoff
-id:	15	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 278 tokens			===
+=== 			 Tweet 265 tokens			===
 id:	1	Palabra:	asco				lema:asco
 id:	2	Palabra:	minas				lema:mina
 id:	3	Palabra:	re				lema:re
@@ -4072,11 +3653,9 @@ id:	5	Palabra:	gordas				lema:gordo
 id:	6	Palabra:	tiran				lema:tirar
 id:	7	Palabra:	placard				lema:placard
 id:	8	Palabra:	encima				lema:encima
-id:	9	Palabra:	#muchisimo				lema:#muchisimo
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 279 tokens			===
+=== 			 Tweet 266 tokens			===
 id:	1	Palabra:	saludos				lema:saludo
 id:	2	Palabra:	comandante				lema:comandante
 id:	3	Palabra:	teresa				lema:teresa
@@ -4094,38 +3673,32 @@ id:	14	Palabra:	caca				lema:caca
 id:	15	Palabra:	tras				lema:tras
 id:	16	Palabra:	caca				lema:caca
 id:	17	Palabra:	ministra				lema:ministra
-id:	18	Palabra:	acá#asco				lema:acá#asco
+id:	18	Palabra:	acá				lema:acá
 id:	19	Palabra:	.				lema:.
 
-=== 			 Tweet 280 tokens			===
+=== 			 Tweet 267 tokens			===
 id:	1	Palabra:	mierda				lema:mierda
-id:	2	Palabra:	bardea				lema:bardea
-id:	3	Palabra:	aca				lema:aca
+id:	2	Palabra:	bardea				lema:bardear
+id:	3	Palabra:	aca				lema:aco
 id:	4	Palabra:	cruza				lema:cruzar
 id:	5	Palabra:	dice				lema:decir
 id:	6	Palabra:	dioosss				lema:dioosss
 id:	7	Palabra:	gorda				lema:gordo
 id:	8	Palabra:	pelotuda				lema:pelotuda
-id:	9	Palabra:	f				lema:f
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	9	Palabra:	f.				lema:f.
+id:	10	Palabra:	codean				lema:codear
+id:	11	Palabra:	aprovechan				lema:aprovechar
+id:	12	Palabra:	tener				lema:tener
+id:	13	Palabra:	relaciones				lema:relación
+id:	14	Palabra:	corruptos				lema:corrupto
+id:	15	Palabra:	políticos				lema:político
+id:	16	Palabra:	pp				lema:pp
+id:	17	Palabra:	málaga				lema:málaga
+id:	18	Palabra:	verguenza				lema:verguenza
+id:	19	Palabra:	das				lema:dar
+id:	20	Palabra:	.				lema:.
 
-=== 			 Tweet 281 tokens			===
-id:	1	Palabra:	codean				lema:codear
-id:	2	Palabra:	aprovechan				lema:aprovechar
-id:	3	Palabra:	tener				lema:tener
-id:	4	Palabra:	relaciones				lema:relación
-id:	5	Palabra:	corruptos				lema:corrupto
-id:	6	Palabra:	políticos				lema:político
-id:	7	Palabra:	pp				lema:pp
-id:	8	Palabra:	málaga				lema:málaga
-id:	9	Palabra:	verguenza				lema:verguenza
-id:	10	Palabra:	das				lema:dar
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	#incultura				lema:#incultura
-id:	13	Palabra:	.				lema:.
-
-=== 			 Tweet 282 tokens			===
+=== 			 Tweet 268 tokens			===
 id:	1	Palabra:	estrés				lema:estrés
 id:	2	Palabra:	agobio				lema:agobio
 id:	3	Palabra:	cansancio				lema:cansancio
@@ -4137,11 +3710,10 @@ id:	8	Palabra:	esque				lema:esque
 id:	9	Palabra:	época				lema:época
 id:	10	Palabra:	examenes				lema:examen
 id:	11	Palabra:	junta				lema:junta
-id:	12	Palabra:	#pvt				lema:#pvt
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	12	Palabra:	todo				lema:todo
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 283 tokens			===
+=== 			 Tweet 269 tokens			===
 id:	1	Palabra:	luego				lema:luego
 id:	2	Palabra:	preguntan				lema:preguntar
 id:	3	Palabra:	mueve				lema:mover
@@ -4155,10 +3727,9 @@ id:	10	Palabra:	española				lema:español
 id:	11	Palabra:	jilipoyas				lema:jilipoya
 id:	12	Palabra:	volverán				lema:volver
 id:	13	Palabra:	ganar				lema:ganar
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	.				lema:.
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 284 tokens			===
+=== 			 Tweet 270 tokens			===
 id:	1	Palabra:	pocas				lema:poco
 id:	2	Palabra:	ganas				lema:gana
 id:	3	Palabra:	habeis				lema:haber
@@ -4172,10 +3743,9 @@ id:	10	Palabra:	rival				lema:rival
 id:	11	Palabra:	k				lema:k
 id:	12	Palabra:	apenas				lema:apenas
 id:	13	Palabra:	tiraba				lema:tirar
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	.				lema:.
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 285 tokens			===
+=== 			 Tweet 271 tokens			===
 id:	1	Palabra:	lástima				lema:lástima
 id:	2	Palabra:	halla				lema:hallar
 id:	3	Palabra:	tanta				lema:tanto
@@ -4183,10 +3753,9 @@ id:	4	Palabra:	gente				lema:gente
 id:	5	Palabra:	deje				lema:dejar
 id:	6	Palabra:	guiar				lema:guiar
 id:	7	Palabra:	prejuicios				lema:prejuicio
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 286 tokens			===
+=== 			 Tweet 272 tokens			===
 id:	1	Palabra:	resulta				lema:resultar
 id:	2	Palabra:	mas				lema:mas
 id:	3	Palabra:	espantoso				lema:espantoso
@@ -4194,10 +3763,9 @@ id:	4	Palabra:	ver				lema:ver
 id:	5	Palabra:	escarban				lema:escarbar
 id:	6	Palabra:	naríz				lema:naríz
 id:	7	Palabra:	publico				lema:publico
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 287 tokens			===
+=== 			 Tweet 273 tokens			===
 id:	1	Palabra:	mira				lema:mirar
 id:	2	Palabra:	guardar				lema:guardar
 id:	3	Palabra:	me				lema:yo
@@ -4209,10 +3777,9 @@ id:	8	Palabra:	10				lema:10
 id:	9	Palabra:	minutos				lema:minuto
 id:	10	Palabra:	gustaba				lema:gustar
 id:	11	Palabra:	futbol				lema:futbol
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 288 tokens			===
+=== 			 Tweet 274 tokens			===
 id:	1	Palabra:	pistoletazo				lema:pistoletazo
 id:	2	Palabra:	salida				lema:salido
 id:	3	Palabra:	temporada				lema:temporada
@@ -4222,21 +3789,16 @@ id:	6	Palabra:	conoce				lema:conocer
 id:	7	Palabra:	palabras				lema:palabra
 id:	8	Palabra:	ducha				lema:ducha
 id:	9	Palabra:	desodorante				lema:desodorante
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	#transportepublico				lema:#transportepublico
-id:	12	Palabra:	#gentecerda				lema:#gentecerda
-id:	13	Palabra:	s				lema:s
-id:	14	Palabra:	.				lema:.
-id:	15	Palabra:	gato				lema:gato
-id:	16	Palabra:	puerto				lema:puerto
-id:	17	Palabra:	mar				lema:mar
-id:	18	Palabra:	plata				lema:plata
-id:	19	Palabra:	boca				lema:boca
-id:	20	Palabra:	#asco				lema:#asco
-id:	21	Palabra:	#mishcometeunbeldent				lema:#mishcometeunbeldent
-id:	22	Palabra:	.				lema:.
+id:	10	Palabra:	s				lema:s
+id:	11	Palabra:	.				lema:.
+id:	12	Palabra:	gato				lema:gato
+id:	13	Palabra:	puerto				lema:puerto
+id:	14	Palabra:	mar				lema:mar
+id:	15	Palabra:	plata				lema:plata
+id:	16	Palabra:	boca				lema:boca
+id:	17	Palabra:	.				lema:.
 
-=== 			 Tweet 289 tokens			===
+=== 			 Tweet 275 tokens			===
 id:	1	Palabra:	va				lema:ir
 id:	2	Palabra:	enserio				lema:enserio
 id:	3	Palabra:	q				lema:q
@@ -4246,13 +3808,9 @@ id:	6	Palabra:	va				lema:ir
 id:	7	Palabra:	luz				lema:luz
 id:	8	Palabra:	m				lema:m
 id:	9	Palabra:	creo				lema:creer
-id:	10	Palabra:	#largavidaalprincipe				lema:#largavidaalprincipe
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	#melilla_ciudad				lema:#melilla_ciudad
-id:	13	Palabra:	española				lema:español
-id:	14	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 290 tokens			===
+=== 			 Tweet 276 tokens			===
 id:	1	Palabra:	enhorabuena				lema:enhorabuena
 id:	2	Palabra:	norma				lema:norma
 id:	3	Palabra:	quitar				lema:quitar
@@ -4264,11 +3822,9 @@ id:	8	Palabra:	lucís				lema:lucir
 id:	9	Palabra:	mas				lema:mas
 id:	10	Palabra:	poca				lema:poco
 id:	11	Palabra:	vergüenza				lema:vergüenza
-id:	12	Palabra:	#lamentable				lema:#lamentable
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 291 tokens			===
+=== 			 Tweet 277 tokens			===
 id:	1	Palabra:	venia				lema:venir
 id:	2	Palabra:	micro				lema:micro
 id:	3	Palabra:	lado				lema:lado
@@ -4283,10 +3839,9 @@ id:	11	Palabra:	momento				lema:momento
 id:	12	Palabra:	tiraba				lema:tirar
 id:	13	Palabra:	paquete				lema:paquete
 id:	14	Palabra:	pañuelitos				lema:pañuelito
-id:	15	Palabra:	#asco				lema:#asco
-id:	16	Palabra:	.				lema:.
+id:	15	Palabra:	.				lema:.
 
-=== 			 Tweet 292 tokens			===
+=== 			 Tweet 278 tokens			===
 id:	1	Palabra:	pregunto				lema:preguntar
 id:	2	Palabra:	tipo				lema:tipo
 id:	3	Palabra:	mujer				lema:mujer
@@ -4295,14 +3850,10 @@ id:	5	Palabra:	vestir				lema:vestir
 id:	6	Palabra:	así				lema:así
 id:	7	Palabra:	sé				lema:saber
 id:	8	Palabra:	recuerda				lema:recordar
-id:	9	Palabra:	#mcdonalds				lema:#mcdonalds
-id:	10	Palabra:	_marca				lema:_marca
-id:	11	Palabra:	provoca				lema:provocar
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	#moschino				lema:#moschino
-id:	14	Palabra:	.				lema:.
+id:	9	Palabra:	provoca				lema:provocar
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 293 tokens			===
+=== 			 Tweet 279 tokens			===
 id:	1	Palabra:	vida				lema:vida
 id:	2	Palabra:	gente				lema:gente
 id:	3	Palabra:	trabaja				lema:trabajar
@@ -4311,10 +3862,9 @@ id:	5	Palabra:	me				lema:yo
 id:	6	Palabra:	12				lema:12
 id:	7	Palabra:	s				lema:s
 id:	8	Palabra:	comamierda				lema:comamierda
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 294 tokens			===
+=== 			 Tweet 280 tokens			===
 id:	1	Palabra:	dejan				lema:dejar
 id:	2	Palabra:	roba				lema:robar
 id:	3	Palabra:	cuota				lema:cuota
@@ -4324,31 +3874,28 @@ id:	6	Palabra:	galiciaparece				lema:galiciaparece
 id:	7	Palabra:	sabes				lema:saber
 id:	8	Palabra:	va				lema:ir
 id:	9	Palabra:	mundillo				lema:mundillo
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 295 tokens			===
+=== 			 Tweet 281 tokens			===
 id:	1	Palabra:	uh				lema:uh
 id:	2	Palabra:	mañ				lema:mañ
 id:	3	Palabra:	cocina				lema:cocina
 id:	4	Palabra:	voy				lema:ir
 id:	5	Palabra:	filetear				lema:filetear
 id:	6	Palabra:	pescado				lema:pescado
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	omelette				lema:omelette
-id:	9	Palabra:	b				lema:b
-id:	10	Palabra:	.				lema:.
-id:	11	Palabra:	si				lema:si
-id:	12	Palabra:	decís				lema:decir
-id:	13	Palabra:	novio				lema:novio
-id:	14	Palabra:	bebe				lema:beber
-id:	15	Palabra:	chorrea				lema:chorrea
-id:	16	Palabra:	grasa				lema:grasa
-id:	17	Palabra:	mil				lema:mil
-id:	18	Palabra:	#asco				lema:#asco
-id:	19	Palabra:	.				lema:.
+id:	7	Palabra:	omelette				lema:omelette
+id:	8	Palabra:	b				lema:b
+id:	9	Palabra:	.				lema:.
+id:	10	Palabra:	si				lema:si
+id:	11	Palabra:	decís				lema:decir
+id:	12	Palabra:	novio				lema:novio
+id:	13	Palabra:	bebe				lema:beber
+id:	14	Palabra:	chorrea				lema:chorrea
+id:	15	Palabra:	grasa				lema:grasa
+id:	16	Palabra:	mil				lema:mil
+id:	17	Palabra:	.				lema:.
 
-=== 			 Tweet 296 tokens			===
+=== 			 Tweet 282 tokens			===
 id:	1	Palabra:	llegando				lema:llegar
 id:	2	Palabra:	casa				lema:casa
 id:	3	Palabra:	tio				lema:tio
@@ -4362,10 +3909,9 @@ id:	10	Palabra:	colegiala				lema:colegialo
 id:	11	Palabra:	porno				lema:porno
 id:	12	Palabra:	hecho				lema:hecho
 id:	13	Palabra:	daño				lema:daño
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	.				lema:.
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 297 tokens			===
+=== 			 Tweet 283 tokens			===
 id:	1	Palabra:	peor				lema:peor
 id:	2	Palabra:	artículos				lema:artículo
 id:	3	Palabra:	hoy				lema:hoy
@@ -4374,10 +3920,9 @@ id:	5	Palabra:	abc				lema:abc
 id:	6	Palabra:	consiguen				lema:conseguir
 id:	7	Palabra:	subir				lema:subir
 id:	8	Palabra:	audiencia				lema:audiencia
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 298 tokens			===
+=== 			 Tweet 284 tokens			===
 id:	1	Palabra:	vdd				lema:vdd
 id:	2	Palabra:	q				lema:q
 id:	3	Palabra:	increíble				lema:increíble
@@ -4388,39 +3933,32 @@ id:	7	Palabra:	persona				lema:persona
 id:	8	Palabra:	meter				lema:meter
 id:	9	Palabra:	moto				lema:moto
 id:	10	Palabra:	lobby				lema:lobby
-id:	11	Palabra:	#wtf				lema:#wtf
-id:	12	Palabra:	huele				lema:holer
-id:	13	Palabra:	gasolina				lema:gasolina
-id:	14	Palabra:	#asco				lema:#asco
-id:	15	Palabra:	carita				lema:carita
-id:	16	Palabra:	_desanimado				lema:_desanimado
-id:	17	Palabra:	.				lema:.
+id:	11	Palabra:	huele				lema:holer
+id:	12	Palabra:	gasolina				lema:gasolina
+id:	13	Palabra:	carita				lema:carita
+id:	14	Palabra:	_desanimado				lema:_desanimado
+id:	15	Palabra:	.				lema:.
 
-=== 			 Tweet 299 tokens			===
+=== 			 Tweet 285 tokens			===
 id:	1	Palabra:	asqueroso				lema:asqueroso
 id:	2	Palabra:	pisar				lema:pisar
 id:	3	Palabra:	mierda				lema:mierda
 id:	4	Palabra:	descalza				lema:descalzo
 id:	5	Palabra:	perros				lema:perro
 id:	6	Palabra:	mierdaaaaaaaaaaasssssssss				lema:mierdaaaaaaaaaaasssssssss
-id:	7	Palabra:	odié				lema:odiar
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	7	Palabra:	odié.				lema:odié.
 
-=== 			 Tweet 300 tokens			===
+=== 			 Tweet 286 tokens			===
 id:	1	Palabra:	audiencia				lema:audiencia
 id:	2	Palabra:	nacional				lema:nacional
 id:	3	Palabra:	ordena				lema:ordenar
 id:	4	Palabra:	hijo				lema:hijo
-id:	5	Palabra:	#tejero				lema:#tejero
-id:	6	Palabra:	reincorpore				lema:reincorporar
-id:	7	Palabra:	destino				lema:destino
-id:	8	Palabra:	tenientecoronel				lema:tenientecoronel
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	#leygc				lema:#leygc
-id:	11	Palabra:	.				lema:.
+id:	5	Palabra:	reincorpore				lema:reincorporar
+id:	6	Palabra:	destino				lema:destino
+id:	7	Palabra:	tenientecoronel				lema:tenientecoronel
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 301 tokens			===
+=== 			 Tweet 287 tokens			===
 id:	1	Palabra:	tipo				lema:tipo
 id:	2	Palabra:	persona				lema:persona
 id:	3	Palabra:	puedes				lema:poder
@@ -4432,10 +3970,9 @@ id:	8	Palabra:	gente				lema:gente
 id:	9	Palabra:	hernana				lema:hernano
 id:	10	Palabra:	soltera				lema:soltera
 id:	11	Palabra:	quedada				lema:quedado
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 302 tokens			===
+=== 			 Tweet 288 tokens			===
 id:	1	Palabra:	alguien				lema:alguien
 id:	2	Palabra:	enseñe				lema:enseñar
 id:	3	Palabra:	conjugar				lema:conjugar
@@ -4444,10 +3981,9 @@ id:	5	Palabra:	condicionales				lema:condicional
 id:	6	Palabra:	famosos				lema:famoso
 id:	7	Palabra:	x				lema:x
 id:	8	Palabra:	favor				lema:favor
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 303 tokens			===
+=== 			 Tweet 289 tokens			===
 id:	1	Palabra:	sé				lema:saber
 id:	2	Palabra:	da				lema:dar
 id:	3	Palabra:	pena				lema:pena
@@ -4457,11 +3993,10 @@ id:	6	Palabra:	circo				lema:circo
 id:	7	Palabra:	monta				lema:montar
 id:	8	Palabra:	después				lema:después
 id:	9	Palabra:	bueno				lema:buen
-id:	10	Palabra:	#isabelcarrasco				lema:#isabelcarrasco
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	10	Palabra:	sí				lema:sí
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 304 tokens			===
+=== 			 Tweet 290 tokens			===
 id:	1	Palabra:	solo				lema:solo
 id:	2	Palabra:	pasa				lema:pasar
 id:	3	Palabra:	ratos				lema:rato
@@ -4469,10 +4004,9 @@ id:	4	Palabra:	quema				lema:quema
 id:	5	Palabra:	comida				lema:comida
 id:	6	Palabra:	ratos				lema:rato
 id:	7	Palabra:	hace				lema:hacer
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 305 tokens			===
+=== 			 Tweet 291 tokens			===
 id:	1	Palabra:	podes				lema:poder
 id:	2	Palabra:	subir				lema:subir
 id:	3	Palabra:	foto				lema:foto
@@ -4482,11 +4016,10 @@ id:	6	Palabra:	depilar				lema:depilar
 id:	7	Palabra:	xppp				lema:xppp
 id:	8	Palabra:	jajajaja				lema:jajajaja
 id:	9	Palabra:	sos				lema:sos
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	piba				lema:piba
-id:	12	Palabra:	.				lema:.
+id:	10	Palabra:	piba				lema:piba
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 306 tokens			===
+=== 			 Tweet 292 tokens			===
 id:	1	Palabra:	mu				lema:mu
 id:	2	Palabra:	fuertees				lema:fuerte
 id:	3	Palabra:	indigente				lema:indigente
@@ -4500,21 +4033,16 @@ id:	10	Palabra:	expulsa				lema:expulsar
 id:	11	Palabra:	país				lema:país
 id:	12	Palabra:	xq				lema:xq
 id:	13	Palabra:	aleman				lema:aleman
-id:	14	Palabra:	q				lema:q
-id:	15	Palabra:	#asco				lema:#asco
-id:	16	Palabra:	.				lema:.
+id:	14	Palabra:	q.				lema:q.
+id:	15	Palabra:	mama				lema:mama
+id:	16	Palabra:	formas				lema:forma
+id:	17	Palabra:	explicar				lema:explicar
+id:	18	Palabra:	xq				lema:xq
+id:	19	Palabra:	descompuso				lema:descomponer
+id:	20	Palabra:	trabajo				lema:trabajo
+id:	21	Palabra:	.				lema:.
 
-=== 			 Tweet 307 tokens			===
-id:	1	Palabra:	mama				lema:mama
-id:	2	Palabra:	formas				lema:forma
-id:	3	Palabra:	explicar				lema:explicar
-id:	4	Palabra:	xq				lema:xq
-id:	5	Palabra:	descompuso				lema:descomponer
-id:	6	Palabra:	trabajo				lema:trabajo
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	.				lema:.
-
-=== 			 Tweet 308 tokens			===
+=== 			 Tweet 293 tokens			===
 id:	1	Palabra:	odio				lema:odio
 id:	2	Palabra:	qe				lema:qe
 id:	3	Palabra:	varones				lema:varón
@@ -4523,10 +4051,9 @@ id:	5	Palabra:	piso				lema:piso
 id:	6	Palabra:	mas				lema:mas
 id:	7	Palabra:	delante				lema:delante
 id:	8	Palabra:	gente				lema:gente
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 309 tokens			===
+=== 			 Tweet 294 tokens			===
 id:	1	Palabra:	feo				lema:feo
 id:	2	Palabra:	quedan				lema:quedar
 id:	3	Palabra:	manijas				lema:manija
@@ -4535,11 +4062,9 @@ id:	5	Palabra:	autos				lema:auto
 id:	6	Palabra:	pintadas				lema:pintada
 id:	7	Palabra:	d				lema:d
 id:	8	Palabra:	plateado				lema:plateado
-id:	9	Palabra:	#negritos				lema:#negritos
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 310 tokens			===
+=== 			 Tweet 295 tokens			===
 id:	1	Palabra:	posta				lema:posta
 id:	2	Palabra:	costillas				lema:costilla
 id:	3	Palabra:	pa				lema:pa
@@ -4547,10 +4072,9 @@ id:	4	Palabra:	piel				lema:piel
 id:	5	Palabra:	mierda				lema:mierda
 id:	6	Palabra:	problemas				lema:problema
 id:	7	Palabra:	pies				lema:pie
-id:	8	Palabra:	#asco				lema:#asco
-id:	9	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 311 tokens			===
+=== 			 Tweet 296 tokens			===
 id:	1	Palabra:	cuanto				lema:cuanto
 id:	2	Palabra:	mas				lema:mas
 id:	3	Palabra:	tarde				lema:tarde
@@ -4561,14 +4085,12 @@ id:	7	Palabra:	mas				lema:mas
 id:	8	Palabra:	margen				lema:margen
 id:	9	Palabra:	prensa				lema:prensa
 id:	10	Palabra:	manipular				lema:manipular
-id:	11	Palabra:	todo				lema:todo
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	desconectado				lema:desconectar
-id:	14	Palabra:	sábado				lema:sábado
-id:	15	Palabra:	2045				lema:2045
-id:	16	Palabra:	.				lema:.
+id:	11	Palabra:	desconectado				lema:desconectar
+id:	12	Palabra:	sábado				lema:sábado
+id:	13	Palabra:	2045				lema:2045
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 312 tokens			===
+=== 			 Tweet 297 tokens			===
 id:	1	Palabra:	aguante				lema:aguante
 id:	2	Palabra:	mal				lema:mal
 id:	3	Palabra:	aliento				lema:aliento
@@ -4577,10 +4099,9 @@ id:	5	Palabra:	lavate				lema:lavatir
 id:	6	Palabra:	dientes				lema:diente
 id:	7	Palabra:	lengua				lema:lengua
 id:	8	Palabra:	hablesss				lema:hablesss
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 313 tokens			===
+=== 			 Tweet 298 tokens			===
 id:	1	Palabra:	ylos				lema:ylo
 id:	2	Palabra:	gobernadores				lema:gobernador
 id:	3	Palabra:	panistas				lema:panista
@@ -4590,26 +4111,23 @@ id:	6	Palabra:	esperando				lema:esperar
 id:	7	Palabra:	pase				lema:pasar
 id:	8	Palabra:	besamanos				lema:besamano
 id:	9	Palabra:	agradecimiento				lema:agradecimiento
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 314 tokens			===
+=== 			 Tweet 299 tokens			===
 id:	1	Palabra:	tilinga				lema:tilinga
 id:	2	Palabra:	novia				lema:novia
 id:	3	Palabra:	pelotudo				lema:pelotudo
 id:	4	Palabra:	q				lema:q
-id:	5	Palabra:	aparenta				lema:aparenta
+id:	5	Palabra:	aparenta				lema:aparentar
 id:	6	Palabra:	ser				lema:ser
 id:	7	Palabra:	tirri				lema:tirri
 id:	8	Palabra:	cierre				lema:cierre
 id:	9	Palabra:	hoy				lema:hoy
 id:	10	Palabra:	verdadera				lema:verdadero
 id:	11	Palabra:	caca				lema:caca
-id:	12	Palabra:	#elgranbailando				lema:#elgranbailando
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 315 tokens			===
+=== 			 Tweet 300 tokens			===
 id:	1	Palabra:	entiendo				lema:entender
 id:	2	Palabra:	gente				lema:gente
 id:	3	Palabra:	pone				lema:poner
@@ -4618,10 +4136,9 @@ id:	5	Palabra:	tan				lema:tanto
 id:	6	Palabra:	corta				lema:corto
 id:	7	Palabra:	parece				lema:parecer
 id:	8	Palabra:	bufanda				lema:bufanda
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 316 tokens			===
+=== 			 Tweet 301 tokens			===
 id:	1	Palabra:	matan				lema:matar
 id:	2	Palabra:	tiros				lema:tiro
 id:	3	Palabra:	política				lema:política
@@ -4634,10 +4151,9 @@ id:	9	Palabra:	humanidad				lema:humanidad
 id:	10	Palabra:	cantidad				lema:cantidad
 id:	11	Palabra:	gentuza				lema:gentuza
 id:	12	Palabra:	suelta				lema:suelto
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 317 tokens			===
+=== 			 Tweet 302 tokens			===
 id:	1	Palabra:	escuela				lema:escuela
 id:	2	Palabra:	agraria				lema:agrario
 id:	3	Palabra:	bicho				lema:bicho
@@ -4647,10 +4163,9 @@ id:	6	Palabra:	años				lema:año
 id:	7	Palabra:	pudieron				lema:poder
 id:	8	Palabra:	conmigo				lema:yo
 id:	9	Palabra:	carita_feliz				lema:carita_feliz
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 318 tokens			===
+=== 			 Tweet 303 tokens			===
 id:	1	Palabra:	viviendo				lema:vivir
 id:	2	Palabra:	vida				lema:vida
 id:	3	Palabra:	k				lema:k
@@ -4662,22 +4177,20 @@ id:	8	Palabra:	vivir				lema:vivir
 id:	9	Palabra:	queda				lema:quedar
 id:	10	Palabra:	buenas				lema:buen
 id:	11	Palabra:	personas				lema:persona
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
-=== 			 Tweet 319 tokens			===
+=== 			 Tweet 304 tokens			===
 id:	1	Palabra:	veces				lema:vez
 id:	2	Palabra:	personas				lema:persona
 id:	3	Palabra:	dan				lema:dar
-id:	4	Palabra:	#asco				lema:#asco
-id:	5	Palabra:	hacen				lema:hacer
-id:	6	Palabra:	lado				lema:lado
-id:	7	Palabra:	siempre				lema:siempre
-id:	8	Palabra:	esperando				lema:esperar
-id:	9	Palabra:	llegan				lema:llegar
-id:	10	Palabra:	.				lema:.
+id:	4	Palabra:	hacen				lema:hacer
+id:	5	Palabra:	lado				lema:lado
+id:	6	Palabra:	siempre				lema:siempre
+id:	7	Palabra:	esperando				lema:esperar
+id:	8	Palabra:	llegan				lema:llegar
+id:	9	Palabra:	.				lema:.
 
-=== 			 Tweet 320 tokens			===
+=== 			 Tweet 305 tokens			===
 id:	1	Palabra:	colapso				lema:colapso
 id:	2	Palabra:	ganas				lema:gana
 id:	3	Palabra:	estudiar				lema:estudiar
@@ -4685,26 +4198,22 @@ id:	4	Palabra:	cansancio				lema:cansancio
 id:	5	Palabra:	tampoco				lema:tampoco
 id:	6	Palabra:	ganas				lema:gana
 id:	7	Palabra:	salir				lema:salir
-id:	8	Palabra:	#quéhacerenestoscasos				lema:#quéhacerenestoscasos
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	.				lema:.
+id:	8	Palabra:	.				lema:.
 
-=== 			 Tweet 321 tokens			===
-id:	1	Palabra:	#pp				lema:#pp
-id:	2	Palabra:	parodias				lema:parodia
-id:	3	Palabra:	politicas				lema:politico
-id:	4	Palabra:	mas				lema:mas
-id:	5	Palabra:	pordioseras				lema:pordiosero
-id:	6	Palabra:	peseteras				lema:pesetero
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	ojala				lema:ojala
-id:	9	Palabra:	salgais				lema:salgais
-id:	10	Palabra:	nunca				lema:nunca
-id:	11	Palabra:	mas				lema:mas
-id:	12	Palabra:	votados				lema:votar
-id:	13	Palabra:	.				lema:.
+=== 			 Tweet 306 tokens			===
+id:	1	Palabra:	parodias				lema:parodia
+id:	2	Palabra:	politicas				lema:politico
+id:	3	Palabra:	mas				lema:mas
+id:	4	Palabra:	pordioseras				lema:pordiosero
+id:	5	Palabra:	peseteras				lema:pesetero
+id:	6	Palabra:	ojala				lema:ojalar
+id:	7	Palabra:	salgais				lema:salgais
+id:	8	Palabra:	nunca				lema:nunca
+id:	9	Palabra:	mas				lema:mas
+id:	10	Palabra:	votados				lema:votar
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 322 tokens			===
+=== 			 Tweet 307 tokens			===
 id:	1	Palabra:	habla				lema:hablar
 id:	2	Palabra:	gente				lema:gente
 id:	3	Palabra:	tercera				lema:tercero
@@ -4714,10 +4223,9 @@ id:	6	Palabra:	ningún				lema:ninguno
 id:	7	Palabra:	sacrificio				lema:sacrificio
 id:	8	Palabra:	sólo				lema:sólo
 id:	9	Palabra:	populacho				lema:populacho
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 323 tokens			===
+=== 			 Tweet 308 tokens			===
 id:	1	Palabra:	odio				lema:odio
 id:	2	Palabra:	ir				lema:ir
 id:	3	Palabra:	lugares				lema:lugar
@@ -4727,10 +4235,9 @@ id:	6	Palabra:	gente				lema:gente
 id:	7	Palabra:	sentis				lema:sentir
 id:	8	Palabra:	cada				lema:cada
 id:	9	Palabra:	olorrr				lema:olorrr
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 324 tokens			===
+=== 			 Tweet 309 tokens			===
 id:	1	Palabra:	coma				lema:coma
 id:	2	Palabra:	rollito				lema:rollito
 id:	3	Palabra:	primavera				lema:primavera
@@ -4739,11 +4246,10 @@ id:	5	Palabra:	quitar				lema:quitar
 id:	6	Palabra:	deseoquien				lema:deseoquien
 id:	7	Palabra:	visto				lema:visto
 id:	8	Palabra:	ve				lema:ver
-id:	9	Palabra:	#asco				lema:#asco
-id:	10	Palabra:	dechinoquemeapetece				lema:dechinoquemeapetece
-id:	11	Palabra:	.				lema:.
+id:	9	Palabra:	dechinoquemeapetece				lema:dechinoquemeapetece
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 325 tokens			===
+=== 			 Tweet 310 tokens			===
 id:	1	Palabra:	finalizado				lema:finalizar
 id:	2	Palabra:	mañana				lema:mañana
 id:	3	Palabra:	hare				lema:hacer
@@ -4754,53 +4260,46 @@ id:	7	Palabra:	asignatura				lema:asignatura
 id:	8	Palabra:	volverá				lema:volver
 id:	9	Palabra:	aparecer				lema:aparecer
 id:	10	Palabra:	vida				lema:vida
-id:	11	Palabra:	#asco				lema:#asco
-id:	12	Palabra:	.				lema:.
+id:	11	Palabra:	.				lema:.
 
-=== 			 Tweet 326 tokens			===
+=== 			 Tweet 311 tokens			===
 id:	1	Palabra:	entiendo				lema:entender
 id:	2	Palabra:	vinchos				lema:vincho
 id:	3	Palabra:	pueden				lema:poder
 id:	4	Palabra:	ocupar				lema:ocupar
 id:	5	Palabra:	puestos				lema:puesto
 id:	6	Palabra:	siendo				lema:ser
-id:	7	Palabra:	#antidominicanos				lema:#antidominicanos
-id:	8	Palabra:	dr				lema:dr
-id:	9	Palabra:	ve				lema:ver
-id:	10	Palabra:	#asco				lema:#asco
-id:	11	Palabra:	.				lema:.
+id:	7	Palabra:	dr				lema:dr
+id:	8	Palabra:	ve				lema:ver
+id:	9	Palabra:	todo				lema:todo
+id:	10	Palabra:	.				lema:.
 
-=== 			 Tweet 327 tokens			===
+=== 			 Tweet 312 tokens			===
 id:	1	Palabra:	poca				lema:poco
 id:	2	Palabra:	verguenza				lema:verguenza
 id:	3	Palabra:	cobraran				lema:cobrar
 id:	4	Palabra:	hacer				lema:hacer
 id:	5	Palabra:	da				lema:dar
 id:	6	Palabra:	gana				lema:gana
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	.				lema:.
+id:	7	Palabra:	.				lema:.
 
-=== 			 Tweet 328 tokens			===
+=== 			 Tweet 313 tokens			===
 id:	1	Palabra:	quedan				lema:quedar
 id:	2	Palabra:	fuerzas				lema:fuerza
 id:	3	Palabra:	odiar				lema:odiar
 id:	4	Palabra:	cosas				lema:cosa
 id:	5	Palabra:	ciencias				lema:ciencia
 id:	6	Palabra:	naturaleza				lema:naturaleza
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	.				lema:.
+id:	7	Palabra:	.				lema:.
+id:	8	Palabra:	mas				lema:mas
+id:	9	Palabra:	grasa				lema:grasa
+id:	10	Palabra:	venir				lema:venir
+id:	11	Palabra:	facultad				lema:facultad
+id:	12	Palabra:	buzo				lema:buzo
+id:	13	Palabra:	6to				lema:6to
+id:	14	Palabra:	.				lema:.
 
-=== 			 Tweet 329 tokens			===
-id:	1	Palabra:	mas				lema:mas
-id:	2	Palabra:	grasa				lema:grasa
-id:	3	Palabra:	venir				lema:venir
-id:	4	Palabra:	facultad				lema:facultad
-id:	5	Palabra:	buzo				lema:buzo
-id:	6	Palabra:	6to				lema:6to
-id:	7	Palabra:	#asco				lema:#asco
-id:	8	Palabra:	.				lema:.
-
-=== 			 Tweet 330 tokens			===
+=== 			 Tweet 314 tokens			===
 id:	1	Palabra:	lastimé				lema:lastimar
 id:	2	Palabra:	codo				lema:codo
 id:	3	Palabra:	vi				lema:ver
@@ -4813,10 +4312,9 @@ id:	9	Palabra:	sentate				lema:sentate
 id:	10	Palabra:	vas				lema:ir
 id:	11	Palabra:	desmayar				lema:desmayar
 id:	12	Palabra:	jajajaja				lema:jajajaja
-id:	13	Palabra:	#asco				lema:#asco
-id:	14	Palabra:	.				lema:.
+id:	13	Palabra:	.				lema:.
 
-=== 			 Tweet 331 tokens			===
+=== 			 Tweet 315 tokens			===
 id:	1	Palabra:	lali				lema:lali
 id:	2	Palabra:	espositcarita				lema:espositcarita
 id:	3	Palabra:	_asombrado				lema:_asombrado
@@ -4828,6 +4326,5 @@ id:	8	Palabra:	lamió				lema:lamer
 id:	9	Palabra:	vaca				lema:vaca
 id:	10	Palabra:	corriste				lema:corristir
 id:	11	Palabra:	maratón				lema:maratón
-id:	12	Palabra:	#asco				lema:#asco
-id:	13	Palabra:	.				lema:.
+id:	12	Palabra:	.				lema:.
 
