@@ -63,8 +63,10 @@ input_celsius = float(input("Introduce una temperatura en grados Celsius: "))
 resultado = hacer_prediccion(modelo, input_celsius)
 print("El resultado es: " + str(resultado) + " grados Fahrenheit.")
 
+celsius_2 = np.array([-40, -10, 0, 8, 15, 22, 38], dtype=float)
+fahrenheit_2 = np.array([-40, 14, 32, 46, 59, 72, 100], dtype=float)
 # Entrenar la segunda red neuronal
-modelo2, historial2 = entrenar_red_neuronal(celsius, fahrenheit)
+modelo2, historial2 = entrenar_red_neuronal(celsius_2, fahrenheit_2)
 
 # Graficar la pérdida durante el entrenamiento de la segunda red neuronal
 plt.xlabel("# Epoca")
@@ -77,3 +79,4 @@ print("Hagamos una predicción con la segunda red neuronal:")
 input_celsius2 = float(input("Introduce una temperatura en grados Celsius: "))
 resultado2 = hacer_prediccion(modelo2, input_celsius2)
 print("El resultado de la segunda red neuronal es: " + str(resultado2) + " grados Fahrenheit.")
+
